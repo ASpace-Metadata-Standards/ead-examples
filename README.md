@@ -1,4 +1,4 @@
-# ArchivesSpace Technical Advisory Committee
+# ArchivesSpace Technical Advisory Council
 ## Metadata Standards Sub-Team
 
 ### Example Encoded Archival Description (EAD) Documents

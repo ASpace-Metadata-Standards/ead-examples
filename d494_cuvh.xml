@@ -1,0 +1,2822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://oac.cdlib.org/ents/ead.dtd">
+<ead>
+    <eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511"
+        countryencoding="iso3166-1" dateencoding="iso8601">
+        <!-- Within the eadid you need to enode the collection number and the name of the collection within the identifier and the name of the xml file. See brackets [] for places where data need to be entered -->
+        <eadid countrycode="us" mainagencycode="cu-a">PUBLIC "-//University of California, Davis::General
+            Library::Special Collections//TEXT (US::CU-A::D-494::Floyd Halleck Higgins Photographs of Mexican Sugar Beet
+            Workers)//EN" "d494_cuvh.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <!-- In titleproper encode the formal title of the finding aid, e.g. "Guide to the..." or "Inventory of the..." -->
+                <titleproper>Inventory of the Floyd Halleck Higgins Photographs of Mexican Sugar Beet
+                    Workers</titleproper>
+                <!-- Here encode the "file title."   For papers created, collected, or associated with an individual, the filing title should begin with the individual's last name, followed by the first name and optional middle initial, which should both be in parentheses: ex. Campbell (Jared) Papers.  Corporate names and family names should generally be listed as in their established form or as they appear. Use appropriate abbreviations such as Corp., Co., Inc., Misc., Dept., etc. to maintain brevity: ex. Pierce Family Papers, Crowley Maritime Corp. Records -->
+                <titleproper type="filing">Higgins (Floyd Halleck) Photographs of Mexican Sugar Beet
+                    Workers</titleproper>
+                <!-- In the auhtor field enter the name of the of person who is responsible for the intellectual content of the encoded fiding aid. -->
+                <author>Patricia C. Inouye</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Department of Special Collections</publisher>
+                <address>
+            <addressline>General Library</addressline>
+    	    <addressline>University of California, Davis</addressline>
+    	    <addressline>Davis, CA 95616-5292</addressline>
+            <addressline>Phone: (530) 752-1621</addressline>
+	    <addressline>Fax: (530) 754-5758</addressline>
+	    <addressline>Email: speccoll@ucdavis.edu</addressline>
+	  </address>
+                <date>&#x00A9; 2009</date>
+                <p>The Regents of the University of California. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <!-- The creation statement should include the name of the person who has done the encoding and the name (if diiferent) the author of source of the EAD version.  Also include the date in which the encoding was completed using ISO 8601 date format -->
+            <creation>Collection was encoded by Patricia C. Inouye: <date normal="2009-02">February
+                2009.</date></creation>
+            <langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+            <descrules>Finding aid prepared using <title>Describing Archives: a Content Standard</title></descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21">
+        <did>
+            <!-- Use orginations label attribute to note if the person(s) or body(s) acted a records "creator" or "colletor" -->
+            <origination label="Creator">
+                <!-- Choose between persname|corpname|famname to encode the name of the collection's creator(s) or collector(s).  If the name encoded has been taken from a name auhtority file use attribute source="".  If the name has been created locally, use the rules attribute to declare the descriptive standard used. -->
+                <persname rules="aacr">Higgins, Floyd Halleck, 1886-1975.</persname>
+            </origination>
+            <unittitle label="Title">Floyd Halleck Higgins Photographs of Mexican Sugar Beet Workers</unittitle>
+            <!-- Note that in the archdesc/did/unitdate the type attribute is used only when a "bulk" date is being encoded.  Use the normal attribute to provide a ISO 8601 normalized date. -->
+            <unitdate normal="1942">1942</unitdate>
+            <physdesc label="Extent">
+                <extent>0.8 linear feet; 196 prints and negatives</extent>
+                <extent type="dao">135 digital images</extent>
+            </physdesc>
+            <abstract label="Abstract">Floyd Halleck Higgins was born on May 15, 1886, in Keokuk, Iowa. After graduating
+                from Iowa State College in Ames, he moved to Chicago and western Canada to work in a variety of public
+                relations positions including Director of Public Relations, National Association of Farm Equipment
+                Manufacturers (1922-1926). Higgins moved to California in 1927 where he became the News Editor for
+                Caterpillar Tractor Company. In 1933, when Caterpillar moved its corporate headquarters to Peoria,
+                Illinois, Higgins chose to stay in California where he worked as a free-lance writer. His articles
+                appeared in Pacific Rural Press, Farm Implement News, Diesel Progress, Rice Journal, and other
+                agricultural journals. In 1942, Higgins took photographs of Mexican workers entering the United States "brought
+                in for the [sugar] beet harvest" for California Fields Crops, Inc. and as Higgins explains in a letter
+                that he tried "to catch a lot of the social side in pictures." The photographs were taken mainly in the
+                agricultural areas of the California communities of Woodland, Pleasanton, Manteca, and
+                Salinas.</abstract>
+            <!-- Physloc is required when collection is housed off site, i.e. NRLF -->
+            <physloc label="Physical location">Researchers should contact Special Collections to request collections, as
+                many are stored offsite. </physloc>
+            <repository label="Repository">
+                <corpname source="lcnaf">University of California, Davis. General Library. Dept. of Special
+                    Collections.</corpname>
+                <address>
+          <addressline>Davis, California 95616-5292</addressline>
+        </address>
+            </repository>
+            <unitid label="Collection number" repositorycode="CU-A" countrycode="us">D-494</unitid>
+            <langmaterial>Collection materials in <language langcode="eng">English.</language></langmaterial>
+        </did>
+        <bioghist>
+            <head>Biography</head>
+            <p>Floyd Halleck Higgins was born on May 15, 1886, in Keokuk, Iowa. After graduating from Iowa State College
+                in Ames, he moved to Chicago and western Canada to work in a variety of public relations positions
+                including Director of Public Relations, National Association of Farm Equipment Manufacturers
+                (1922-1926). Higgins moved to California in 1927 where he became the News Editor for Caterpillar Tractor
+                Company. He immediately found that farm machinery history "was gathered by each company's ad men when
+                they needed to get up something for a 'special number' of some publication in which its ads appeared."
+                In self defense, Higgins began collecting materials relating to the origins of combines and tractors but
+                his interests expanded to include all forms of farm mechanization.</p>
+            <p>In 1933, Caterpillar moved its corporate headquarters to Peoria, Illinois. Higgins chose to stay in
+                California where he worked as a free-lance writer. His articles appeared in <title>Pacific Rural
+                    Press</title>, <title>Farm Implement News</title>, <title>Diesel Progress</title>, <title>Rice
+                    Journal</title>, and other agricultural journals. He used every opportunity to interview "the men
+                who were there" and create an historical record supported by material in his ever-growing
+                collection.</p>
+            <p>In 1959, Higgins sold his collection of more than ninety file cabinet drawers of research materials, to
+                the University of California, Davis. The University Library hired him to remain the curator of the
+                collection, a position he held until 1972 when ill health forced him to retire. He died on February 28,
+                1975.</p>
+        </bioghist>
+        <scopecontent>
+            <head>Scope and Content</head>
+            <p>This finding aid is for the portion of the collection that is images of Mexican sugar beet workers in
+                California. </p>
+            <p>In 1942, F. Hal Higgins, a free-lance journalist and Safeway Farm Reporter, was given the job of
+                providing publicity for the Mexican workers coming into California to harvest sugar beets. This was a special,
+                informal program funded by the United States government under the Farm Security Administration. It is
+                considered the beginning of what is now called the Bracero System.</p>
+            <p>"The spontaneous and irregular migration that prevailed gave way abruptly to one that was supervised and
+                regulated by government." (<title>Merchants of Labor; the Mexican Bracero Story</title>, Ernesto
+                Galarza, 1964). The 3000 Mexican men were carefully selected by the Mexican Government, the United
+                States Government, and California Field Crops, Inc. to harvest the sugar beet crop. The sugar beet crop
+                was especially large and there was a shortage of farm workers due to World War II. Also called Stoop
+                Laborers, or Good Neighbor workers by Higgins, the Mexican workers came to top and harvest sugar
+                beets.</p>
+            <p><title>Mexican Nationals in California Agriculture 1942-1959</title>, California Department of
+                Employment, 1959, states, "World War II created conditions and demands which seriously depleted
+                California's farm manpower resources at a time when farmers were being called upon to augment production
+                of food and fiber to maintain civilian and military life...Early in 1942, California farmers faced a
+                critical labor shortage…Sugar beet growers made the first World War II request for Mexican labor..." </p>
+            <p>Higgins explained in a letter that he tried "to catch a lot of the social side in pictures." In
+                    <title>Photographing Farmworkers in California</title>, author Richard Steven Street states that
+                "Higgins followed the braceros out into the countryside, creating a highly original essay on the
+                vanguard of a labor program that would eventually entice one out of every nine Mexican men north." The
+                photographs show many aspects of the workers lives: arriving by train, building of the labor camps,
+                dining and entertainment, and working in the fields. The photographs were taken mainly in the
+                agricultural areas of the California communities of Woodland, Clarksburg, Manteca, Pleasanton, and
+                Salinas. The descriptions contained in some entries were made by F. Hal Higgins.</p>
+            <arrangement>
+                <head>Arrangement of the Collection</head>
+                <p>Arrangement of the collection is in 4 series, Mexican workers arrive in the United States, Labor camp
+                    construction, Life in the labor camps, and Harvesting the sugar beets.</p>
+            </arrangement>
+        </scopecontent>
+        <controlaccess>
+            <head>Indexing Terms</head>
+            <p>The following terms have been used to index the description of this collection in the library's online
+                public access catalog.</p>
+            <persname role="subject" rules="aacr2">Higgins, Floyd Halleck, 1886-1975--Archives.</persname>
+            <subject source="lcsh" encodinganalog="650">Migrant Agricultural Laborers--California--Pictorial
+                works</subject>
+            <subject source="lcsh" encodinganalog="650">Sugar beet industry --California--History--20th
+                Century</subject>
+            <subject source="lcsh" encodinganalog="650">Historic Buildings--California--Spreckels--Pictorial
+                works</subject>
+            <subject source="lcsh" encodinganalog="650">Documentary Photography--California</subject>
+            <corpname source="lcnaf" role="subject" encodinganalog="610">Spreckels Sugar Company</corpname>
+        </controlaccess>
+        <accessrestrict>
+            <head>Access</head>
+            <p>Collection is open for research.</p>
+        </accessrestrict>
+        <processinfo>
+            <head>Processing Information</head>
+            <p>Patricia C. Inouye processed this collection and created and encoded this finding aid.</p>
+        </processinfo>
+        <acqinfo>
+            <head>Acquisition Information</head>
+            <p>Acquired from F. Hal Higgins with generous assistance from the International Harvester Company, Deere
+                &amp; Company, and Allis-Chalmers Manufacturing Company, 1959.</p>
+        </acqinfo>
+        <prefercite>
+            <head>Preferred Citation</head>
+            <!-- Enter the title of the collection and the call number where you see []. -->
+            <p>[Identification of item], Floyd Halleck Higgins Photographs of Mexican Sugar Beet Workers, D-494,
+                Department of Special Collections, General Library, University of California, Davis.</p>
+        </prefercite>
+        <userestrict>
+            <head>Publication Rights</head>
+            <p>Copyright is protected by the copyright law, chapter 17, of the U.S. Code. All requests for permission to
+                publish or quote from manuscripts must be submitted in writing to the Head of Special Collections.
+                Permission for publication is given on behalf of the Department of Special Collections, General Library,
+                University of California, Davis as the owner of the physical items and is not intended to include or
+                imply permission of the copyright holder, which must also be obtained by the researcher.</p>
+        </userestrict>
+
+        <dsc type="combined">
+            <c01 id="D494.1" level="series">
+                <did>
+                    <unitid>Series 1.</unitid>
+                    <unittitle>Mexican workers arrive in the United States</unittitle>
+                    <unitdate normal="1942">1942</unitdate>
+                    <physdesc>
+                        <extent>25 prints and negatives</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p>Mexican workers began arriving in 1942, by informal agreement with the Mexican and United State
+                        Government. They arrived by train and were bused to their labor camps. </p>
+                </scopecontent>
+                <c02 id="D494.1.2" level="item">
+                    <did>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8s2038cf/"/>
+                        <unitid>UCD.PIC.D494.2009.0001</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Southern Pacific train, SP1275, at station with Mexican workers looking out of
+                            window </unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.1.3" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0003</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers standing in front of bus. The bus, in background, is labeled Pacific
+                            Greyhound Line</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6f59s0gw/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.4" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0004</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>Mexican workers standing in front of bus. The bus, in background, is labeled Pacific
+                            Greyhound Line</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 6 x 13 cm.</extent>
+                        </physdesc>
+                      </did>
+                    <scopecontent>
+                        <p>"Mexican national laborers arrive at Salinas, California." Description by Hal Higgins. (Photo is cropped. The bus, in the
+                            background, does not appear.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.1.5" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0007</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>A large group of Mexican workers walking down a street with a police escort</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt038nd8mv/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.6" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0011</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>Mexican workers entering Roberts Union Farm Center, [San Joaquin County], view from
+                            left of Center</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.1.7" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0012</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>Mexican workers entering Roberts Union Farm Center, [San Joaquin County], view from
+                            front of Center</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 16 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4v19r8zj/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"Hot lunch for the newly-arrived Mexicans helps the Good Neighbor idea as they arrive to work
+                            at beet topping and loading in California. Mexican officials and U.S. Government men as well
+                            as leaders in the beet sugar industry welcomed them on their Mexican workers arrival." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.1.8" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0013</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers entering Roberts Union Farm Center, [San Joaquin County], view from
+                            left of Center </unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 15 x 13 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2f59r8d1/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.9" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0014</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers getting out of truck at Roberts Union Farm Center, [San Joaquin
+                            County] </unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 16 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3d5nf132/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.10" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0015</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>Two men with a group of Mexican workers standing near Southern Pacific
+                            train</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 16 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt58703765/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.11" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0016</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Ten Mexican workers standing near trucks</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt1z09r79z/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.12" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0017</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>One Mexican worker getting into truck</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7c6039wr/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.13" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0018</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>One Mexican worker getting into truck</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.1.14" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0019</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers standing in front of a bus with some men on right moving away from
+                            photographer</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3b69r7vx/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.15" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0020</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers getting off train</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt638nf3bm/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.16" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0022</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers with Government Officials by Railway Express Agency station, Salinas,
+                            California</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt9c6038f5/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.17" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0023</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers departing from train station by bus, Salinas, California</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt9j49s206/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.18" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0024</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Last group of Mexican workers departing from train station by bus, Salinas,
+                            California</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7m3nf3sx/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.19" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0026</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Government Official with Mexican workers</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8v19s20v/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.1" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0071</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers in Galt Unified School District school bus</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 16 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7489r892/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.20" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0110</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>Three men standing outside the Roberts Union Farm Center, [San Joaquin
+                            County]</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 16 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2q2nf105/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"Chief Agriculturalist of the Holly Sugar Corp., Charles Lavis, center, with Mexican officials
+                            as they talk over the Good Neighbor policies involved in handling the 3,000 imported Mexican
+                            workers as the first trainload arrives at Stockton, Calif. On Sept 29."  Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.1.21" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0111</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>Mexican workers outside the Roberts Union Farm Center, [San Joaquin
+                            County]</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 17 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt9q2nf5gh/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.22" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0112</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>Three men, one of them, Chief Agriculturalist of the Holly Sugar Corp., Charles
+                            Lavis, center standing outside the Roberts Union Farm Center, [San Joaquin
+                            County]</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 16 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.1.23" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0113</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Three men, one of them, Chief Agriculturalist of the Holly Sugar Corp., Charles
+                            Lavis, center standing outside the Roberts Union Farm Center, [San Joaquin
+                            County]</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 17 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7m3nf3tf/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.25" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0114</unitid>
+                        <container type="box-folder" label="Box ">1:1</container>
+                        <unittitle>Three men standing next to two Holly Sugar Corp. trucks</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 17 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5g5035vb/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.1.24" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0115</unitid>
+                        <container type="box-folder" label="Box ">2:1</container>
+                        <unittitle>Mexican workers standing outside the Roberts Union Farm Center [San Joaquin
+                            County]</unittitle>
+                        <unitdate normal="1942-09">1942 Sept.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5s2036g3/"/>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="D494.2" level="series">
+                <did>
+                    <unitid>Series 2.</unitid>
+                    <unittitle>Labor camp construction</unittitle>
+                    <unitdate normal="1942">1942</unitdate>
+                    <physdesc>
+                        <extent>31 prints and negatives</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p>"Labor camps construction and refurbishing was completed before the first workers arrived. Some
+                        labor camps were old Japanese Relocation camps. There were wash houses, dining halls, and
+                        sleeping quarters." Description by Hal Higgins.
+</p>
+                </scopecontent>
+                <c02 id="D494.2.4" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0075</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Four workers entering camp building</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 19 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Mexican Sugar Beet Laborers, Weyl-Zuckerman Ranch, Stockton, Cal. Labor Camp Construction" Description by Hall Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.5" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0076</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Four workers entering camp building</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19
+ cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt0r29r6hz/"/>
+                    </did>
+                </c02>
+                <c02 id="d949.2.6" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0077</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Carpenters building a camp building</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt309nf2gm/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"Camp Construction for Mexican Sugar Beet Workers, Rindge Tract, Weyl-Zuckerman Ranch,
+                            Stockton, California." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.7" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0078</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Carpenters building a camp building, two men looking on </unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt296nd9p9/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.8" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0079</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>View of labor camp buildings from afar</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3489r92p/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.9" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0080</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>View of labor camp construction of buildings with scrap wood pile</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt438nf2rq/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.10" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0081</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>View of labor camp construction of buildings with scrap wood pile</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 19 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Camp Construction for Mexican Sugar Beet Workers, Rindge Tract, Weyl-Zuckerman Ranch,
+                            Stockton, California."  Description by Hall Higgins.</p>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="d494.2.11" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0082</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Seven Carpenters working on a building in labor camp</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8j49s1s9/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.12" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0083</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Two labor camp buildings with a man standing in front of the buildings</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8w1037j6/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.13" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0084</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>One man in front of labor camp buildings</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2w1033rh/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.14" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0085</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Several Mexican workers at wash basin in labor camp</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4c6036st/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.15" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0086</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>One labor camp building with a man standing nearby</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt25803464/"/>                        
+                    </did>
+                </c02>
+                <c02 id="D494.2.16" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0091</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>View of labor camp construction of buildings with scrap wood pile</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 19 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Old Jap[anese] labor camp all cleaned up, whitewashed and new carpentering to enclose wash
+                            stands and more showers with hot water at a beet labor camp in the San Joaquin Valley of
+                            California."  Description by Hal Higgins.</p>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.17" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0092</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Mexican worker washing himself</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Hot water for baths is important in the housing plans for Mexican workers. Here is a typical
+                            Mexican of the new Mexican workers arrivals enjoying his bath just before dinner immediately
+                            on Mexican workers arrival at his camp. Many camps have enlarged and improved their bathing
+                            and washing facilities for their beet field workers. Spreckels Sugar Company, Mexican
+                            workers, Spreckels, California." Description by Hall Higgins.</p>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.18" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0093</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Mexican worker washing himself</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Spreckels Sugar Company, Mexican workers, Spreckels, California."  Description by Hal Higgins.</p>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.19" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0094</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Mexican worker washing himself</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4v19r912/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.20" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0119</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Housing at Spreckels Sugar Company, Woodland California </unittitle>
+                        <unitdate normal="1942-11">Nov., 1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 10 x 14 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.2.21" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0120</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Housing at Spreckels Sugar Company, Woodland California </unittitle>
+                        <unitdate normal="1942-11">Nov., 1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6g5035xp/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.1" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0121</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Cookhouse at Spreckels Sugar Company, Salinas Valley, California</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"More than $100,000 in new buildings, carpentry, screens, paint, whitewash and plumbing went
+                            into Mexican beet field labor camps up and down the state to make the Good Neighbor workers
+                            more comfortable. Here is scene at the cookhouse of the Spreckels Sugar Company, Spreckels,
+                            Salinas Valley."  Description by Hal Higgins.</p><p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.2" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0122</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Cookhouse at Spreckels Sugar Company, Salinas Valley, California</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt267nf071/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"Carpenters at work rehabilitating the old Spreckels Sugar Company labor camp dining hall near
+                            the world's largest sigar [sic] beet factory in the Salinas Valley. New screening, paint,
+                            electric lights, plumbing, etc. were installed, checked or put in good working order for the
+                            workers arriving from Mexico City." Description by Hal Higgins.</p><p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.3" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0123</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Five Mexican workers standing in front of labor camp buildings, Salinas,
+                            California</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt938nf6j3"/>
+                    </did>
+                    <scopecontent>
+                        <p>"At Spreckels where the largest beet sugar factory in the world is located, arriving beet
+                            field workers from Mexico found everything whitewashed and cleaned up with new screens on
+                            the cookhouse and much carpentering and painting being done to improve housing and food
+                            sanitation." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.22" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0124</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>One man working on labor camp building at Spreckels Sugar Company, Woodland
+                            California</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 11 x 17 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.2.23" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0125</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>One man working on labor camp building at Spreckels Sugar Company, Woodland
+                            California</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7p3036xs/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.24" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0126</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>One man walking among the labor camp buildings at Spreckels Sugar Company, Woodland
+                            California</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 11 x 16 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt167nd8h8/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.25" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0154</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Five labor camp buildings at Spreckels Sugar Company, Woodland California </unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6870361d/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.26" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0155</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Man with wheelbarrow in front of labor camp buildings</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt0k4033nc/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.27" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0156</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Labor camp buildings at Spreckels Sugar Company, Woodland California</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt758038gr/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.28" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0157</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Three men building a small building at a labor camp, Spreckels Sugar Company, Woodland
+                            California</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 9 x 15 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.2.29" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0158</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Three men building a small building at a labor camp, Spreckels Sugar Company, Woodland
+                            California</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt9b69s3h4/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.2.30" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0159</unitid>
+                        <container type="box-folder" label="Box ">1:2</container>
+                        <unittitle>Labor camp buildings at Spreckels Sugar Company, Woodland California with fields in
+                            foreground</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Spreckels Sugar Company, Woodland [California] Building new housing for Mexican sugar beet
+                            workers 11-42." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.2.31" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0160</unitid>
+                        <container type="box-folder" label="Box ">2:2</container>
+                        <unittitle>Labor camp buildings at Spreckels Sugar Company, Woodland California with fields in
+                            foreground</unittitle>
+                        <unitdate normal="1942-11-24">1942 Nov. 24</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt987039tp/"/>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="D494.3" level="series">
+                <did>
+                    <unitid>Series 3.</unitid>
+                    <unittitle>Life in the labor camps</unittitle>
+                    <unitdate normal="1942">1942</unitdate>
+                    <physdesc>
+                        <extent>57 prints and negatives</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p>Mexican workers were housed in labor camps, some of which were located near Spreckels Sugar
+                        Plants in Woodland, and Salinas. There were washing facilities, cooking facilities,
+                        entertainment and church services.</p>
+                </scopecontent>
+                <c02 id="D494.3.2" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0002</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Mexican workers standing in front of church.</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt900039w9/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.3" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0005</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Mexican workers crossing street to enter church</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8h4nf4wm/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.4" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0006</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Mexican workers walking away from church</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt096nd8t8/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.5" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0008</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Mexican workers seated in an assembly room</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt167nd8gr/"/>
+                    </did>
+                    <scopecontent>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.6" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0009</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Mexican workers seated in an assembly room</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.7" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0010</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Mexican workers seated in an assembly room</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.3</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.8" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0021</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Government officials standing in front of church with police escort</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6k40383c/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.9" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0025</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Mexican workers entering church with priest at door</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6m3nf4fx/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.10" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0027</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Mexican workers leaving church</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2p30333c/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.11" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0028</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Two women holding Mexican and American flags with audience</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5s2036fk/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.12" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0029</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Two women holding Mexican and American flags with audience</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 12 x 16 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.3.13" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0030</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Two women holding Mexican and American flags</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt229034c2/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.14" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0031</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Two women holding Mexican and American flags</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.3.15" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0032</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Woman dancing on a Mexican hat</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt696nf2k2"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.16" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0033</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Woman dancing on a Mexican hat</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Mexican nationals imported to U.S. for sugar beet harvest in World War II were entertained in
+                            public theaters by artists of their own nationality in programs prepared and put on by the
+                            sugar beet industry." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.17" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0034</unitid>
+                        <container type="box-folder" label="Box ">2:3</container>
+                        <unittitle>Woman singing at microphone</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7q2nf4mg/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.18" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0035</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Woman singing at microphone</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.3.19" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0036</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Two women dancing, one on a Mexican hat</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt0t1nd8hw/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.20" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0037</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Two women dancing, one on a Mexican hat</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.3.21" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0038</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Three women entertainers facing camera</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 10 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.22" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0039</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Three women entertainers facing camera</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.23" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0040</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Three women entertainers facing camera</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.3</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.24" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0041</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Three women entertainers facing camera</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.4</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.25" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0042</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Three women entertainers facing camera</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5b69s02q/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.26" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0043</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Five women entertainers facing camera</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Mexican-American artists ready for a show put on by U.S. sugar beet industry for the imported
+                            Mexican National harvest labor."  Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.27" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0044</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Five women entertainers facing camera</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8n39s1d8/"/>
+                    </did>
+                </c02>
+                <c02 id="D404.3.28" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0045</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Two women singing at microphone</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Mexican-American entertainers ready for their act at a theater in California where the
+                            Mexican Nationals imported for sugar beet harvest are brough [brought] from camps after work
+                            hours. Description by Hal Higgins.</p>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.29" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0046</unitid>
+                        <container type="box-folder" label="Box ">1:3</container>
+                        <unittitle>Two women singing at microphone</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 10 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.30" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0047</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Two women singing at microphone</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8s2038dz/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.31" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0048</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Man playing piano</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 10 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.32" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0049</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Man playing piano</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Sugar beet Mexican Labor entertainment. World War II. Spreckels, Woodland [California]
+                            area." Description by Hal Higgins.</p>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.33" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0050</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Man playing piano</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.3</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.34" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0051</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Man playing piano</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.4</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.35" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0052</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Man playing piano</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3d5nf14k/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.57" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0061</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Three Mexican workers, holding hoes, looking at camera, near a building in
+                            Clarksburg, California</unittitle>
+                        <unitdate normal="1942-11-05">1942 Nov. 5</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt9q2nf5f0/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.55" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0064</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Six Mexican workers standing beside building with hoes</unittitle>
+                        <unitdate normal="1942-11-05">1942 Nov. 5</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt758038f7/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.1" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0074</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Group of Mexican workers with church in background</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2580345m/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.56" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0087</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Six Mexican workers standing beside building with hoes</unittitle>
+                        <unitdate normal="1942-11-05">1942 Nov. 5</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3m3nd9k1/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"Camp Construction for Mexican Sugar Beet Workers, Rindge Tract, Weyl-Zuckerman Ranch,
+                            Stockton, California." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.36" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0088</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Two Mexican workers sitting in dining hall surrounded by other Mexican
+                            workers</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2g5034zg/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"In the dining room, a pair of Mexican hand ball players relax at Pleasanton, California over
+                            hot Mexican food cooked and served by Mexicans at a beet field labor camp. Better housing,
+                            better food, electric lights, clean dry and warm sleeping quarters, buses to mass on Sunday,
+                            trips to night baseball games, and night schools, where wanted, are some of the Good
+                            Neighbor innovations for Mexican workers announced by Manager J.E. Coke of California Fields
+                            Crops, Inc. in handling 3,000 imported Mexicans arriving to harvest the record beet crop in
+                            California this fall." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.37" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0089</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Dining hall with long tables and newly arrived Mexican workers standing at the
+                            chairs</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6q2nf4cj/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.38" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0090</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Six men eating in dining hall, cook in background</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6s203778/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.39" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0095</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Two Mexican workers signing a book</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 11 x 11 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.3.40" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0096</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Two Mexican workers signing a book</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2j49r6tx/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.41" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0097</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Four Mexican workers eating in dining hall</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8f59s1m2/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.42" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0098</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Woman and young man wearing cook's aprons beside camp building</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.3.43" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0099</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Woman and young man wearing cook's aprons beside camp building</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3199r9ks/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.44" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0100</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Woman and young man, who is holding a dog, wearing cook's aprons beside camp
+                            building</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Even the Mexican boy waiter's dog is Mexican at this camp near Pleasanton. Cook and waiter
+                            pose outside the dining room as they get ready a hot dinner of nutritious Mexican dishes for
+                            the beet field hands." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.45" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0101</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Woman and young man who is holding a dog wearing cook's aprons beside camp
+                            building</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8x0nf60r/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.46" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0102</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Young Mexican man and cook at a serving area</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt087031z3/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"Happy Mexican cook and waiter ready to serve the hungry Mexican beet field workers as they
+                            arrive for dinner after a day's work and a hot shower." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.47" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0103</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Five men standing in front of a microphone, one man bowing</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.48" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0104</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Five men standing in front of a microphone, one man bowing</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.49" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0105</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Five men standing in front of a microphone, one man bowing</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.3</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.50" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0106</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Five men standing in front of a microphone, one man bowing</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 6 x 10 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.4</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.3.51" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0107</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Five men standing in front of a microphone, one man bowing</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8g5039q4/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.52" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0108</unitid>
+                        <container type="box-folder" label="Box ">1:4</container>
+                        <unittitle>Five men standing in front of a microphone</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.3.53" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0109</unitid>
+                        <container type="box-folder" label="Box ">2:4</container>
+                        <unittitle>Five men standing in front of a microphone</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt267nf06h/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.3.54" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0175</unitid>
+                        <container type="box-folder" label="Box ">3:4</container>
+                        <unittitle>Five Mexican workers in front of camp building, one worker holding a baby doll. </unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7n39s3dx/"/>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="D494.4" level="series">
+                <did>
+                    <unitid>Series 4.</unitid>
+                    <unittitle>Harvesting the sugar beets</unittitle>
+                    <unitdate normal="1942">1942</unitdate>
+                    <physdesc>
+                        <extent>83 prints and negatives</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p>The sugar beet harvest in 1942 was a bumper crop with no workers to harvest it because of World
+                        War II. California farmers asked the United States government to invite Mexico to send Mexican
+                        workers to California to help harvest the estimated 8 million hundred-pound bags of sugar beets.
+                        Three thousand workers were used to harvest the crop, topping and harvesting the sugar
+                        beets.</p>
+                </scopecontent>
+                <c02 id="D494.4.1" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0053</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Two Mexican workers harvesting sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt1t1nd9b3/"/>
+                    </did>
+                </c02>
+                <c02 id="d494.4.2" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0054</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Four Mexican workers harvesting sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt1g5036cb/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.3" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0055</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Four Mexican workers topping sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt9f59s28p/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"Topping sugar beets after they are plowed out was one of the tough stoop labor jobs that the
+                            sugar beet harvester has eliminated." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.4" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0056</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Seven Mexican workers harvesting sugar beets beside a truck </unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7s2036xf/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.5" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0057</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Three Mexican workers tossing sugar beets into truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5f59s0v8/"/>
+                    </did>
+                </c02>
+                <c02 id="dD494.4.6" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0058</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Four Mexican workers picking up sugar beets to toss into truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4v19r90j/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.7" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0059</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Three Mexican workers picking up sugar beets to toss into truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3199r9j8/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.81" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0060</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Three Mexican workers topping sugar beets in Clarksburg, California</unittitle>
+                        <unitdate normal="1942-11-05">1942 Nov. 5</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6g5035w5/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.82" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0062</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Eight Mexican workers topping sugar beets in Clarksburg,
+                            California</unittitle>
+                        <unitdate normal="1942-11-05">1942 Nov. 5</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt7f59s1k7/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.83" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0063</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>One Mexican worker topping sugar beets in Clarksburg,
+                            California</unittitle>
+                        <unitdate normal="1942-11-05">1942 Nov. 5</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2z09r6s1/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.79" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0065</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Four Mexican workers harvesting sugar beets</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4g5035hv/"/>
+                    </did>
+                   </c02>
+                <c02 id="D494.4.80" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0066</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Four Mexican workers harvesting sugar beets</unittitle>
+                        <unitdate normal="1942-10">1942 Oct.</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3p3036c8/"/>
+                    </did>
+                   </c02>
+                <c02 id="D494.4.8" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0067</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Four Mexican workers loading truck with sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt496nf1fw/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.9" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0068</unitid>
+                        <container type="box-folder" label="Box ">2:5</container>
+                        <unittitle>Four Mexican workers loading truck with sugar beets, one workers on top of truck.
+                            View from back of truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt92903941/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.10" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0069</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Four Mexican workers loading truck with sugar beets, one workers on top of truck.
+                            View from front of truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt767nf2zd/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.11" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0070</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Three Mexican workers loading truck with sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2s20349m/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.12" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0072</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Fourteen Mexican workers sitting on back of flatbed truck holding hoes</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8c6038hw/"/>
+                    </did>
+                </c02>
+                <c02 id="dD494.4.13" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0073</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Fourteen Mexican workers sitting on back of flatbed truck waving hoes</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt538nf1mg/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.14" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0116</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Five Mexican workers harvesting sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt887038dp/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.15" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0117</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Four Mexican workers harvesting sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6c6036z1/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.16" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0118</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Three trucks loaded with sugar beets entering Spreckels Sugar Company refinery,
+                            Woodland, California.</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 8 x 14 cm</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt387032fr/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.17" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0127</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Four Mexican workers tossing sugar beets into a truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt2f59r8fj/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.18" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0128</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Many Mexican workers tossing sugar beets into a truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 16 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt209nf05p/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.19" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0129</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Four Mexican workers harvesting sugar beets beside a truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt1r29r7b5/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.20" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0130</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Three Mexican workers starting to toss sugar beets into a truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt938nf6km/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.21" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0131</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Two stooping Mexican workers and one standing Mexican worker tossing sugar beets into
+                            truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6c603701/"/>
+                    </did>
+                </c02>
+                <c02 id="D949.4.22" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0132</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Max Baer leaning on a door of a truck loaded with sugar beets, business man looking
+                            on</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 8 x 13 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Spreckels Sugar Company, Woodland California." Description by Hal Higgins.</p>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.23" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0133</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Max Baer leaning on a door of a truck loaded with sugar beets, business man looking
+                            on</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 8 x 10 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Spreckels Sugar Company, Woodland California." Description by Hal Higgins.</p>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.24" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0134</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Max Baer leaning on a door of a truck loaded with sugar beets, business man looking
+                            on</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt9k4039rm/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.25" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0135</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Max Baer and Little Max sitting on a Mack truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 12 x 10 cm. </extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4g5035jc/"/>
+                    </did>
+                    <scopecontent>
+                        <p>Spreckels Sugar Company, Woodland California. Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.26" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0136</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Max Baer waving while leaning on a Mack truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6s20378s/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.27" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0137</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Max Baer standing next to a Mack truck, obtaining a receipt from the Spreckels Sugar
+                            Company</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3489r936/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.28" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0138</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Max Baer standing next to a Mack truck, obtaining a receipt from the Spreckels Sugar
+                            Company Refinery</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 8 x 9 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.4.29" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0139</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Max Baer talking with Spreckels Sugar Company executives</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 9 x 14 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.4.30" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0140</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Max Baer talking with Spreckels Sugar Company executives</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5v19r9p6/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.31" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0141</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Max Baer unloading a truck full of sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 11 x 14 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.4.32" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0142</unitid>
+                        <container type="box-folder" label="Box ">3:6</container>
+                        <unittitle>Max Baer unloading a truck full of sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt738nf5vn/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.33" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0143</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Max Baer Standing on runner of Mack truck , with business man looking on. </unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.34" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0144</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Max Baer Standing on runner of Mack Truck , with business man looking on. </unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.35" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0145</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Max Baer Standing on runner of Mack Truck , with business man looking on</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6290353n/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.63" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0146</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Five Mexican workers tossing sugar beets into a truck at Robert Barr's
+                            fields</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Mexican beet workers topping and loading sugar beets on Robert Barr's fields, Woodland,
+                            Calif., 4-42."  Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.64" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0147</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Five Mexican workers tossing sugar beets into a truck at Robert Barr's
+                            fields</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt538nf1n0/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.65" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0148</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Many Mexican workers tossing sugar beets into a truck at Robert Barr's
+                            fields</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt558037f4/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.66" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0149</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Robert Barr standing on the back of a truck with Mexican workers tossing sugar beets
+                            into the truck.</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"President Robert Barr of the Central California Beet Growers' Assoc. And his crew of Mexicans
+                            recently imported into California to save the record crop. Mr. Barr likes the Mexican labor
+                            above all other for beet field work and says his crew had no trouble learning to top and
+                            load beets under his leadership, as they averaged 3 1/2 tons the first week and went up to 4
+                            tons the second week."  Description by Hal Higgins.</p>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.67" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0150</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Robert Barr standing on the back of a truck with Mexican workers tossing sugar beets
+                            into the truck.</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 9 x 14 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Mexican beet workers topping and loading sugar beets on Robert Barr's Fields, Woodland,
+                            California, 4-42." Description by Hal Higgins. </p>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.68" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0151</unitid>
+                        <container type="box-folder" label="Box ">1:5</container>
+                        <unittitle>Robert Barr standing on the back of a truck with Mexican workers tossing sugar beets
+                            into the truck.</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 19 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Mexican beet workers topping and loading sugar beets on Robert Barr's Fields, Woodland,
+                            California, 4-42." Description by Hal Higgins.</p>
+                        <p>c.3</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.69" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0152</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Robert Barr standing on the back of a truck with Mexican workers tossing sugar beets
+                            into the truck.</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt1m3nf0xp/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.36" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0153</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Spreckels Sugar Company refinery, Salinas, California </unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5m3nf2j6/"/>
+                    </did>
+                    <scopecontent>
+                        <p>"World's greatest beet sugar processing plant at Spreckels in the Salinas Valley,
+                            [California]." Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.37" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0161</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Truck loaded with sugar beets unloading a sugar factory with sign, "Spreckels
+                            Honey-Dew Sugar", Manteca, California</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4z09r9x5/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.38" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0162</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Front entrance of Spreckels Sugar Company, Manteca, California</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 14 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5d5nf1fv/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.39" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0163</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Spreckels Sugar Company, Manteca, California</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 14 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt78703606/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.40" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0164</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Spreckels Sugar Company refinery, Woodland, California. View from top of plant
+                            showing piles of sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 14 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3199r9m9/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.74" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0165</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Sugar beet pulp being loaded into a truck, Woodland, California </unittitle>
+                        <unitdate normal="1942-10-22">1942 Oct. 22</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 10 x 14 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.4.75" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0166</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Sugar beet pulp being loaded into a truck, Woodland, California </unittitle>
+                        <unitdate normal="1942-10-22">1942 Oct. 22</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4199r909/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.76" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0167</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Line of trucks going to Spreckels Sugar Company, Woodland California </unittitle>
+                        <unitdate normal="1942-10-22">1942 Oct. 22</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.77" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0168</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Line of trucks going to Spreckels Sugar Company, Woodland California </unittitle>
+                        <unitdate normal="1942-10-22">1942 Oct. 22</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.78" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0169</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Line of trucks going to Spreckels Sugar Company, Woodland California </unittitle>
+                        <unitdate normal="1942-10-22">1942 Oct. 22</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt609nf518/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.41" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0170</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Trucks loaded with sugar beets going down a road (rear facing) to Spreckels Sugar
+                            Company [Woodland, California]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 7 x 13 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.4.42" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0171</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Trucks loaded with sugar beets going down a road (rear facing) to Spreckels Sugar
+                            Company [Woodland, California]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt358035ch/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.43" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0172</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Trucks loaded with sugar beets going down a road (front facing) to Spreckels Sugar
+                            Company [Woodland, California]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt238nf0nk/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.44" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0173</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Three trucks loaded with sugar beets entering Spreckels Sugar Company refinery,
+                            Woodland, California</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6870362x/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.45" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0174</unitid>
+                        <container type="box-folder" label="Box ">3:7</container>
+                        <unittitle>Three trucks loaded with sugar beets entering Spreckels Sugar Company refinery,
+                            Woodland, California [close view]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5g5035wv/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.46" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0176</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>International Harvester Company crawler with cultivator in a field driven by a worker
+                            [tractor facing forward]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 8 x 14 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.4.47" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0177</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>International Harvester Company crawler with cultivator in a field driven by a worker
+                            [tractor facing forward]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt4m3nf2fb/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.48" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0178</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>International Harvester Company crawler with cultivator in a field driven by a
+                            worker [close view]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt838nf3qx/"/>
+                    </did>
+                    <scopecontent>
+                        <p>Damage to center of negative</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.49" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0179</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>International Harvester Company crawler with cultivator in a field driven by a worker
+                            [tractor facing away]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 19 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.4.50" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0180</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>International Harvester Company crawler with cultivator in a field driven by a worker
+                            [tractor facing away]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt3199r9nt/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.51" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0181</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Three Mexican workers waving hoes in sugar beet field</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 18 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6n39s09m/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.52" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0182</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Three Mexican workers hoeing in a sugar beet field</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt0489r5fh/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.70" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0183</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Two Mexican workers, side by side, hoeing in a sugar beet field</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 10 x 12 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Mexican beet workers Robert Barr Fields, Woodland, California 4-42."  Description by Hal Higgins.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.71" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0184</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Two Mexican workers, side by side, hoeing in a sugar beet field</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8d5nf33k/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.72" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0185</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Two Mexican workers with back towards camera hoeing in a sugar beet field</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 id="D494.4.73" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0186</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Two Mexican workers with back towards camera hoeing in a sugar beet field</unittitle>
+                        <unitdate normal="1942-04">1942 April</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6x0nf4cv/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.53" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0187</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Two Mexican workers hoeing in a sugar beet field</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt0k4033pw/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.54" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0188</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Two Mexican workers, side by side, hoeing in a sugar beet field [One worker almost
+                            hidden]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt0h4nd9sj/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.55" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0189</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Two Mexican workers, side by side, hoeing in a sugar beet field [One worker
+                            hidden]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 14 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>"Stoop labor topping beets." Description by Hal Higgins.</p>
+                        <p>c.1</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.56" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0190</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Two Mexican workers, side by side, hoeing in a sugar beet field [One worker
+                            hidden]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 18 cm.</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>c.2</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="D494.4.57" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0191</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Two Mexican workers, side by side, hoeing in a sugar beet field [One worker
+                            hidden]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt1s203305/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.58" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0192</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Robert Barr with four Mexican workers behind truck</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt6779r95t/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.59" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0193</unitid>
+                        <container type="box-folder" label="Box ">1:6</container>
+                        <unittitle>Two Mexican workers, one with a stocking cap, hoeing sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: Gelatin Silver Print DOP: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt796nf365/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.60" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0194</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Two Mexican workers, one with a stocking cap, hoeing sugar beets [different
+                            view]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt8r29s2mh/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.61" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0195</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>Two Mexican workers, one with a stocking cap, hoeing sugar beets [second different
+                            view ]</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt5s2036hm/"/>
+                    </did>
+                </c02>
+                <c02 id="D494.4.62" level="item">
+                    <did>
+                        <unitid>UCD.PIC.D494.2009.0196</unitid>
+                        <container type="box-folder" label="Box ">3:8</container>
+                        <unittitle>One Mexican worker hoeing sugar beets</unittitle>
+                        <unitdate normal="1942">1942</unitdate>
+                        <physdesc>
+                            <extent>1 photograph: acetate negative: 13 x 19 cm.</extent>
+                        </physdesc>
+                        <dao role="http://oac.cdlib.org/arcrole/link/image" href="http://ark.cdlib.org/ark:/13030/kt0h4nd9t2/"/>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

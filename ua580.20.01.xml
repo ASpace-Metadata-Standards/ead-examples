@@ -1,0 +1,1043 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="eadcbs6-su1_mw.xsl"?> 
+    
+    <!DOCTYPE ead SYSTEM "ead.dtd" [
+
+<!ENTITY address "1400 Washington Avenue / Albany, New York 12222">
+<!ENTITY contact "For reference queries contact Grenander Department Reference staff or (518)-437-3934">
+<!ENTITY copy "&#169;">
+]>
+<ead id="ua580.20.01">
+  <eadheader audience="external" findaidstatus="edited-full-draft" langencoding="iso639-2b"
+    countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511"
+    scriptencoding="iso15924" relatedencoding="DC">
+    <eadid countrycode="US" mainagencycode="nalsu" url="http://library.albany.edu/speccoll/findaids/apap301.htm"
+      identifier="##">UA-580.20.01</eadid>
+
+    <filedesc>
+      <titlestmt>
+        <titleproper>FRIENDS OF THE LIBRARIES RECORDS, (UA-580.20.01), <date normal="1981/2006"
+            type="inclusive">1981-2006</date></titleproper>
+        <author>Katherine Demetri</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher> M. E. Grenander Department of Special Collections and Archives </publisher>
+        <address>
+              <addressline>
+                1400 Washington Avenue / Albany, New York 12222
+              </addressline>
+            </address>
+        <date type="publication"> &copy; 2012 By the University at Albany, SUNY. All rights
+          reserved. </date>
+      </publicationstmt>
+    </filedesc>
+
+    <profiledesc>
+      <creation>Katie Demetri<date normal="2012">2012</date>
+      </creation>
+      <langusage>
+        <language langcode="eng" encodinganalog="Language">English</language>
+      </langusage>
+    </profiledesc>
+
+    <revisiondesc>
+      <change>
+        <date> </date>
+        <item> </item>
+      </change>
+    </revisiondesc>
+
+  </eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>FRIENDS OF THE LIBRARIES RECORDS, <date normal="1981/2006" type="inclusive"
+          >1981-2006</date>
+      </titleproper>
+      <publisher> M. E. Grenander Department of Special Collections and Archives</publisher>
+      <date type="publication">2012</date>
+      <p>&contact;</p>
+    </titlepage>
+  </frontmatter>
+
+  <archdesc level="collection">
+    <did>
+      <head> Descriptive Summary </head>
+      <unittitle>Friends of the Libraries Records<unitdate type="inclusive" normal="1981/2006"
+          label="Date:"> 1981-2006</unitdate>
+      </unittitle>
+      <physdesc label="Physical Characteristics:"> 3.3 cubic ft. </physdesc>
+      <repository label="Repository:"> M. E. Grenander Department of Special Collections and
+        Archives, University at Albany, SUNY </repository>
+      <abstract label="Abstract:"> The Friends of the Libraries Records contain the day-to-day
+        activities of this University at Albany organization comprised of faculty, staff, alumni,
+        and community members. The collection includes agendas, minutes, correspondence, scrapbooks,
+        and community outreach materials. </abstract>
+      <langmaterial>The materials in the collection are in <language langcode="eng"
+          >English</language>.</langmaterial>
+
+      <physloc label="Storage:">The materials are located onsite in the department.</physloc>
+    </did>
+    <accessrestrict>
+      <head> Access </head>
+      <p> Access to this record group is unrestricted. </p>
+    </accessrestrict>
+    <userestrict>
+      <head> Copyright </head>
+      <p> The researcher assumes full responsibility for conforming with the laws of copyright.
+        Whenever possible, the M.E. Grenander Department of Special Collections and Archives will
+        provide information about copyright owners and other restrictions, but the legal
+        determination ultimately rests with the researcher. Requests for permission to publish
+        material from this collection should be discussed with the Head of Special Collections and
+        Archives. </p>
+    </userestrict>
+    <acqinfo>
+      <head> Acquisition Information </head>
+      <p> Anne Roberts, University Library Liason to the Friends of the Library, initially donated
+        the scrapbooks in 1989. Former President Ben-Ami Lipetz donated the majority of remaining
+        materials in 2006. </p>
+    </acqinfo>
+    <bioghist>
+      <head> Organizational History </head>
+      <p>In 1981, Anne Roberts, Assistant Director of Libraries at the University at Albany, brought
+        together a group of faculty and staff interested in supporting the libraries and this group
+        formally became the Friends of the Libraries the following year. The group welcomed alumni,
+        community residents, current and retired faculty members, and anyone interested in the
+        future of the University Libraries. The organization sponsored gifts and donations to the
+        University Libraries. As part of its efforts, the Friends of the Libraries preserved Dewey
+        Library's stained glass windows and murals in the downtown campus buildings. The Friends of
+        the Libraries created the Alice Hastings Murphy Scholarship to provide for student library
+        employees and full-time library staff members who want to become librarians and named it for
+        the former Director of Libraries from 1956 to 1970. The Friends of the Libraries' annual
+        book sale every fall funded student scholarships and awards.</p>
+
+      <p>The Friends of the Libraries also promoted community outreach. It held open talks called
+        “Wednesday Wanderings” where professors and local, prominent figures spoke about Albany’s
+        history, their own research, and other interesting topics. The organization also went on
+        historic outings in the Capital District, Historic Hudson Valley and beyond, including
+        Olana, Hyde Park, Mohonk Mountain House, Lake George, and the Glimmerglass Opera. </p>
+
+      <p>The Friends of the Libraries remained active until 2006. Presidents included: Alice
+        Hastings Murphy (1982-1985, 1992-1999), Ruth Abele (1985-1986), Ben-Ami Lipetz (1986-1988,
+        2003-2006), Kenneth Doran (1988-1992), and Charles Ciaccio (1999-2003). The Library Liasons
+        included Anne Roberts (1981-1986, 1988), Bonita Bryant (1986-1990), Dorothy Christiansen
+        (1989-2002), Roberta Armstrong (2002-2006), and Geoff Williams (2006). </p>
+
+    </bioghist>
+
+    <scopecontent>
+      <head> Scope and Content Information </head>
+      <p>This collection documents the administrative records and community outreach efforts of the
+        Friends of the Libraries. It has the organization's monthly meeting agendas and minutes as
+        well as fliers for monthly talks, annual book sales, and materials about community outings.
+        There are VHS tapes with recordings of talks held in conjunction with the University's
+        celebration of its sesquicentennial. </p>
+      <p>The collection also contains two large scrapbooks that President Anne Roberts created.
+        The scrapbooks document the Friends of the Libraries’ outreach events. These include the annual book sale as
+        well as academic talks with prominent professors of the University, such as the History
+        Department’s Sung Bok Kim and the Atmospheric Science Department’s Bernard Vonnegut. The
+        scrapbooks also contain information on Friends of the Libraries outings, with photos of Olana and Sagamor as
+        well as fliers and RSVP forms. The scrapbooks also include information about donations and
+        library support. </p>
+
+
+    </scopecontent>
+
+    <separatedmaterial encodinganalog="544 0">
+      <p>Archivists transfered a monograph <title><emph render="italic">Experiencing Albany:
+            Perspectives on a Grand City's Past</emph></title>, edited by Anne Roberts and Judith
+        VanDyk, to the book division of Special Collections. The catalogue record for the monograph
+        is included in Minerva, the University Library Catalog.</p>
+    </separatedmaterial>
+
+    <arrangement encodinganalog="351$a">
+      <head>Arrangement of the Collection</head>
+      <p>The collection is organized into the following series:</p>
+      <list type="simple">
+        <item>Series 1 - Administrative Records, 1981-2006</item>
+        <item>Series 2 - Community Outreach, 1982-2003</item>
+      </list>
+
+      <p>Series 1 and 2 are arranged alphabetically.</p>
+    </arrangement>
+
+    <!-- The controlaccess section contains the various subject headings (access points) for the collection.
+           Copy and paste to create more of them, as needed.  Use the Library of Congress Name Authority 
+           Files (lcnaf) and subject headings (lcsh), the Art and Architecture Thesaurus (aat), or other 
+           standards as applicable.  For each one, include the source attribute (for example, source="lcnaf"). 
+           If you need to use terms that aren't in any of the sources, that's fine, just set source="local" . 
+           Try to give as many access points as you can to increase the chances of 
+           researchers finding your data.  Any that you do not use, or that are not applicable, be sure 
+           to comment them out! -->
+
+    <controlaccess>
+      <head>Subject and Genre Headings</head>
+
+      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany. Friends
+        of the Libraries </corpname>
+      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany.
+        University Libraries </corpname>
+      <corpname encodinganalog="610" source="lcsh">State University of New York at Albany </corpname>
+
+      <subject encodinganalog="650" source="lcsh">Library fund raising--United States</subject>
+      <subject encodinganalog="650" source="lcsh">Library outreach programs--United States</subject>
+<subject encodinganalog="650" source="lcsh">Friends of the library--United States</subject>
+
+      <geogname encodinganalog="651" source="lcsh">Albany (N.Y.)</geogname>
+
+      <genreform encodinganalog="655" source="aat">Agendas (administrative records)</genreform>
+      <genreform encodinganalog="655" source="aat">Photographs</genreform>
+      <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+      <genreform encodinganalog="655" source="aat">Files by subject</genreform>
+      <genreform encodinganalog="655" source="aat">Minutes</genreform>
+      <genreform encodinganalog="655" source="aat">Scrapbooks</genreform>
+      <genreform encodinganalog="655" source="aat">Budgets</genreform>
+      <genreform encodinganalog="655" source="aat">Fliers (printed material)</genreform>
+    </controlaccess>
+
+
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>Preferred citation for this material is as follows:</p>
+      <p>Identification of specific item, series, box, folder, Friends of the Libraries Records,
+        1981-2006. M.E. Grenander Department of Special Collections and Archives, University
+        Libraries, University at Albany, State University of New York.</p>
+    </prefercite>
+
+    <!-- <appraisal encodinganalog="583">
+         <head>Appraisal Information</head>
+         <p>## OPT Give the value of the collection and the date appraised.</p>
+      </appraisal>-->
+
+    <!--<accruals encodinganalog="584">
+         <head>Accruals</head>
+         <p>## OPT If additions to the collection are anticipated, state when, how, how much,
+            etc.</p>
+      </accruals>-->
+
+    <dsc type="combined">
+      <head>Container List</head>
+      <!-- Start series 1-->
+      <c01 level="series">
+        <did>
+          <unittitle label="Series I"> Series 1: Administrative Records</unittitle>
+          <physdesc> 1.72 cubic ft. </physdesc>
+          <unitdate normal="1981/2006" type="inclusive">1981-2006, </unitdate>
+          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+            >Undated</unitdate>
+
+        </did>
+        <arrangement>
+          <p> Arranged alphabetically. </p>
+        </arrangement>
+        <scopecontent>
+          <p>This series contains agendas and minutes of the organization from 1981 to 2006. The
+            organization for agendas and minutes is different from 2003 to 2006 because the material
+            came to archives in its original order. In these files, there is supplemental material
+            along with administrative records. There are also multiple agendas for some months
+            because President Ben-Ami Lipetz took notes on his agenda copies (any of these will make
+            note of it in the upper right hand corner). </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981">1981</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989">1989</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991">1991</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996">1996</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999">1999</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">20</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">21</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">22</container>
+            <unittitle>Agendas and Minutes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2002">2002</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">23-24</container>
+            <unittitle>Agendas, Minutes and Supplemental Materials</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2003/2006"
+              >2003-2006</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">25</container>
+            <unittitle>Alice Murphy Scholarship</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2000">2000</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">26</container>
+            <unittitle>Awards and Donations</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/2001"
+              >1982-2001</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">27</container>
+            <unittitle>Board Members</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986/2006"
+              >1986-2006</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">28</container>
+            <unittitle>Book Bags</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/2000"
+              >1989-2000</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">29</container>
+            <unittitle>Book Marks-PR/Productions</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1996"
+              >1993-1996</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">30</container>
+            <unittitle>"25 and Going Strong"-Booklet</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2006">2006</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">31</container>
+            <unittitle>Budgets and Expenditures</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/2002"
+              >1983-2002</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">32</container>
+            <unittitle>Bylaws</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988">1988</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">33</container>
+            <unittitle>Calendars</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990/2002"
+              >1990-2002</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">34</container>
+            <unittitle>Campaign for the University Library</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">35</container>
+            <unittitle>Committee/Research Documents</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1986">1986</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">36</container>
+            <unittitle>Correspondence</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2002"
+              >1981-2002</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">37</container>
+            <unittitle>Grants, Supporting Programs</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/1998"
+              >1983-1998</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">38</container>
+            <unittitle>History</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1969">1969</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1977">1977</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1980/1983"
+              >1980-1983</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+              >Undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">39</container>
+            <unittitle>Mailing Lists</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1987/2001"
+              >1987-2001</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">40</container>
+            <unittitle>Member card</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1985">1985</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1988/1989"
+              >1988-1989</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993/1998"
+              >1993-1998</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Cassette">1</container>
+            <unittitle>New Hampshire Primary Talk, Kathleen Kendall</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996-02-22">February
+              22, 1996</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">41</container>
+            <unittitle>Newsletter</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">42</container>
+            <unittitle>Notes from ACRL Session</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989-04-21">April 21,
+              1989</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">43</container>
+            <unittitle>Potential Recruits</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          </did>
+        </c02>
+
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">44</container>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992">1992</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">45</container>
+            <unittitle>Sesquicentennial Historical Essay Contest-"The Residence Halls and their
+              Impact on Student Life"-Mary Ellen Nankes</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">46</container>
+            <unittitle>Sesquicentennial Historical Essay Contest-"A Monoloth from Humble
+              Origins"-Matthew Fredrick</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">47</container>
+            <unittitle>Sesquicentennial Historical Essay Contest-"The James Allen JR. Collegiate
+              Center: An Experiment in Undergraduate Education"-Thomas Pullyblank</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">48</container>
+            <unittitle>Sesquicentennial Historical Essay Award</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1991/1994"
+              >1991-1994</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Video-Tape">1</container>
+            <unittitle>Sesquicentennial Program 1</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-02-24">February
+              24, 1994</unitdate>
+            <physdesc>Duplicate tape exists. Event also filmed from multiple camera angles.
+              Additional video tapes depict this. </physdesc>
+          </did>
+          <scopecontent>
+            <p>Program is "History of the University at Albany," led by Professor Kendall Birr,
+              Faculty, Emeritus, Department of History.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Video-Tape">2</container>
+            <unittitle>Sesquicentennial Program 2</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-03-17">March 17,
+              1994</unitdate>
+            <physdesc>Duplicate tape exists. Event also filmed from multiple camera angles.
+              Additional video tapes depict this.</physdesc>
+          </did>
+          <scopecontent>
+            <p>Program is "New York State College for Teachers: The 1940s and and 1950s," led by Dr.
+              Theodore Fossieck, Jacquelyn Mann Gavryck, Professor M.E. Grenander, Dr. Oscar E.
+              Lanford, Professor Wallace Taylor, and Louise Hesnney Waterman.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Video-Tape">3</container>
+            <unittitle>Sesquicentennial Program 3</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-04-28">April 28,
+              1994</unitdate>
+            <physdesc>Duplicate tape exists. Event also filmed from multiple camera angles.
+              Additional video tapes depict this. </physdesc>
+          </did>
+          <scopecontent>
+            <p>Program is "State University of New York at Albany: Years of Growth and Change,
+              1960s" led by Professor Arthur Collins, Professor Randolph Gardner, Stuart Horn,
+              Professor Mauritz Johnson, Dr. Elmer Mathews, Alice Hastings Murphy, and Judy A.
+              Mysliborski.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Video-Tape">4</container>
+            <unittitle>Sesquicentennial Program 4</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-09-22">September
+              22, 1994</unitdate>
+            <physdesc>Duplicate tape exists. Event also filmed from multiple camera angles.
+              Additional video tapes depict this. </physdesc>
+          </did>
+          <scopecontent>
+            <p>Program is "Design and Construction of the Uptown Campus," led by Professor Raymond
+              Bromley, Professor Edward Crowley, Professor Thomas H. Littlefield, Robert
+              Ruckterstuhl, and Elwin Stevens.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Video-Tape">5</container>
+            <unittitle>Sesquicentennial Program 5</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-10-15">October 15,
+              1994</unitdate>
+            <physdesc>Duplicate tape exists. Event also filmed from multiple camera angles.
+              Additional video tapes depict this. </physdesc>
+          </did>
+          <scopecontent>
+            <p>Program is "The University at Albany: Changing for the 1970s and 1980s," led by
+              Professor Mark Berger, Frederick K. Brewington, Gloria DeSole, Dr. David W. Martin,
+              Professor Joan Schulz, and Victoria Zeldin.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Video-Tape">6</container>
+            <unittitle>Sesquicentennial Program 6</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-11-17">November
+              17, 1994</unitdate>
+            <physdesc>Duplicate tape exists. Event also filmed from multiple camera angles.
+              Additional video tapes depict this. </physdesc>
+          </did>
+          <scopecontent>
+            <p>Program is "Kate Stoneman, normal School Alumna and First Woman Lawyer in New York
+              State," led by Geoffrey Williams, University Arvhivist and Campus Records Officer.</p>
+          </scopecontent>
+        </c02>
+        <c02>
+          <did>
+            <container type="Video-Tape">7</container>
+            <unittitle>Sesquicentennial Programs, 1-3</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-02/1994-04"
+              >February-April 1994</unitdate>
+            <physdesc>Duplicate tape exists. Events also filmed from multiple camera angles.
+              Additional video tapes depict this. </physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Video-Tape">8</container>
+            <unittitle>Sesquicentennial Programs, 4-6</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-09/1994-11"
+              >September-November 1994</unitdate>
+            <physdesc>Duplicate tape exists. Events also filmed from multiple camera angles.
+              Additional video tapes depict this. </physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">49</container>
+            <unittitle>Source Guide</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1995">1995</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">50</container>
+            <unittitle>"Spinning Straw into Gold: A Look at Cuesta College's Friends of the
+              Library"</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999-09">September
+              1999</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">51</container>
+            <unittitle>Spring-Fall Letters</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/2001"
+              >1989-2001</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">52</container>
+            <unittitle>Student Achievement Award</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1992/2001"
+              >1992-2001</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">53</container>
+            <unittitle>Suggested Distribution List</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+              >Undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">54</container>
+            <unittitle>University at Albany Perspectives</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+              >Undated</unitdate>
+          </did>
+        </c02>
+
+
+
+      </c01>
+      <!-- Start series 2-->
+
+      <c01 level="series">
+        <did>
+          <unittitle label="Series II"> Series 2: Community Outreach</unittitle>
+          <physdesc> 1.58 ft. </physdesc>
+          <unitdate normal="1982/2003" type="inclusive">1982-2003, </unitdate>
+          <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+            >Undated</unitdate>
+
+        </did>
+        <arrangement>
+          <p> Arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent>
+          <p>This series has annual book sale promotions, brochures, outing fliers, outing photos,
+            and left over exhibit pieces on the Friends of the Libraries. This series also has
+            information on monthly talks that the Friends sponsored. These are called Community
+            Conversations or Wednesday Wanderings. Speakers of these talks included prominent
+            professors and members of the community. </p>
+        </scopecontent>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Booksale</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983/2002"
+              >1983-2002</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Brochures</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1989/1990"
+              >1989-1990</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999">1999</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3-4</container>
+            <unittitle>Comment and Interest Summary Cards</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5-7</container>
+            <unittitle>Community Conversations</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1994"
+              >1982-1994</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>Directions and Pamphlets</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+              >Undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>Exhibit</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1990">1990</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1993">1993</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1998">1998</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>Exhibit</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unittitle>Exhibit</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+              >Undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unittitle>Glimmerglass Opera Outings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1999/2003"
+              >1999-2003</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">4</container>
+            <unittitle>Library Hours</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1983">1983</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">5</container>
+            <unittitle>Interactive Media Center-Information Sheet and Orientation</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994-09">September
+              1994</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">6</container>
+            <unittitle>Outing Brochures</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+              >Undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">7</container>
+            <unittitle>Outings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="Undated"
+              >1984-2002</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="">1981-2006</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>Photographs of Outings and Lectures</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+              >Undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">9</container>
+            <unittitle>Photographs of Outings-Taken by Jacqueline A. Gavryck-Includes
+              Letter</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1981/2006"
+              >Undated</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">10</container>
+            <unittitle>Plaque</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984">1984</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Flat-File">1</container>
+            <unittitle>Proclamation, Albany, New York-Mayor Jennings</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2006-05-12">May 12,
+              2006</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Oversized">1</container>
+            <unittitle>Scrapbook 1</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982/1983"
+              >1982-1983</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Oversized">2</container>
+            <unittitle>Scrapbook 2</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1986"
+              >1984-1986</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">11</container>
+            <unittitle>Library Tour</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1997">1997</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">12</container>
+            <unittitle>University at Albany Libraries-Updates and Progress</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1994">1994</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1996/1998"
+              >1996-1998</unitdate>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="2001">2001</unitdate>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">13</container>
+            <unittitle>Volunteers</unittitle>
+            <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1982">1982</unitdate>
+          </did>
+        </c02>
+      </c01>
+
+    </dsc>
+  </archdesc>
+</ead>

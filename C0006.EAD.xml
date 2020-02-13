@@ -1,0 +1,2932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     audience="external">
+    <eadheader countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+        <eadid countrycode="US"
+             mainagencycode="US-NjP"
+             url="http://arks.princeton.edu/ark:/88435/2n49t1707"
+             urn="ark:/88435/2n49t1707">C0006</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>John James Audubon Collection, <date normal="1788/1969" type="inclusive">1788-1969</date>: Finding Aid</titleproper>
+            </titlestmt>
+            <publicationstmt id="rbscAddress">
+                <publisher>Princeton University Library. Special Collections.</publisher>
+                <address>
+                    <addressline>Manuscripts Division</addressline>
+                    <addressline>One Washington Road</addressline>
+                    <addressline>Princeton, New Jersey 08544 USA</addressline>
+                    <addressline>Phone: (609) 258-3184</addressline>
+                    <addressline>Fax: (609) 258-2324</addressline>
+                    <addressline>rbsc@princeton.edu</addressline>
+                    <addressline>http://www.princeton.edu/~rbsc</addressline>
+                </address>
+                <date type="publication" normal="1999">1999</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Machine-readable finding aid encoded in EAD 2002 by Techbooks and Cristela
+                García-Spitz on <date normal="2007-04-27">April 27, 2007</date>. Created from MARC
+                record via MarcEdit and XSL stylesheets in 2007. </creation>
+            <langusage>
+                <language langcode="eng"/>
+            </langusage>
+            <descrules>Finding aid content adheres to that prescribed by <emph render="italic">Describing Archives: A Content Standard.</emph>
+            </descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date normal="2012-05-02">2012-05-02T13:46:30.494-04:00</date>
+                <item>Run through PULFA 2.0 normalization routines.</item>
+            </change>
+            <change>
+                <date normal="2014-03-26">2014-03-26T14:01:06.557-04:00</date>
+                <item>Run through PULFA 2.0 normalization routines.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc type="findingaid" level="collection" relatedencoding="marc21">
+        <did>
+            <unitid type="collection" countrycode="US" repositorycode="US-NjP">C0006</unitid>
+            <repository id="mss">
+                <corpname source="viaf" authfilenumber="http://viaf.org/viaf/168350386">Princeton University Library. Special Collections.</corpname>
+                <subarea>Manuscripts Division</subarea>
+                <address>
+                    <addressline>One Washington Road</addressline>
+                    <addressline>Princeton, New Jersey 08544 USA</addressline>
+                </address>
+            </repository>
+            <unittitle>John James Audubon Collection</unittitle>
+            <unitdate normal="1788/1969" type="inclusive">1788-1969</unitdate>
+            <physdesc>
+                <extent>3.3 linear feet</extent>
+                <extent unit="boxes">6 boxes</extent>
+                <extent unit="volumes">6 bound volumes</extent>
+            </physdesc>
+            <origination>
+                <persname source="viaf"
+                      role="cre"
+                      authfilenumber="http://viaf.org/viaf/14765625">Audubon, John James,
+                    1785-1851.</persname>
+            </origination>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <abstract>John James Audubon was a nineteenth century ornithologist, artist, and
+                naturalist who published his illustrations of American birds and American
+                quadrupeds. This collection includes several original manuscripts, transcripts of
+                manuscripts, photostats, and other printed material related to Audubon.</abstract>
+            <physloc type="code">mss</physloc>
+        </did>
+        <bioghist>
+            <p>John James Audubon was an ornithologist, artist, and naturalist. He was
+                illegitimately born to a French slave trader and a Creole woman on April 26, 1785 in
+                Les Cayes, Saint-Domingue in the West Indies, or what is now Haiti. Later in his
+                childhood he moved to France, and when he was 18 moved to the United States. Audubon
+                began to develop an interest in North American birds as he unsuccessfully moved
+                through careers as a mine owner, a shopkeeper, and a businessman. Eventually
+                settling into whatever odd jobs he could obtain, Audubon began seeking a printer in
+                Europe to publish his drawings of American birds. In 1838, Audubon finally published
+                his <emph render="italic">The Birds of America</emph> through publisher Robert
+                Havell of London. From 1839 to his death on January 27, 1851, Audubon remained
+                primarily in New York, working on another edition of his book and a new book, <emph render="italic">Viviparous Quadrupeds of North America</emph>, with his
+                sons.</p>
+        </bioghist>
+        <descgrp id="dacs3">
+            <scopecontent>
+                <p>This collection consists of original manuscripts, photostats and transcripts of
+                    additional manuscripts, and printed material relating to Audubon, his life and
+                    work. Original manuscripts include several descriptions used in his <emph render="italic">Ornithological Biography</emph> (Edinburgh: A. Black,
+                    1831-1839); manuscript descriptions to accompany plates 1-7, 10, 13-17, 19, 23,
+                    25, 28, 31-32, 34, 36, 38, 40-41, and 45 in his <emph render="italic">Viviparous
+                        Quadrupeds of North America</emph> (New York: J. J. Audubon, 1845-1848); and
+                    over 50 letters by Audubon to his wife (Lucy Bakewell Audubon), his sons (John
+                    Woodhouse and Victor Gifford Audubon), Robert Havell (the English engraver of
+                        <emph render="italic">Birds of America</emph>), and others. In addition,
+                    there are original letters by Mrs. Audubon, his sons, John and Julia Bachman,
+                    members of the Bakewell family, and Francis Herrick.</p>
+                <p>More than 30 photostats and and 6 bound volumes of Howard Corning's transcripts
+                    extend the collection's coverage of Audubon's correspondence. Subject files of
+                    printed material include other Audubon exhibitions, Audubon's life in Florida,
+                    Robert Havell, portraits by Audubon, portraits of Audubon, and Mill Grove,
+                    Audubon's Pennsylvania estate. One box is completely devoted to Princeton's 1959
+                    comprehensive Audubon exhibition, related correspondence and research
+                    material.</p>
+            </scopecontent>
+        </descgrp>
+        <descgrp id="dacs4">
+            <accessrestrict type="open">
+                <p>Collection is open for research use.</p>
+            </accessrestrict>
+            <userestrict>
+            <p>Single photocopies may be made for research purposes. No further photoduplication of
+               copies of material in the collection can be made when Princeton University Library
+               does not own the original. Inquiries regarding publishing material from the
+               collection should be directed to RBSC Public Services staff at rbsc@princeton.edu.
+               The library has no information on the status of literary rights in the collection and
+               researchers are responsible for determining any questions of copyright.</p>
+         </userestrict>
+        </descgrp>
+        <descgrp id="dacs5">
+            <acqinfo>
+                <p>Letters purchased at Sotheby sale, July 2 1962. 10 additional letters purchased
+                    from Mike Papantonio. Drawings gifted in 1964/65. Transcripts gifted by Carl W.
+                    Buckheister.</p>
+            </acqinfo>
+        <appraisal>
+            <p>No appraisal information is available.</p>
+         </appraisal>
+      </descgrp>
+        <descgrp id="dacs6">
+            <altformavail>
+                <p>Publications: Audubon's <emph render="italic">Ornithological Biography</emph>
+                    (Edinburgh: A. Black, 1831-1839) and <emph render="italic">Viviparous Quadrapeds
+                        of North America</emph> (New York: J. J. Audubon, 1845-1848); <emph render="italic">Letters of John James Audbon</emph>, edited by Howard
+                    Corning (1930).</p>
+            </altformavail>
+        </descgrp>
+        <descgrp id="dacs7">
+            <prefercite>
+                <p>Identification of specific item; Date (if known); John James Audubon Collection;
+                    Box and Folder Number; Special Collections,
+                    Princeton University Library.</p>
+            </prefercite>
+            <processinfo type="processing">
+                <p>Biography written by Alyxandra Cullen, '09.</p>
+            </processinfo>
+            <bibliography>
+                <p>The following sources were consulted during preparation of biographical note:
+                    Encyclopedia Britannica Online.</p>
+            </bibliography>
+        </descgrp>
+        
+
+
+        <controlaccess>
+            <persname source="lcnaf">Audubon, John James,
+                1785-1851 -- Manuscripts.</persname>
+            <persname source="lcnaf">Audubon, John James,
+                1785-1851 -- Exhibitions.</persname>
+            <persname source="viaf" authfilenumber="http://viaf.org/viaf/33337252">Audubon, Lucy Green Bakewell,
+                1788-1874.</persname>
+            <subject source="lcsh">Mammals -- United States --
+                19th century.</subject>
+            <subject source="lcsh">Ornithology -- United States
+                -- 19th century.</subject>
+            <occupation source="lcsh">Artists -- United States -- 19th
+                century.</occupation>
+            <occupation source="lcsh">Ornithologists -- United States -- 19th
+                century.</occupation>
+            <subject source="local"
+                  encodinganalog="690"
+                  rules="local"
+                  authfilenumber="t14">Art
+                history</subject>
+            <subject source="local"
+                  encodinganalog="690"
+                  rules="local"
+                  authfilenumber="t31">History
+                of science</subject>
+        </controlaccess>
+        <dsc type="combined">
+            <c id="C0006_c0001" level="series">
+                <did>
+                    <unittitle>Series 1: Oversize Writings</unittitle>
+                    <unitdate>dates not examined</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">5 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p> Consists of oversized writings of descriptions used in "Ornithological
+                        Biography," III and IV. </p>
+                </scopecontent>
+                <arrangement>
+                    <p>Arranged by their order in the Ornithological Biography.</p>
+                </arrangement>
+                <c level="file" id="C0006_c0002">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i1">1</container>
+                        <unittitle>AMs [photostat], "The Wreckers of Florida," episode, <emph render="italic">Ornithological Biography</emph>., III,
+                            158-163</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0003">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i1">2</container>
+                        <unittitle>AMs [photostat], "Visits to &amp; from Thomas Bewick," episode,
+                                <emph render="italic">Ornithological Biography</emph>., III,
+                            300-304</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0004">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i1">3</container>
+                        <unittitle>AMs [photostat], "A Tough Walk for a Youth," episode, <emph render="italic">Ornithological Biography.</emph>, III,
+                            371-375</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0005">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i1">4</container>
+                        <unittitle>AMs, "Purple Gallinule," <emph render="italic">Ornithological
+                                Biography.</emph>, IV, 37-42</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0006">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i1">5</container>
+                        <unittitle>AMs, "Glossy Ibis," <emph render="italic">Ornithological
+                                Biography.</emph>, IV, 608-611</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+            <c id="C0006_c0007" level="series">
+                <did>
+                    <unittitle>Series 2: Oversize Letters</unittitle>
+                    <unitdate normal="1831-03-02/1840-04-05" type="inclusive">1831 March 2-1840
+                        April 5</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">5 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p> Consists primarily of correspondence to Robert Havell and Mrs. Audubon,
+                        1831-1834. </p>
+                </scopecontent>
+                <arrangement>
+                    <p>Arranged chronologically.</p>
+                </arrangement>
+                <c level="file" id="C0006_c0008">
+                    <did>
+                        <unittitle>Audubon, John James</unittitle>
+                        <unitdate normal="1831-03-02/1840-04-05" type="inclusive">1831 March 2-1840
+                            April 5</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">5 folders</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="C0006_c0009">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i1">6</container>
+                            <unittitle>ALS to Robert Havell, with instructions for re-engraving
+                                legends, Edinburgh</unittitle>
+                            <unitdate normal="1831-03-02">1831 March 2</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0010">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i1">7</container>
+                            <unittitle>ALS [photostat] to Robert Havell, Edinburgh</unittitle>
+                            <unitdate normal="1831-03-02">1831 March 2</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Contains instructions for re-engraving legends. [Photocopy of B6 F6
+                                above.]</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0011">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i1">8</container>
+                            <unittitle>ALS to Mrs. Audubon, Manchester</unittitle>
+                            <unitdate normal="1834-09-05">1834 September 5</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0012">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i1">9</container>
+                            <unittitle>ALS to Mrs. Audubon, Liverpool</unittitle>
+                            <unitdate type="inclusive" normal="1834-09-13/1834-09-16">1834 September
+                                13-16</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0013">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i1">10</container>
+                            <unittitle>ALS to John Woodhouse Audubon, Washington, D.C.</unittitle>
+                            <unitdate type="inclusive" normal="1840-04-03/1840-04-05">1840 April
+                                3-5</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="C0006_c0014" level="series">
+                <did>
+                    <unittitle>Series 3: <emph render="italic">Ornithological Biography</emph>
+                    </unittitle>
+                    <unitdate>dates not examined</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">2 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p> Consists of manuscripts of "Great Cormorant" and "Glossy Ibis." </p>
+                </scopecontent>
+                <arrangement>
+                    <p>Arranged by their order in the Ornithological Biography.</p>
+                </arrangement>
+                <c level="file" id="C0006_c0015">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">1</container>
+                        <unittitle>AMs, "Great Cormorant," note, cf. <emph render="italic">Ornithological Biography.</emph> III, 458-469</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0016">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">2</container>
+                        <unittitle>AMs [photostat], "Glossy Ibis" revised version, <emph render="italic">Ornithological Biography.</emph> IV,
+                            608-611</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>[Original in possession of Mrs. Wharton Sinkler, 631 East Garvers Lane,
+                            Philadelphia]</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="C0006_c0017" level="series">
+                <did>
+                    <unittitle>Series 4: <emph render="italic">The Viviparous Quadrupeds of North
+                            America</emph> Vol. I</unittitle>
+                    <unitdate normal="1846/1846">1846</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">5 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p>These descriptive notes by J. J. Audubon, in his hand, were used by John
+                        Bachman in preparing the text for the <emph render="italic">Quadrupeds</emph>, first printed in three volumes (1846, 1851, 1854),
+                        to accompany the large folio plates (issued in three volumes 1845-1848; 150
+                        plates in all). Comparison of these manuscripts with the printed text shows
+                        that Bachman edited the material supplied by Audubon, incorporating most of
+                        it in the final version, but with additions, omissions and other
+                        modifications. There are marginal notes by Victor G. Audubon and
+                        Bachman.</p>
+                    <p>This group of manuscripts comprises Audubon's notes for the following
+                        animals:</p>
+                </scopecontent>
+                <arrangement>
+                    <p>Arranged by their order in The Viviparous Quadrupeds of North America Vol.
+                        I.</p>
+                </arrangement>
+                <c level="file" id="C0006_c0018">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Quadrupeds</emph>, numbers 1-6</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="C0006_c0019">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">3</container>
+                            <unittitle>(1) "Common American Wild Cat"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 1 (text), I, 2-15.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0020">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">3</container>
+                            <unittitle>(2) "Wood-Chuck"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 2 (text), I, 16-24.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0021">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">3</container>
+                            <unittitle>(3) "Townsend's Rocky Mountain Hare"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 3, I, 25-30.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0022">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">3</container>
+                            <unittitle>(4) "Florida Rat"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 4, I, 32-37.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0023">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">3</container>
+                            <unittitle>(5) "Richardson's Columbian Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 5, I, 41-43.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0024">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">3</container>
+                            <unittitle>(6) "American Cross Fox"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 6, I, 45-54.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c level="file" id="C0006_c0025">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Quadrupeds</emph>, nos. 7, 10</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="C0006_c0026">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">4</container>
+                            <unittitle>(1) "Carolina Grey Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 7, I, 55-63.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0027">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">4</container>
+                            <unittitle>(2) "Common American Shrew Mole"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 10, I, 81-92.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c level="file" id="C0006_c0028">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Quadrupeds</emph>, nos. 13-15</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="C0006_c0029">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">5</container>
+                            <unittitle>(1) "Musk-Rat"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 13, I, 108-124.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0030">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">5</container>
+                            <unittitle>(2) "Hudson's Bay Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 14, I, 125-131.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0031">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">5</container>
+                            <unittitle>(3) "Oregon Flying Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 15, I, 132-135.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c level="file" id="C0006_c0032">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Quadrupeds</emph>, nos. 16, 17, 19</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">portion of 1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="C0006_c0033">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(1) "Canada Lynx"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 16, I, 136-144.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0034">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(2) "Cat Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 17, I, 145-150.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0035">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(3) "Soft-Haired Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 19 (text), I, 157-158.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c level="file" id="C0006_c0036">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Quadrupeds</emph>, nos. 23, 28, 31, 32, 34, 36,
+                            38, 40, 41, 45</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">portion of 1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="C0006_c0037">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(1) "Mink" (fragment only)</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 23 (text), I, 250-260.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0038">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(2) "Common Flying Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 28 (text), I, 216-222.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0039">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(3) "Collared Peccany"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 31, I, 233-241.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0040">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(4) "Polar Hare"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 32, I, 242-249.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0041">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(5) "Black Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 34, I, 261-264.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0042">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(6) "Canada Porcupine"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 36, I, 277-286.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0043">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(7) "Red-bellied Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 38, I, 292-293.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0044">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(8) [American] "White-footed Mouse"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 40, I, 300-306.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0045">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(9) "Pennant's Marten"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 41, I, 307-315.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0046">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">6</container>
+                            <unittitle>(10) "Wilson's Meadow Mouse"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 45, I, 341-346.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c level="file" id="C0006_c0047">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Quadrupeds</emph>,4, No. 25</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="C0006_c0048">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i2">8</container>
+                            <unittitle>"Donny Squirrel"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Plate 25 (text), I, 199-201.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+            </c>
+            <c id="C0006_c0049" level="series">
+                <did>
+                    <unittitle>Series 5: Letters Relating to Lucy Bakewell Audubon
+                        (Wife)</unittitle>
+                    <unitdate normal="1788/1838" type="inclusive">1788-1838</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">12 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p> Consists of correspondence from Lucy Bakewell Audubon and family members
+                        primarily to Miss Gifford. </p>
+                </scopecontent>
+                <arrangement>
+                    <p>Not arranged according to any arrangement scheme.</p>
+                </arrangement>
+                <c level="file" id="C0006_c0050">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">9</container>
+                        <unittitle>
+                            <emph render="italic">Chronicle</emph> article re: these letters: "Mr.
+                            Audubon's Lucy" by H. C. Rice, Jr.</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0051">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">10</container>
+                        <unittitle>Audubon, Lucy Bakewell. ALsS to Miss (&amp; Mrs.)
+                            Gifford</unittitle>
+                        <unitdate type="inclusive" normal="1803/1838">1803-1838</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>(Note: Postscript: New Orleans, 11 April 1821, by J. J. Audubon on Lucy's
+                            letter of 1 April, 1821)</p>
+                        <p>[Purchased at Sotheby sale, 2 July 1962].</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0052">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">11</container>
+                        <unittitle>Audubon, Lucy Bakewell. ALsS to Miss (&amp; Mrs.)
+                            Gifford</unittitle>
+                        <unitdate type="inclusive" normal="1803/1838">1803-1838</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>[photostats of B1 F10 above]</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0053">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">12</container>
+                        <unittitle>Letters on STARK COLLECTION (TEXAS). Audubon - Bakewell
+                            Correspondence with Miss Gifford</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>[Description of Audubon Material in the Collection of H. J. Lutcher
+                            Stark, Orange, Texas]</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0054">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">13</container>
+                        <unittitle>Audubon, John James. ALS [photostat] to William Bakewell, La
+                            Gerbetiere</unittitle>
+                        <unitdate normal="1805-05-20">1805 May 20</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>[photocopy of B2 F1 - also see note for B1 F14]</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0055">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">14</container>
+                        <unittitle>Bakewell, William. ALS [photostat] to Miss Gifford Fatland Ford
+                            (Penna.)</unittitle>
+                        <unitdate normal="1805-07-19">1805 July 19</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>(enclosing the above letter from J. J. Audubon 1805 May 20) (Original
+                            letter of William Bakewell not acquired by Princeton - original Audubon
+                            letter in B2 F1) [Sotheby Sale].</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0056">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">15</container>
+                        <unittitle>Gordon, Ann Bakewell. 2 ALsS to Mrs. Gifford</unittitle>
+                        <unitdate normal="1831-04-04">1831 April 4</unitdate>
+                        <unitdate normal="1831-08-14">1831 August 14</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Dated 1831 April 4 and 1831 August 14 (mentioning her sister Mrs.
+                            Audubon); also: Miss M. A. Coltman to Mrs. Gifford 1838 (mention of
+                            letter from Mrs. Audubon) [Sotheby Sale]</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0057">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">16</container>
+                        <unittitle>Bakewell, Benjamin, et al. 28 ALsS to Miss Gifford, et
+                            al.</unittitle>
+                        <unitdate type="inclusive" normal="1788/1829">1788-1829</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>[18 from Sotheby Sale, 1962 + 10 additional letters not in sales
+                            catalogue purchased subsequently (1963) from Sotheby's].</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0058">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">17</container>
+                        <unittitle>Bakewell, William. 3 ALS to Miss Gifford</unittitle>
+                        <unitdate type="inclusive" normal="1801/1808">1801-1808</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>[Sotheby Sale Catalogue - purchased subsequently from Sotheby -
+                            1963].</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0059">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">18</container>
+                        <unittitle>Bakewell, Benjamin, et al. 28 ALsS to Miss Gifford, et
+                            al.</unittitle>
+                        <unitdate type="inclusive" normal="1788/1829">1788-1829</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>[photostats &amp; transcripts of B1 F16].</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0060">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">19</container>
+                        <unittitle>Audubon, J. J. &amp; Lucy. Letters to Benjamin Phillips &amp;
+                            family</unittitle>
+                        <unitdate normal="1837/1837">1837</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Typewritten manuscripts. [Originals in possession of Phillips descendants
+                            in England].</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0061">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i2">20</container>
+                        <unittitle>Gordon, Ann Bakewell.</unittitle>
+                        <unitdate normal="1831/1831">1831</unitdate>
+                        <unitdate normal="1838/1838">1838</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>2 ALsS [photostats of B1 F15] to Miss Gifford, 1831; Miss M. A. Coltman
+                            to Mrs. G., 1838 (mention of Mrs. Audubon) [Sotheby Sale].</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="C0006_c0062" level="series">
+                <did>
+                    <unittitle>Series 6: Letters</unittitle>
+                    <unitdate normal="1805-05-20/1918" type="inclusive">1805 May 20-1918</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">94 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p> Consists of correspondence of J. J. Audubon and others, including original
+                        letters as well as photostats. </p>
+                </scopecontent>
+                <arrangement>
+                    <p>This series is arranged into four subseries: Letters of J. J. Audubon
+                        (originals, filed by date), Letters of Others (originals), Letters of J. J.
+                        Audubon (Photostats), and Related Letters: Bachman et al (photostats).</p>
+                </arrangement>
+                <c id="C0006_c0063" level="subseries">
+                    <did>
+                        <unittitle>Subseries 6A: Letters of J. J. Audubon (originals, filed by date,
+                            then transcripts)</unittitle>
+                        <unitdate normal="1805-05-20/1855-12-31" type="inclusive">1805 May
+                            20-1855</unitdate>
+                        <physdesc>
+                            <extent type="computed">53 folders, 6 volumes</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p> Consists primarily of letters to Mrs. Audubon, with additional letters
+                            to Robert Havell, Victor Audubon, and Thomas McCulloch. </p>
+                    </scopecontent>
+                    <arrangement>
+                        <p>Arranged chronologically.</p>
+                    </arrangement>
+                    <c level="file" id="C0006_c0064">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">1</container>
+                            <unittitle>ALS to William Bakewell, La Gerbetiere, 1805 May 20 [Sotheby
+                                Sale]</unittitle>
+                            <unitdate normal="1805-05-20">1805 May 20</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0065">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">2</container>
+                            <unittitle>ALS to Charles d'Orbigny, New York</unittitle>
+                            <unitdate normal="1807-04-29">1807 April 29</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0066">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">3</container>
+                            <unittitle>Re: Audubon, J. J. New Orleans, 1820 August 10: Deposition of
+                                Laverty repayment to Audubon &amp; Bakewell for Shipment of tobacco
+                                1817</unittitle>
+                            <unitdate normal="1820-08-10">1820 August 10</unitdate>
+                            <unitdate normal="1817/1817">1817</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0067">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">4</container>
+                            <unittitle>ALS to Mrs. Audubon, Liverpool</unittitle>
+                            <unitdate normal="1826-09-03">1826 September 3</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0068">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">5</container>
+                            <unittitle>ALS to Mrs. Audubon, Edinburgh</unittitle>
+                            <unitdate normal="1826-12-09">1826 December 9</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0069">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">6</container>
+                            <unittitle>ALS to Mrs. Audubon, Liverpool</unittitle>
+                            <unitdate normal="1827-05-15">1827 May 15</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0070">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">7</container>
+                            <unittitle>ALS to Mrs. Audubon, London</unittitle>
+                            <unitdate normal="1827-06-20">1827 June 20</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0071">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">8</container>
+                            <unittitle>ALS to Mrs. Audubon, Liverpool, 1827 November 25P.S. 1827
+                                November 27-28</unittitle>
+                            <unitdate normal="1827-11-25">1827 November 25</unitdate>
+                            <unitdate type="inclusive" normal="1827-11-27/1827-11-28">1827 November
+                                27-28</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0072">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">9</container>
+                            <unittitle>ALS to Mrs. Audubon, Liverpool</unittitle>
+                            <unitdate normal="1827-12-21">1827 December 21</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0073">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">10</container>
+                            <unittitle>ALS to Mrs. Audubon, London</unittitle>
+                            <unitdate normal="1828-11-02">1828 November 2</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0074">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">11</container>
+                            <unittitle>ALS (fragment) to Victor G. Audubon, [London, ]</unittitle>
+                            <unitdate normal="1829-01/1829-03">1829</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0075">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">12</container>
+                            <unittitle>ALS to Robert Havell, Edinburgh</unittitle>
+                            <unitdate normal="1831-03-26">1831 March 26</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0076">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">13</container>
+                            <unittitle>ALS to Edward Everett, St. Augustine, East
+                                Florida</unittitle>
+                            <unitdate normal="1832-02-01">1832 February 1</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0077">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">14</container>
+                            <unittitle>ALS to Mrs. Audubon, Boston</unittitle>
+                            <unitdate normal="1833-05-04">1833 May 4</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0078">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">15</container>
+                            <unittitle>ALS to Mrs. Audubon (not same as preceding),
+                                Boston</unittitle>
+                            <unitdate normal="1833-05-04">1833 May 4</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0079">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">16</container>
+                            <unittitle>ALS to Mrs. Audubon. P.S. by John Woodhouse Audubon,
+                                Eastport, Maine</unittitle>
+                            <unitdate normal="1833-05-14">1833 May 14</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0080">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">17</container>
+                            <unittitle>ALS to Mrs. Audubon, Eastport, Maine</unittitle>
+                            <unitdate normal="1833-05-18">1833 May 18</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0081">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">18</container>
+                            <unittitle>ALS to Mrs. Audubon, Eastport, Maine</unittitle>
+                            <unitdate normal="1833-05-19">1833 May 19</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0082">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">19</container>
+                            <unittitle>ALS to Mrs. Audubon, Eastport, Maine</unittitle>
+                            <unitdate normal="1833-05-22">1833 May 22</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0083">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">20</container>
+                            <unittitle>ALS to Richard Harlan, M.D., Eastport, Maine</unittitle>
+                            <unitdate normal="1833-05-26">1833 May 26</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0084">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">21</container>
+                            <unittitle>ALS to Mrs. Audubon, Eastport, Maine</unittitle>
+                            <unitdate normal="1833-05-27">1833 May 27</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0085">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">22</container>
+                            <unittitle>ALS to Mrs. Audubon, Eastport, Maine</unittitle>
+                            <unitdate normal="1833-06-04">1833 June 4</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0086">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">23</container>
+                            <unittitle>ALS to Mrs. Audubon. P.S. by John Woodhouse Audubon,
+                                Eastport, Maine</unittitle>
+                            <unitdate type="inclusive" normal="1833-06-05/1833-06-06">1833 June
+                                5-6</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0087">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">24</container>
+                            <unittitle>ALS to Mrs. Audubon, Bras d'Or, Labrador</unittitle>
+                            <unitdate normal="1833-08-05">1833 August 5</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0088">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">25</container>
+                            <unittitle>ALS to Victor G. Audubon, Charleston, S.C.</unittitle>
+                            <unitdate normal="1833-11-09">1833 November 9</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0089">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">26</container>
+                            <unittitle>ALS to R. Havell; also: proof for Plate 44, <emph render="italic">Birds of America</emph>, "Summer Red Bird.",
+                                Charleston, S.C.</unittitle>
+                            <unitdate normal="1834-01-16">1834 January 16</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0090">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">27</container>
+                            <unittitle>ALS to John Bachman, Baltimore</unittitle>
+                            <unitdate normal="1834-03-13">1834 March 13</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0091">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">28</container>
+                            <unittitle>ALS to Robert Havell, New York</unittitle>
+                            <unitdate normal="1834-04-08">1834 April 8</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0092">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">29</container>
+                            <unittitle>ALS to Victor G. Audubon, Edinburgh</unittitle>
+                            <unitdate normal="1834-10-18">1834 October 18</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0093">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">30</container>
+                            <unittitle>ALS to Walter Horton Bentley, London</unittitle>
+                            <unitdate normal="1835-03-17">1835 March 17</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0094">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">31</container>
+                            <unittitle>ALS to Messrs. Benjamin &amp; John Gott, London</unittitle>
+                            <unitdate normal="1836-02-05">1836 February 5</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0095">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">32</container>
+                            <unittitle>ALS to R. O. Anderson, London</unittitle>
+                            <unitdate normal="1836-05-16">1836 May 16</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0096">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">33</container>
+                            <unittitle>ALS to Robert Havell, Charleston</unittitle>
+                            <unitdate normal="1836-12-18">1836 December 18</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0097">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">34</container>
+                            <unittitle>ALS to Ward &amp; Bell, Charleston</unittitle>
+                            <unitdate normal="1837-06-13">1837 June 13</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0098">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">35</container>
+                            <unittitle>ALS to Thomas Nuttall, London</unittitle>
+                            <unitdate normal="1837-09-19">1837 September 19</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0099">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">36</container>
+                            <unittitle>ALS to Mrs. Audubon, Edinburgh</unittitle>
+                            <unitdate normal="1838-07-01">1838 July 1</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0100">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">37</container>
+                            <unittitle>ALS (by Victor G. Audubon) to Mrs. Audubon</unittitle>
+                            <unitdate normal="1838-07-10">1838 July 10</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>With postscript by John J. Audubon, Edinburgh.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0101">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">38</container>
+                            <unittitle>ALS to Mrs. Audubon, Edinburgh</unittitle>
+                            <unitdate normal="1838-08-01">1838 August 1</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0102">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">39</container>
+                            <unittitle>ALS to Mrs. A. C. Alison, Edinburgh</unittitle>
+                            <unitdate normal="1838-09-21">1838 September 21</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0103">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">40</container>
+                            <unittitle>ALS to John Calvert, Edinburgh</unittitle>
+                            <unitdate normal="1839-02-26">1839 February 26</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0104">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">41</container>
+                            <unittitle>ALS to John W. Audubon, with postscript by Lucy Audubon,
+                                Edinburgh</unittitle>
+                            <unitdate normal="1839-05-23">1839 May 23</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0105">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">42</container>
+                            <unittitle>Audubon, Lucy. ALS to Victor G. &amp; John W.
+                                Audubon</unittitle>
+                            <unitdate type="inclusive" normal="1839-06-30/1839-07-02">1839 June
+                                30-July 2</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>With postscript by John J. Audubon, Edinburgh.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0106">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">43</container>
+                            <unittitle>ALS to George Parkman, Lowell, Mass</unittitle>
+                            <unitdate normal="1840-08-26">1840 August 26</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0107">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">44</container>
+                            <unittitle>ALS to Victor G. Audubon, Boston</unittitle>
+                            <unitdate normal="1840-09-14">1840 September 14</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0108">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">45</container>
+                            <unittitle>ALS to John Woodhouse Audubon, Boston</unittitle>
+                            <unitdate normal="1840-09-20">1840 September 20</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0109">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">46</container>
+                            <unittitle>ALS to F. L. Alden, New York</unittitle>
+                            <unitdate normal="1841-01-27">1841 January 27</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0110">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">47</container>
+                            <unittitle>ALS to Thomas McCulloch, Jr., New York</unittitle>
+                            <unitdate normal="1841-06-26">1841 June 26</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0111">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">48</container>
+                            <unittitle>ALS to Increase S. Smith, New York</unittitle>
+                            <unitdate normal="1841-08-15">1841 August 15</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0112">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">49</container>
+                            <unittitle>ALS to Col. J. J. Abert, New York</unittitle>
+                            <unitdate normal="1842-07-04">1842 July 4</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0113">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">50</container>
+                            <unittitle>ALS to Mrs. Audubon &amp; Sons, Quebec</unittitle>
+                            <unitdate normal="1842-09-21">1842 September 21</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0114">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">51</container>
+                            <unittitle>ALS to Victor G. Audubon, St. Louis</unittitle>
+                            <unitdate normal="1843-04-02">1843 April 2</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0115">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">52</container>
+                            <unittitle>ALS to J. W. Audubon, with postscript by Victor G. Audubon,
+                                Minnie's Land</unittitle>
+                            <unitdate normal="1847-01-28">1847 January 28</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0116">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">53</container>
+                            <unittitle>Photographs of J. J. Audubon (ca. 1848) and of Mrs. J. J.
+                                (Lucy Bakewell) Audubon (ca. 1855)</unittitle>
+                            <unitdate normal="1848/1848">circa 1848</unitdate>
+                            <unitdate normal="1855/1855">circa 1855</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c199">
+                        <did>
+                     <container>
+                        <ptr target="C0006_i4"/>
+                     </container>
+                     <container>
+                        <ptr target="C0006_i5"/>
+                     </container>
+                     <container>
+                        <ptr target="C0006_i6"/>
+                     </container>
+                     <container>
+                        <ptr target="C0006_i7"/>
+                     </container>
+                     <container>
+                        <ptr target="C0006_i8"/>
+                     </container>
+                     <container>
+                        <ptr target="C0006_i9"/>
+                     </container>
+                            
+                            <unittitle>Transcripts of Audubon's Letters</unittitle>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="volumes">6 volumes</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>Transcripts of Audubon lettets, edited by Howard Corning for his 1930
+                                edition.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c id="C0006_c0117" level="subseries">
+                    <did>
+                        <unittitle>Subseries 6B: Letters of Others (originals)</unittitle>
+                        <unitdate normal="1825-01-04/1918-12-31" type="inclusive">1825 January
+                            4-1918</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">7 folders</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p> Consists of letters from Lucy Audubon, Victor Audubon, and John and
+                            Julia Bachman. </p>
+                    </scopecontent>
+                    <arrangement>
+                        <p>Arranged alphabetically by correspondent.</p>
+                    </arrangement>
+                    <c level="file" id="C0006_c0118">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">54</container>
+                            <unittitle>Audubon, Lucy (Mrs. John James). ALS to Prof. Joseph Henry,
+                                Washington Heights [N.Y.]</unittitle>
+                            <unitdate normal="1863-08-14">1863 August 14</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0119">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">54A</container>
+                            <unittitle>Audubon, Lucy (Mrs. John James), ALS to Mary
+                                Gaskell</unittitle>
+                            <unitdate normal="1836-05-10">1836 May 10</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p> 2 pp., with printed card of Victor G. Audubon (son).</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0120">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">55</container>
+                            <unittitle>Audubon, Victor G. ALS to J. T. Bowen, New York</unittitle>
+                            <unitdate normal="1847-04-14">1847 April 14</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0121">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">56</container>
+                            <unittitle>Audubon, Victor G. ALS to John Bohlem, New York</unittitle>
+                            <unitdate normal="1854-05-11">1854 May 11</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0122">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">57</container>
+                            <unittitle>Bachman, John. ALS to Joseph Bevan, Charleston,
+                                S.C.</unittitle>
+                            <unitdate normal="1825-01-04">1825 January 4</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0123">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">58</container>
+                            <unittitle>Bachman, Julia R. ALS to Ruthven Deane, Columbia,
+                                S.C.</unittitle>
+                            <unitdate normal="1903-01-10">1903 January 10</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0124">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">59</container>
+                            <unittitle>Herrick, Francis H. 3 ALsS to Edwin H. Johnson,
+                                Cleveland</unittitle>
+                            <unitdate normal="1918/1918">1918</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c id="C0006_c0125" level="subseries">
+                    <did>
+                        <unittitle>Subseries 6C: Letters of J. J. Audubon (Photostats)</unittitle>
+                        <unitdate normal="1807-04-29/1843-06-13" type="inclusive">1807 April 29-1843
+                            June 13</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">26 folders</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p> Consists of photostats of letters from J. J. Audubon, primarily to
+                            Victor Audubon, 1843. </p>
+                    </scopecontent>
+                    <arrangement>
+                        <p>Arranged chronologically.</p>
+                    </arrangement>
+                    <c level="file" id="C0006_c0126">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">60</container>
+                            <unittitle>ALS [photostat] to Charles d'Orbigny, New York</unittitle>
+                            <unitdate normal="1807-04-29">1807 April 29</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F2].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0127">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">61</container>
+                            <unittitle>ADS to Prather &amp; Jacob, Promissory Note [photostat]
+                                Louisville, Kty</unittitle>
+                            <unitdate normal="1819-09-15">1819 September 15</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in collection of Seymour Adelman, Philadelphia, Penn.].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0128">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">62</container>
+                            <unittitle>2 ALsS [photostats], to Baron de la Bouillerie (also, related
+                                memo), Paris</unittitle>
+                            <unitdate normal="1828-09-13">1828 September 13</unitdate>
+                            <unitdate normal="1828-10-18">1828 October 18</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Originals in the Archives Nationales, Paris].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0129">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">63</container>
+                            <unittitle>ALS [photostat] to Robert Havell, Edinburgh</unittitle>
+                            <unitdate normal="1831-03-26">1831 March 26</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F12].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0130">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">64</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, Charleston,
+                                S.C.</unittitle>
+                            <unitdate normal="1833-11-09">1833 November 9</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F25].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0131">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">65</container>
+                            <unittitle>ALS [photostat] to Robert Havell, New York</unittitle>
+                            <unitdate normal="1834-04-08">1834 April 8</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F28].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0132">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">66</container>
+                            <unittitle>ALS [photostat] to W. H. Bentley, London</unittitle>
+                            <unitdate normal="1835-03-17">1835 March 17</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F30].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0133">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">67</container>
+                            <unittitle>ALS [photostat] to R. O. Anderson, London</unittitle>
+                            <unitdate normal="1836-05-16">1836 May 16</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F32].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0134">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">68</container>
+                            <unittitle>ALS [photostat] to Robert Havell, Charleston,
+                                S.C.</unittitle>
+                            <unitdate normal="1836-12-18">1836 December 18</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F33].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0135">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">69</container>
+                            <unittitle>Receipt to Dr. S. G. Morton &amp; Jos. P. Smith. <emph render="italic">Birds of America</emph>
+                            </unittitle>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>ADS [photostat]. N. p. 1 July 1837. [Original in the possession of
+                                Mr. Robert L. Walsh, Jr., 3424 Prospect St. NW, Washington,
+                                D.C.].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0136">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">70</container>
+                            <unittitle>ALS [photostat] to John Calvert, Edinburgh</unittitle>
+                            <unitdate normal="1839-02-26">1839 February 26</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F40].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0137">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">71</container>
+                            <unittitle>ALS [photostat] to George Parkman, Lowell, Mass</unittitle>
+                            <unitdate normal="1840-08-26">1840 August 26</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F43].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0138">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">72</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, Louisville</unittitle>
+                            <unitdate type="inclusive" normal="1843-03-19/1843-03-20">1843 March
+                                19-20</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[From original in National Audubon Society, New York].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0139">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">73</container>
+                            <unittitle>ALS [photostat, incomplete] to Mrs. Audubon, Ohio
+                                River</unittitle>
+                            <unitdate normal="1843-03-23">1843 March 23</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0140">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">74</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, St. Louis</unittitle>
+                            <unitdate normal="1843-03-28">1843 March 28</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0141">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">75</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, St. Louis</unittitle>
+                            <unitdate normal="1843-03-31">1843 March 31</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0142">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">76</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, St. Louis</unittitle>
+                            <unitdate normal="1843-04-08">1843 April 8</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0143">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">77</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, St. Louis</unittitle>
+                            <unitdate normal="1843-04-17">1843 April 17</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0144">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">78</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, St. Louis</unittitle>
+                            <unitdate normal="1843-04-23">1843 April 23</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0145">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">79</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, St. Charles</unittitle>
+                            <unitdate normal="1843-04-25">1843 April 25</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0146">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">80</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, Boonville,
+                                Mo</unittitle>
+                            <unitdate normal="1843-04-29">1843 April 29</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0147">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">81</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, Black Snake Hills,
+                                Mo</unittitle>
+                            <unitdate normal="1843-05-05">1843 May 5</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0148">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">82</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, Council Bluffs Mo.
+                                Territory</unittitle>
+                            <unitdate normal="1843-05-08">1843 May 8</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0149">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">83</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, Fort Fierre</unittitle>
+                            <unitdate normal="1843-06-01">1843 June 1</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0150">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">84</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, Fort Clark</unittitle>
+                            <unitdate normal="1843-06-06">1843 June 6</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0151">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">85</container>
+                            <unittitle>ALS [photostat] to Victor G. Audubon, Fort Union</unittitle>
+                            <unitdate normal="1843-06-13">1843 June 13</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c id="C0006_c0152" level="subseries">
+                    <did>
+                        <unittitle>Subseries 6D: Related Letters: Bachman et al
+                            (photostats)</unittitle>
+                        <unitdate normal="1825-01-04/1918-02-28" type="inclusive">1825 January
+                            4-1918 February</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">8 folders</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p> Consists of photostats of letters primarily from Victor Audubon and John
+                            Bachman. </p>
+                    </scopecontent>
+                    <arrangement>
+                        <p>Not arranged according to any arrangement scheme.</p>
+                    </arrangement>
+                    <c level="file" id="C0006_c0153">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">86</container>
+                            <unittitle>Audubon, Victor G. ALS [photostat] to J. T. Bowen, New
+                                York</unittitle>
+                            <unitdate normal="1847-04-14">1847 April 14</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F55].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0154">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">87</container>
+                            <unittitle>Audubon, Victor G. ALS [photostat] to John Bohlen, New
+                                York</unittitle>
+                            <unitdate normal="1854-05-11">1854 May 11</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F56].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0155">
+                        <did>
+                            
+                            
+                            <unittitle>Letters V. G. A. &amp; Lucy A. (xerox). Victor G. Audubon to
+                                S. F. Baird</unittitle>
+                            <unitdate normal="1850-11-21">1850 November 21</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <c level="file" id="C0006_c0156">
+                            <did>
+                                <unittitle>Lucy Audubon to Joseph Henry</unittitle>
+                                <unitdate normal="1863-12-29">1863 December 29</unitdate>
+                                <container type="folder" parent="C0006_i3">88</container>
+                                <physdesc>
+                                    <extent type="computed" unit="items">1 item</extent>
+                                </physdesc>
+                            </did>
+                            <scopecontent>
+                                <p>[Original in Smithsonian Institution, Washington, D.C.].</p>
+                            </scopecontent>
+                        </c>
+                    </c>
+                    <c level="file" id="C0006_c0157">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">89</container>
+                            <unittitle>Bachman, John. ALS [photostat] to Joseph N. Bevan,
+                                Charleston, S.C.</unittitle>
+                            <unitdate normal="1825-01-04">1825 January 4</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[photocopy of B2 F57].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0158">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">90</container>
+                            <unittitle>Audubon, John James. Letters to Richard Harlan &amp; J. K.
+                                Townsend</unittitle>
+                            <unitdate type="inclusive" normal="1827/1838">1827-1838</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>TRANSCRIPTS of originals in Gilbert Collection, College of
+                                Physicians, Philadelphia.</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0159">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">91</container>
+                            <unittitle>Herrick, Francis Hobart. 3 ALsS [photostat] to Edw. H.
+                                Johnson</unittitle>
+                            <unitdate normal="1918-02">1918 February</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>(re: Audubon's Quadrupeds)</p>
+                            <p>[photocopies of B2F59].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0160">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">92</container>
+                            <unittitle>Bachman, John. 3 ALsS [photostats] to John K. Townsend,
+                                Charleston, S.C.</unittitle>
+                            <unitdate normal="1838/1838">1838</unitdate>
+                            <unitdate normal="1842/1842">1842</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Original in National Audubon Society, NY].</p>
+                        </scopecontent>
+                    </c>
+                    <c level="file" id="C0006_c0161">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">93</container>
+                            <unittitle>TRANSCRIPTS: J. J. Audubon to Mrs. C. C. Adams</unittitle>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0162">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i3">93</container>
+                            <unittitle>Lucy A. to same</unittitle>
+                            <unitdate normal="1864-01-27">1864 January 27</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">portion of 1 folder</extent>
+                            </physdesc>
+                        </did>
+                        <scopecontent>
+                            <p>[Originals in Vodges Collection, Science Libr. Natural Hist. Museum,
+                                Balboa Pk., San Diego, California.]</p>
+                        </scopecontent>
+                    </c>
+                </c>
+            </c>
+            <c id="C0006_c0163" level="series">
+                <did>
+                    <unittitle>Series 7: J. J. Audubon, as Subject: Pamphlets, Clippings,
+                        etc.</unittitle>
+                    <unitdate normal="1851/1964" type="inclusive">1851-1964</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">16 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p> Consists of miscellaneous material such as pamphlets, exhibition catalogues,
+                        and portraits of J.J. Audubon. </p>
+                </scopecontent>
+                <arrangement>
+                    <p>Not arranged according to any arrangement scheme.</p>
+                </arrangement>
+                <c level="file" id="C0006_c0164">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">1</container>
+                        <unittitle>Articles, Clippings, Pamphlets, etc.</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0165">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">2</container>
+                        <unittitle>Exhibition catalogues</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0166">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">3</container>
+                        <unittitle>Havell, engraver</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0167">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">4</container>
+                        <unittitle>Re: elephant folio, Princeton University Library copy</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0168">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">5</container>
+                        <unittitle>List of Plates; Census of Elephant Folio</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0169">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">6</container>
+                        <unittitle>Engraved plates. Dealers (catalogues with
+                            price-lists)</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0170">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">7</container>
+                        <unittitle>Florida</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0171">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">8</container>
+                        <unittitle>Information about items in Princeton Collections</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0172">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">9</container>
+                        <unittitle>Reproductions of Engraved Prints</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0173">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">10</container>
+                        <unittitle>Manuscripts. Letters</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0174">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">11</container>
+                        <unittitle>Empty [Contains a note about Setter and Quails]</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0175">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">12</container>
+                        <unittitle>"Mill Grove" Audubon house in Pennsylvania</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0176">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">13</container>
+                        <unittitle>Portraits of Elijah Slack &amp; wife by J. J. A. (acquired by
+                            Princeton, )</unittitle>
+                        <unitdate normal="1964/1964">1964</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0177">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">14</container>
+                        <unittitle>Portraits of J. J. A.</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0178">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">15</container>
+                        <unittitle>Oil Paintings</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0179">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i10">16</container>
+                        <unittitle>Obituary by T. M. Brewer, in Boston Atlas</unittitle>
+                        <unitdate normal="1851/1851">1851</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+            <c id="C0006_c0180" level="series">
+                <did>
+                    <unittitle>Series 8: Audubon Exhibition 1959: Correspondence, Catalogue and
+                        Publicity, Research Notes</unittitle>
+                    <unitdate normal="1959/1959">1959</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="folders">15 folders</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p> Consists of correspondence and information regarding the Audubon Exhibition
+                        in 1959. </p>
+                </scopecontent>
+                <arrangement>
+                    <p>Except for correspondence with D. Speyer, correspondence is arranged
+                        alphabetically by correspondent. Followed by unarranged documents and
+                        subseries, "Research Notes for Catalogue," which is arranged
+                        chronologically.</p>
+                </arrangement>
+                <c level="file" id="C0006_c0181">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">1</container>
+                        <unittitle>Correspondence with D. Speyer, USIS, Paris, re: Paris
+                            exhibition</unittitle>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0182">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">2</container>
+                        <unittitle>1959 May 15-September</unittitle>
+                        <unitdate type="inclusive" normal="1959-05-15/1959-09">1959 May
+                            15-September</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Items borrowed.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0183">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">3</container>
+                        <unittitle>Correspondence A - E</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Includes: Sylvia Beach, Geo. Dock, Jr.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0184">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">4</container>
+                        <unittitle>Correspondence F - L</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Includes: Alice Ford, W. H. Fries, Harvard.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0185">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">5</container>
+                        <unittitle>Correspondence M - N</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Includes: McCormick, H. Bradley Martin, National Audubon Society-NY, New
+                            Jersey Audubon Society, Harry Shaw Newman-old printshop, J. d'Arcy
+                            Northwood-curator, Audubon Shrine.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0186">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">6</container>
+                        <unittitle>Correspondence O - Z</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Includes: Benj. Page, Jr., Darthea Speyer (USIS, Paris), Stout, J. S.
+                            Williams.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="C0006_c0187">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">7</container>
+                        <unittitle>Press Release; publicity; talks by H.C.R. on
+                            exhibition</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0188">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">8</container>
+                        <unittitle>Thomas Birch painting of Mill Grove</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0189">
+                    <did>
+                        
+                        <container type="folder" parent="C0006_i11">9</container>
+                        <unittitle>Leaflet</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">1 folder</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="C0006_c0190">
+                    <did>
+                        <unittitle>Research Notes for Catalogue</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="folders">6 folders</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="C0006_c0191">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i11">10</container>
+                            <unittitle>II &amp; supporting documentation</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0192">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i11">11</container>
+                            <unittitle>IV, V, VI.</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0193">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i11">12</container>
+                            <unittitle>VII. N.J. paper money cf. no. 44</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0194">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i11">13</container>
+                            <unittitle>VIII - IX.</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0195">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i11">14</container>
+                            <unittitle>X</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="C0006_c0196">
+                        <did>
+                            
+                            <container type="folder" parent="C0006_i11">15</container>
+                            <unittitle>XVI. "Minnie's Land"</unittitle>
+                            <unitdate>dates not examined</unitdate>
+                            <physdesc>
+                                <extent type="computed" unit="folders">1 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="C0006_c0197" level="series">
+                <did>
+                    <unittitle>Series 9: Chronological List of Audubon's Bird Drawings</unittitle>
+                    <unitdate>dates not examined</unitdate>
+                    <physdesc>
+                        <extent type="computed" unit="boxes">1 box</extent>
+                    </physdesc>
+                </did>
+                <scopecontent>
+                    <p>Based on the "List of Places, Comprising the Original Issue of Audubon's `The
+                        Birds of America,' With Notes Showing Where and When the Original Drawings
+                        Were Made," in S. C. Arthur, <emph render="italic">Audubon</emph>, 1937,
+                        Appendix E., p. 500 ff.</p>
+                    <p>Arthur's dating of the drawings is based chiefly on the annotations to be
+                        found on the originals, now in N.Y. Historical Society.</p>
+                    <p>Present card index compiled by Mrs. Julian P. Boyd, 1959. It was used as a
+                        basis for grouping Audubon bird plates according to place &amp; date of the
+                        drawing, rather than by date of publication. Audubon exhibition, 1959.</p>
+                    <p>H. C. Rice</p>
+                </scopecontent>
+                <arrangement>
+                    <p>Not arranged according to any arrangement scheme.</p>
+                </arrangement>
+                <c level="file" id="C0006_c0198">
+                    <did>
+                        <container>
+                     <ptr target="C0006_i12"/>
+                  </container>
+                        <unittitle>Chronological List of Audubon's Bird Drawings</unittitle>
+                        <unitdate>dates not examined</unitdate>
+                        <physdesc>
+                            <extent type="computed" unit="boxes">1 box</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+      <dsc type="othertype" othertype="physicalholdings">
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i1">
+            <did>
+               <container type="box">6</container>
+               <unitid type="barcode">32101040679084</unitid>
+               <physloc type="code">mss</physloc>
+               
+               <physloc type="text">P</physloc>
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i2">
+            <did>
+               <container type="box">1</container>
+               <unitid type="barcode">32101040679043</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i3">
+            <did>
+               <container type="box">2</container>
+               <unitid type="barcode">32101040679050</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i4">
+            <did>
+               <container type="volume">1</container>
+               <unitid type="barcode">32101047417801</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i5">
+            <did>
+               <container type="volume">2</container>
+               <unitid type="barcode">32101047417793</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i6">
+            <did>
+               <container type="volume">3</container>
+               <unitid type="barcode">32101047417785</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i7">
+            <did>
+               <container type="volume">4</container>
+               <unitid type="barcode">32101047419013</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i8">
+            <did>
+               <container type="volume">5</container>
+               <unitid type="barcode">32101047417777</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i9">
+            <did>
+               <container type="volume">6</container>
+               <unitid type="barcode">32101047417769</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i10">
+            <did>
+               <container type="box">3</container>
+               <unitid type="barcode">32101040679068</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i11">
+            <did>
+               <container type="box">4</container>
+               <unitid type="barcode">32101040679076</unitid>
+               <physloc type="code">mss</physloc>
+               
+            </did>
+         </c>
+         <c level="otherlevel" otherlevel="physicalitem" id="C0006_i12">
+            <did>
+               <container type="box">5</container>
+               <unitid type="barcode">32101040679092</unitid>
+               <physloc type="code">mss</physloc>
+               
+               <physloc type="text">P</physloc>
+            </did>
+         </c>
+      </dsc>
+   </archdesc>
+</ead>

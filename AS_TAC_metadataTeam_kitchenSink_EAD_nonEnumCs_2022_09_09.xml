@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ead_for_Oxygen_2013_11_07.css"?>
+
+
+<!-- EAD finding aid developed by Kate Bowers in 2009 for use in testing.
+    
+    This file has been altered depending on the testing requirements. 
+    
+    This file does not attempt to test every attribute and element. Adoption
+    and adaptation of this file is welcomed. 
+    
+    The last substantial changes were made in 2016 to test ingest of EAD 
+    to ArchivesSpace for OASIS migration (Harvard project, described here: 
+    https://journal.code4lib.org/articles/12239. 
+    
+    In September 2022, Kate Bowers made changes to adopt the file for use 
+    by the AS TAC metadata subteam.  Changes were chiefly the removal of 
+    Harvard local attributes for dates that were used in OASIS. These 
+    were replaced with  normal attributes.
+    
+-->
+
+
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader>
+        <eadid>1 AS_EADID |||</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>2 ead/ eadheader/ filedesc/ titlestmt/ titleproper ||| </titleproper>
+                <subtitle>3 ead/ eadheader/ filedesc/ titlestmt/ subtitle ||| </subtitle>
+                <author>4 ead/ eadheader/ filedesc/ titlestmt/ author |||</author>
+                <sponsor>5 ead/ eadheader/ filedesc/ titlestmt/ sponsor ||| </sponsor>
+
+            </titlestmt>
+            <editionstmt>
+                <edition>6 ead/ eadheader/ filedesc/ editionstmt/ edition ||| </edition>
+                <p>7 ead/ eadheader/ filedesc/ editionstmt/ p ||| </p>
+            </editionstmt>
+            <publicationstmt>
+                <address>
+                    <addressline>8 ead/ eadheader/ filedesc/ publicationstmt/ address/ addresline
+                        ||| (addressline 1) </addressline>
+                    <addressline>9 ead/ eadheader/ filedesc/ publicationstmt/ address/ addresline
+                        ||| (addressline 2) </addressline>
+                    <addressline>10 ead/ eadheader/ filedesc/ publicationstmt/ address/ addresline
+                        ||| (addressline 3) </addressline>
+                </address>
+                <num>11 ead/ eadheader/ filedesc/ publicationstmt/ num |||</num>
+                <p>12 ead/ eadheader/ filedesc/ publicationstmt/ p ||| </p>
+                <publisher>13 ead/ eadheader/ filedesc/ publisher |||</publisher>
+                <date normal="2009">14 ead/ eadheader/ filedesc/ date ||| (normal attribute) </date>
+            </publicationstmt>
+            <seriesstmt>
+                <p>15 ead/ eadheader/ filedesc/ seriesstmt/ p ||| </p>
+            </seriesstmt>
+            <notestmt>
+                <note>
+                    <p>16 ead/ eadheader/ filedesc/ notestmt/ note/ p ||| </p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>17 ead/ eadheader/ profiledesc/ creation ||| (mixed content)<date>18 ead/
+                    eadheader/ profiledesc/ creation/ date ||| </date>
+            </creation>
+            <langusage>19 ead/ eadheader/ profiledesc/ creation/ langusage ||| </langusage>
+            <descrules>20 ead/ eadheader/ profiledesc/ creation/ descrules ||| </descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>21 ead/ eadheader/ revisiondesc/ change/ date ||| (change 1 date)</date>
+                <item>22 ead/ eadheader/ revisiondesc/ change/ item ||| (change 1, item 1)</item>
+                <item>23 ead/ eadheader/ revisiondesc/ change1/ item ||| (change 1, item 2)</item>
+            </change>
+            <change>
+                <date>24 ead/ eadheader/ revisiondesc/ change/ date ||| (change 2 date)</date>
+                <item>25 ead/ eadheader/ revisiondesc/ change/ item ||| (change 2, item)</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <head>26 ead/ archdesc/ did/ head ||| </head>
+            <abstract>27 ead/ archdesc/ did/ abstract ||| </abstract>
+            <abstract>28 ead/ archdesc/ did/ abstract ||| <title>29 ead/ archdesc/ did/ abstract/
+                    title ||| (mixed content) </title>
+            </abstract>
+            <container type="type" label="label">30 ead/ archdesc/ did/ container ||| (with label
+                and type attributes)</container>
+            <container type="type">31 ead/ archdesc/ did/ container ||| </container>
+            <langmaterial>32 ead/ archdesc/ did/ langmaterial ||| <language>33 ead/ archdesc/ did/
+                    langmaterial/ language ||| </language>
+            </langmaterial>
+            <materialspec label="label" type="type">34 ead/ archdesc/ did/ materialspec ||| (with
+                label and type attributes)</materialspec>
+            <note>
+                <p>35 ead/ archdesc/ did/ note/ p ||| </p>
+            </note>
+            <origination>36 ead/ archdesc/ did/ origination ||| </origination>
+            <origination>
+                <corpname>37 ead/ archdesc/ did/ origination/ corpname ||| </corpname>
+            </origination>
+            <origination>
+                <name>38 ead/ archdesc/ did/ origination/ name ||| </name>
+            </origination>
+            <origination>
+                <persname>39 ead/ archdesc/ did/ origination/ persname ||| </persname>
+            </origination>
+            <origination>40 ead/ archdesc/ did/ origination ||| (mixed content)<persname>41 ead/
+                    archdesc/ did/ origination/ persname ||| </persname>
+            </origination>
+            <physdesc>42 ead/ archdesc/ did/ physdesc ||| </physdesc>
+            <physdesc>
+                <dimensions>43 ead/ archdesc/ did/ physdesc/ dimensions ||| </dimensions>
+            </physdesc>
+            <physdesc>44 ead/ archdesc/ did/ physdesc ||| (mixed content)<dimensions>45 ead/
+                    archdesc/ did/ physdesc/ dimensions ||| </dimensions>
+            </physdesc>
+            <physdesc>
+                <extent>46 1 ead/ archdesc/ did/ physdesc/ extent ||| </extent>
+            </physdesc>
+            <physdesc>
+                <extent unit="extent" type="type" label="label">47 ead/ archdesc/ did/ physdesc/
+                    extent ||| (with label type and unit attributes) </extent>
+            </physdesc>
+            <physdesc>48 ead/ archdesc/ did/ physdesc ||| (mixed content) <extent>49 ead/ archdesc/
+                    did/ physdesc/ extent ||| </extent>
+                <genreform>50 ead/ archdesc/ did/ physdesc/ genreform ||| </genreform>
+                <physfacet>51 ead/ archdesc/ did/ physdesc/ physfacet ||| </physfacet>
+            </physdesc>
+            <physdesc>
+                <physfacet>52 ead/ archdesc/ did/ physdesc/ physfacet ||| </physfacet>
+            </physdesc>
+            <physloc>53 ead/ archdesc/ did/ physloc ||| </physloc>
+            <repository>54 ead/ archdesc/ did/ repository ||| </repository>
+            <repository>55 ead/ archdesc/ did/ repository ||| (with subarea)<subarea>56 ead/
+                    archdesc/ did/ repository/ subarea ||| </subarea></repository>
+            <repository><corpname>57 ead/ archdesc/ did/ repository/ corpname |||
+                </corpname></repository>
+            <repository>
+                <corpname>58 ead/ archdesc/ did/ repository/ corpname ||| </corpname>
+            </repository>
+            <unitdate>59 ead/ archdesc/ did/ unitdate ||| </unitdate>
+            <unitdate normal="1990/1991">60 ead/ archdesc/ did/ unitdate |||</unitdate>
+            <unitdate normal="2000/2001">61 ead/ archdesc/ did/ unitdate |||</unitdate>
+            <unitid>62 ead/ archdesc/ did/ unitid ||| </unitid>
+            <unittitle>63 ead/ archdesc/ did/ unittitle |||</unittitle>
+            <unittitle>
+                <title>64 ead/ archdesc/ did/ unittitle/ title |||</title>
+            </unittitle>
+            <unittitle>65 ead/ archdesc/ did/ unittitle |||<title>66 ead/ archdesc/ did/ unittitle/
+                    title ||| (mixed content)</title>
+            </unittitle>
+            <unittitle>67 ead/ archdesc/ did/ unittitle |||<geogname>68 ead/ archdesc/ did/
+                    unittitle/ geogname ||| (mixed content)</geogname>
+            </unittitle>
+        </did>
+        <accessrestrict>
+            <head>69 ead/ archdesc/ accessrestrict/ head |||</head>
+            <p>70 ead/ archdesc/ accessrestrict/ p |||</p>
+        </accessrestrict>
+        <accessrestrict>
+            <p>71 ead/ archdesc/ accessrestrict/ p ||| (no head)</p>
+        </accessrestrict>
+        <accruals>
+            <head>72 ead/ archdesc/ accruals/ head |||</head>
+            <p>73 ead/ archdesc/ accruals/ p |||</p>
+        </accruals>
+        <accruals>
+            <p>74 ead/ archdesc/ accruals/ p ||| (no head)</p>
+        </accruals>
+        <acqinfo>
+            <head>75 ead/ archdesc/ acqinfo/ head |||</head>
+            <p>76 ead/ archdesc/ acqinfo/ p |||</p>
+        </acqinfo>
+        <acqinfo>
+            <p>77 ead/ archdesc/ acqinfo/ p ||| (no head)</p>
+        </acqinfo>
+        <acqinfo>
+            <head>78 ead/ archdesc/ acqinfo/ head |||</head>
+            <p>79 ead/ archdesc/ acqinfo/ p |||<list>
+                    <item>80 ead/ archdesc/ acqinfo/ p/ list/ item ||| (item 1)</item>
+                    <item>81 ead/ archdesc/ acqinfo/ p/ list/ item ||| (item 2)<date>82 ead/
+                            archdesc/ acqinfo/ p/ list/ item/ date ||| (item 2 date)</date>
+                    </item>
+                    <item>83 ead/ archdesc/ acqinfo/ p/ list/ item3 ||| (item 3)<date normal="2001"
+                            >84 ead/ archdesc/ acqinfo/ p/ list/ item/ date ||| (item 3 date with
+                            normal attribute)</date>
+                    </item>
+                </list>
+            </p>
+        </acqinfo>
+        <altformavail>
+            <p>85 ead/ archdesc/ altformavail/ p ||| (no head) </p>
+        </altformavail>
+        <altformavail>
+            <head>86 ead/ archdesc/ altformavail/ head |||</head>
+            <p>87 ead/ archdesc/ altformavail/ p |||</p>
+        </altformavail>
+        <appraisal>
+            <p>88 ead/ archdesc/ appraisal/ p ||| (no head) </p>
+        </appraisal>
+        <appraisal>
+            <head>89 ead/ archdesc/ appraisal/ head |||</head>
+            <p>90 ead/ archdesc/ appraisal/ p |||</p>
+        </appraisal>
+        <arrangement>
+            <head>91 ead/ archdesc/ arrangement/ head |||</head>
+            <p>92 ead/ archdesc/ arrangement/ p |||</p>
+        </arrangement>
+        <arrangement>
+            <p>93 ead/ archdesc/ arrangement/ p ||| (no head) </p>
+        </arrangement>
+        <arrangement>
+            <head>94 ead/ archdesc/ arrangement/ head |||</head>
+            <list>
+                <item>95 ead/ archdesc/ arrangement/ list/ item ||| (item 1) </item>
+                <item>96 ead/ archdesc/ arrangement/ list/ item ||| (item 2) </item>
+                <item>97 ead/ archdesc/ arrangement/ list/ item ||| (item 3, contains nested child
+                    list) <list>
+                        <item>98 ead/ archdesc/ arrangement/ list/ item/ list/ item ||| (item 3.1) </item>
+                        <item>99 ead/ archdesc/ arrangement/ list/ item/ list/ item ||| (item 3.2) </item>
+                        <item>100 ead/ archdesc/ arrangement/ list/ item/ list/ item ||| (item 3.3)
+                        </item>
+                    </list>
+                </item>
+            </list>
+        </arrangement>
+        <bibliography>
+            <bibref>
+                <persname>101 ead/ archdesc/ bibliography/ bibref/ persname |||</persname>
+                <title render="italic">102 ead/ archdesc/ bibliography/ bibref/ title ||| (render
+                    italic, book type example)</title>
+                <imprint>
+                    <geogname>103 ead/ archdesc/ bibliography/ bibref/ imprint/ geogname
+                        |||</geogname>
+                    <publisher>104 ead/ archdesc/ bibliography/ bibref/ imprint/ publisher ||| </publisher>
+                    <date>105 ead/ archdesc/ bibliography/ bibref/ imprint/ date |||</date>
+                </imprint>
+            </bibref>
+            <bibref>
+                <persname>106 ead/ archdesc/ bibliography/ bibref/ persname |||</persname>
+                <title render="doublequote">107 ead/ archdesc/ bibliography/ bibref/ title |||
+                    (render doublequote, periodical type example)</title>
+                <title render="italic">108 ead/ archdesc/ bibliography/ bibref/ title ||| (render
+                    italic)</title>
+                <num>ead/ archdesc/ bibliography/ bibref/ num ||| </num>
+                <imprint>
+                    <date>109 ead/ archdesc/ bibliography/ bibref/ imprint/ date |||</date>
+                </imprint>
+            </bibref>
+        </bibliography>
+        <bioghist>
+            <head>110 ead/ archdesc/ bioghist/ head ||| </head>
+            <p>111 ead/ archdesc/ bioghist/ p ||| </p>
+        </bioghist>
+        <bioghist>
+            <head>112 ead/ archdesc/ bioghist/ head ||| </head>
+            <p>113 ead/ archdesc/ bioghist/ p ||| <emph render="italic">114 ead/ archdesc/ bioghist/
+                    p/ emph ||| (rendered italic attribute) </emph> 115 with following text </p>
+        </bioghist>
+        <bioghist>
+            <p>116 ead/ archdesc/ bioghist/ p ||| (no head) </p>
+        </bioghist>
+        <bioghist>
+            <head>117 ead/ archdesc/ bioghist/ head ||| </head>
+            <p>118 ead/ archdesc/ bioghist/ p ||| (paragraph 1, mixed content. <persname>119 Blah
+                    blah blah</persname> blah <occupation>120 blah blah</occupation>112 . Blah blah
+                blah <subject>121 blah</subject> blah <geogname>122 blah</geogname>. Blah blah
+                    <title>123 blah blah blah blah</title>. Blah blah blah blah blah blah. Blah blah
+                blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah.
+                Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah
+                blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah
+                blah blah blah blah. Blah blah blah blah blah blah. )</p>
+            <p>124 ead/ archdesc/ bioghist/ p ||| (paragraph 2, line breaks. Blah blah blah blah
+                blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah
+                blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah.
+                Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah
+                blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah
+                blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah.
+                Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah
+                blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah
+                blah blah blah blah. ) </p>
+            <p>125 ead/ archdesc/ bioghist/ p ||| (paragraph 3, Blah blah blah blah blah blah. Blah
+                blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah
+                blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah
+                blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah
+                blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah blah blah
+                blah. Blah blah blah blah blah blah. Blah blah blah blah blah blah. Blah blah blah
+                blah blah blah. Blah blah blah blah blah blah. )</p>
+        </bioghist>
+        <bioghist>
+            <chronlist>
+                <chronitem>
+                    <date normal="1991">126 ead/ archdesc/ bioghist/ chronlist/ chronitem/ date |||
+                        (date 1, normal attribute) </date>
+                    <event>127 ead/ archdesc/ bioghist/ chronlist/ chronitem/ event ||| (event 1)
+                    </event>
+                </chronitem>
+                <chronitem>
+                    <date>128 ead/ archdesc/ bioghist/ chronlist/ chronitem/ date ||| (date 2) </date>
+                    <event>129 ead/ archdesc/ bioghist/ chronlist/ chronitem/ event ||| (event
+                        2)</event>
+                </chronitem>
+                <chronitem>
+                    <date>130 ead/ archdesc/ bioghist/ chronlist/ chronitem/ date ||| (date 3) </date>
+                    <event>131 ead/ archdesc/ bioghist/ chronlist/ chronitem/ event ||| (event
+                        3)</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <bioghist>
+            <chronlist>
+                <chronitem>
+                    <date normal="1991">132 ead/ archdesc/ bioghist/ chronlist/ chronitem/ date |||
+                        (date 1, normal attribute) </date>
+                    <eventgrp>
+                        <event>133 ead/ archdesc/ bioghist/ chronlist/ chronitem/ eventgrp/ event
+                            ||| (event 1) </event>
+                        <event>134 ead/ archdesc/ bioghist/ chronlist/ chronitem/ eventgrp/ event
+                            ||| (event 2) </event>
+                    </eventgrp>
+                </chronitem>
+
+
+            </chronlist>
+        </bioghist>
+        <bioghist>
+            <p>135 ead/ archdesc/ bioghist/ p |||</p>
+            <chronlist>
+                <chronitem>
+                    <date normal="1991">136 ead/ archdesc/ bioghist/ chronlist/ chronitem/ date |||
+                        (date 1, normal attribute) </date>
+                    <event>137 ead/ archdesc/ bioghist/ chronlist/ chronitem/ event ||| (event 1)
+                    </event>
+                </chronitem>
+                <chronitem>
+                    <date>138 ead/ archdesc/ bioghist/ chronlist/ chronitem/ date ||| (date 2) </date>
+                    <event>139 ead/ archdesc/ bioghist/ chronlist/ chronitem/ event ||| (event
+                        2)</event>
+                </chronitem>
+                <chronitem>
+                    <date>140 ead/ archdesc/ bioghist/ chronlist/ chronitem/ date ||| (date 3) </date>
+                    <event>141 ead/ archdesc/ bioghist/ chronlist/ chronitem/ event ||| (event
+                        3)</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <bioghist>
+            <list type="deflist">
+                <head>142 ead/ archdesc/ bioghist/ list/ head ||| (over a type = deflist)</head>
+                <listhead>
+                    <head01>143 ead/ archdesc/ bioghist/ list/ listhead/ head01 ||| </head01>
+                    <head02>144 ead/ archdesc/ bioghist/ list/ listhead/ head02 ||| </head02>
+                </listhead>
+                <defitem>
+                    <label>145 ead/ archdesc/ bioghist/ list/ defitem/ label ||| (label 1)</label>
+                    <item>146 ead/ archdesc/ bioghist/ list/ defitem/ item ||| (item 1)</item>
+                </defitem>
+                <defitem>
+                    <label>147 ead/ archdesc/ bioghist/ list/ defitem/ label ||| (label 2)</label>
+                    <item>148 ead/ archdesc/ bioghist/ list/ defitem/ item ||| (item 2)</item>
+                </defitem>
+                <defitem>
+                    <label>149 ead/ archdesc/ bioghist/ list/ defitem/ label ||| (label 3)</label>
+                    <item>150 ead/ archdesc/ bioghist/ list/ defitem/ item ||| (item 3)</item>
+                </defitem>
+            </list>
+        </bioghist>
+        <bioghist>
+            <list type="deflist">
+                <head>151 ead/ archdesc/ bioghist/ list/ head ||| (over a type = deflist)</head>
+                <listhead>
+                    <head01>152 ead/ archdesc/ bioghist/ list/ listhead/ head01 ||| </head01>
+                    <head02>153 ead/ archdesc/ bioghist/ list/ listhead/ head02 ||| </head02>
+                </listhead>
+                <defitem>
+                    <label><abbr>154 ead/ archdesc/ bioghist/ list/ defitem/ label/ abbr ||| (abbr
+                            1)</abbr></label>
+                    <item><expan abbr="abbr">155 ead/ archdesc/ bioghist/ list/ defitem/ item |||
+                            (item 1)</expan></item>
+                </defitem>
+                <defitem>
+                    <label><abbr>156 ead/ archdesc/ bioghist/ list/ defitem/ label/abbr ||| (abbr
+                            2)</abbr></label>
+                    <item>157 ead/ archdesc/ bioghist/ list/ defitem/ item ||| (item 2)</item>
+                </defitem>
+                <defitem>
+                    <label><abbr>158 ead/ archdesc/ bioghist/ list/ defitem/ label/ abbr ||| (abbr
+                            3)</abbr></label>
+                    <item>159 ead/ archdesc/ bioghist/ list/ defitem/ item ||| (item 3)</item>
+                </defitem>
+            </list>
+        </bioghist>
+        <controlaccess>
+            <corpname>160 ead/ archdesc/ controlaccess/ corpname |||</corpname>
+            <famname>161 ead/ archdesc/ controlaccess/ famname |||</famname>
+            <function>162 ead/ archdesc/ controlaccess/ function |||</function>
+            <genreform>163 ead/ archdesc/ controlaccess/ genreform |||</genreform>
+            <geogname>164 ead/ archdesc/ controlaccess/ geogname |||</geogname>
+            <name>165 ead/ archdesc/ controlaccess/ name |||</name>
+            <occupation>166 ead/ archdesc/ controlaccess/ occupation |||</occupation>
+            <persname>167 ead/ archdesc/ controlaccess/ persname |||</persname>
+            <subject>168 ead/ archdesc/ controlaccess/ subject |||</subject>
+            <title>169 ead/ archdesc/ controlaccess/ title |||</title>
+        </controlaccess>
+        <controlaccess>
+            <note>
+                <p>170 ead/ archdesc/ controlaccess/ note/ p |||</p>
+            </note>
+        </controlaccess>
+        <controlaccess>
+            <list>
+                <item>
+                    <corpname>171 ead/ archdesc/ controlaccess/ list/ item/ corpname |||</corpname>
+                    <famname>172 ead/ archdesc/ controlaccess/ list/ item/ famname |||</famname>
+                    <genreform>173 ead/ archdesc/ controlaccess/ list/ item/ genreform
+                        |||</genreform>
+                    <geogname>174 ead/ archdesc/ controlaccess/ list/ item/ geogname |||</geogname>
+                    <name>175 ead/ archdesc/ controlaccess/ list/ item/ name |||</name>
+                    <occupation>176 ead/ archdesc/ controlaccess/ list/ item/ occupation
+                        |||</occupation>
+                    <persname>177 ead/ archdesc/ controlaccess/ list/ item/ persname |||</persname>
+                    <subject>178 ead/ archdesc/ controlaccess/ list/ item/ subject |||</subject>
+                    <title>179 ead/ archdesc/ controlaccess/ list/ item/ title |||</title>
+                </item>
+            </list>
+        </controlaccess>
+        <controlaccess>
+            <controlaccess>
+                <corpname>180 ead/ archdesc/ controlaccess/ controlaccess/ corpname |||</corpname>
+            </controlaccess>
+            <controlaccess>
+                <famname>181 ead/ archdesc/ controlaccess/ controlaccess/ famname |||</famname>
+            </controlaccess>
+            <controlaccess>
+                <genreform>182 ead/ archdesc/ controlaccess/ controlaccess/ genreform
+                    |||</genreform>
+            </controlaccess>
+            <controlaccess>
+                <geogname>183 ead/ archdesc/ controlaccess/ controlaccess/ geogname |||</geogname>
+            </controlaccess>
+            <controlaccess>
+                <name>184 ead/ archdesc/ controlaccess/ controlaccess/ name |||</name>
+            </controlaccess>
+            <controlaccess>
+                <occupation>185 ead/ archdesc/ controlaccess/ controlaccess/ occupation
+                    |||</occupation>
+            </controlaccess>
+            <controlaccess>
+                <persname>186 ead/ archdesc/ controlaccess/ controlaccess/ persname |||</persname>
+            </controlaccess>
+            <controlaccess>
+                <subject>187 ead/ archdesc/ controlaccess/ controlaccess/ subject |||</subject>
+            </controlaccess>
+            <controlaccess>
+                <title>188 ead/ archdesc/ controlaccess/ controlaccess/ title |||</title>
+            </controlaccess>
+        </controlaccess>
+        <controlaccess>
+            <p><list>
+                    <item>
+                        <corpname>189 ead/ archdesc/ controlaccess/ p/ list/ item/ corpname
+                            |||</corpname>
+                        <famname>190 ead/ archdesc/ controlaccess/ p/ list/ item/ famname
+                            |||</famname>
+                        <genreform>191 ead/ archdesc/ controlaccess/ p/ list/ item/ genreform
+                            |||</genreform>
+                        <geogname>192 ead/ archdesc/ controlaccess/ p/ list/ item/ geogname
+                            |||</geogname>
+                        <name>193 ead/ archdesc/ controlaccess/ p/ list/ item/ name |||</name>
+                        <occupation>194 ead/ archdesc/ controlaccess/ p/ list/ item/ occupation
+                            |||</occupation>
+                        <persname>195 ead/ archdesc/ controlaccess/ p/ list/ item/ persname
+                            |||</persname>
+                        <subject>196 ead/ archdesc/ controlaccess/ p/ list/ item/ subject
+                            |||</subject>
+                        <title>197 ead/ archdesc/ controlaccess/ p/ list/ item/ title |||</title>
+                    </item>
+                </list>
+            </p>
+        </controlaccess>
+        <controlaccess>
+            <note>
+                <p>198 ead/ archdesc/ controlaccess/ note/ p |||</p>
+                <p><corpname>199 ead/ archdesc/ controlaccess/ note/ p/ corpname |||</corpname></p>
+                <p><famname>200 ead/ archdesc/ controlaccess/ note/ p/ famname |||</famname></p>
+                <p><function>201 ead/ archdesc/ controlaccess/ note/ p/ function |||</function></p>
+                <p><genreform>202 ead/ archdesc/ controlaccess/ note/ p/ genreform
+                        |||</genreform><geogname>203 ead/ archdesc/ controlaccess/ note/ p/ geogname
+                        |||</geogname></p>
+                <p><name>204 ead/ archdesc/ controlaccess/ note/ p/ name |||</name></p>
+                <p><occupation>205 ead/ archdesc/ controlaccess/ note/ p/ occupation
+                        |||</occupation></p>
+                <p><persname>206 ead/ archdesc/ controlaccess/ note/ p/ persname |||</persname></p>
+                <p><subject>207 ead/ archdesc/ controlaccess/ subject |||</subject></p>
+                <p><title>208 ead/ archdesc/ controlaccess/ note/ p/ title |||</title></p>
+            </note>
+        </controlaccess>
+        <custodhist>
+            <head>209 ead/ archdesc/ custodhist/ head |||</head>
+            <p>210 ead/ archdesc/ custodhist/ p |||</p>
+        </custodhist>
+        <custodhist>
+            <p>211 ead/ archdesc/ custodhist/ p ||| (no head) </p>
+        </custodhist>
+        <custodhist>
+            <acqinfo>
+                <p>212 ead/ archdesc/ custodhist/ acquinfo/ p |||</p>
+            </acqinfo>
+        </custodhist>
+        <fileplan>
+            <head>ead/ archdesc/ fileplan/ head |||</head>
+            <p>213 ead/ archdesc/ fileplan/ p |||</p>
+        </fileplan>
+        <fileplan>
+            <p>214 ead/ archdesc/ fileplan/ p ||| (no head) </p>
+        </fileplan>
+        <note>
+            <p>215 ead/ archdesc/ note/ p |||</p>
+        </note>
+        <note>
+            <p>216 ead/ archdesc/ note/ p ||| (mixed content) <title>217 ead/ archdesc/ note/ p/
+                    title |||</title></p>
+        </note>
+        <odd>
+            <head>218 ead/ archdesc/ odd/ head |||</head>
+            <p>219 ead/ archdesc/ odd/ p |||</p>
+        </odd>
+        <odd>
+            <p>220 ead/ archdesc/ odd/ p ||| (no head) </p>
+        </odd>
+        <odd type="type">
+            <p>221 ead/ archdesc/ odd/ p ||| (with type) </p>
+        </odd>
+        <odd encodinganalog="encodinganalog">
+            <p>222 ead/ archdesc/ odd/ p ||| (with encodinganalog) </p>
+        </odd>
+        <originalsloc>
+            <head>223 ead/ archdesc/ originalsloc/ head |||</head>
+            <p>224 ead/ archdesc/ originalsloc/ p |||</p>
+        </originalsloc>
+        <originalsloc>
+            <p>225 ead/ archdesc/ originalsloc/ p ||| (no head) </p>
+        </originalsloc>
+        <otherfindaid>
+            <head>226 ead/ archdesc/ otherfindaid/ head |||</head>
+            <p>227 ead/ archdesc/ otherfindaid/ p |||</p>
+        </otherfindaid>
+        <otherfindaid>
+            <p>228 ead/ archdesc/ otherfindaid/ p ||| (no head) </p>
+        </otherfindaid>
+        <otherfindaid>
+            <p>229 ead/ archdesc/ otherfindaid/ p ||| (with external ref) <extref
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="http://nrs.harvard.edu/urn-3:HUL.ARCH:hua23004" xlink:show="new">230
+                    ead/ archdesc/ otherfindaid/ p/ extref ||| (with attributes) </extref></p>
+        </otherfindaid>
+        <phystech>
+            <head>231 ead/ archdesc/ phystech/ head |||</head>
+            <p>232 ead/ archdesc/ phystech/ p |||</p>
+        </phystech>
+        <phystech>
+            <p>233 ead/ archdesc/ phystech/ p ||| (no head) </p>
+        </phystech>
+        <prefercite>
+            <head>234 ead/ archdesc/ prefercite/ head |||</head>
+            <p>235 ead/ archdesc/ prefercite/ p |||</p>
+        </prefercite>
+        <prefercite>
+            <p>236 ead/ archdesc/ prefercite/ p ||| (no head) </p>
+        </prefercite>
+        <processinfo>
+            <head>237 ead/ archdesc/ processinfo/ head |||</head>
+            <p>238 ead/ archdesc/ processinfo/ p |||</p>
+        </processinfo>
+        <processinfo>
+            <p>239 ead/ archdesc/ processinfo/ p ||| (no head) </p>
+        </processinfo>
+        <processinfo>
+            <p>240 ead/ archdesc/ processinfo/ p ||| (mixed content) <persname>241 ead/ archdesc/
+                    processinfo/ p/ persname ||| </persname></p>
+        </processinfo>
+        <relatedmaterial>
+            <head>242 ead/ archdesc/ relatedmaterial/ head |||</head>
+            <p>243 ead/ archdesc/ relatedmaterial/ p |||</p>
+        </relatedmaterial>
+        <relatedmaterial>
+            <p>244 ead/ archdesc/ relatedmaterial/ p ||| (no head) </p>
+        </relatedmaterial>
+        <relatedmaterial>
+            <head>245 ead/ archdesc/ relatedmaterial/ head |||</head>
+            <p>246 ead/ archdesc/ relatedmaterial/ p |||<extref
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="http://nrs.harvard.edu/urn-3:HUL.ARCH:hua23004" xlink:show="new">247
+                    ead/ archdesc/ relatedmaterial/ p/ extref ||| (with attributes) </extref></p>
+        </relatedmaterial>
+        <scopecontent>
+            <head>248 ead/ archdesc/ scopecontent/ head |||</head>
+            <p>249 ead/ archdesc/ scopecontent/ p |||</p>
+        </scopecontent>
+        <scopecontent>
+            <p>250 ead/ archdesc/ scopecontent/ p ||| (no head) </p>
+        </scopecontent>
+        <scopecontent>
+            <p>251 ead/ archdesc/ scopecontent/ p ||| (mixed content) <persname>252 ead/ archdesc/
+                    scopecontent/ p/ persname ||| </persname></p>
+        </scopecontent>
+        <separatedmaterial>
+            <head>253 ead/ archdesc/ separatedmaterial/ head |||</head>
+            <p>254 ead/ archdesc/ separatedmaterial/ p |||</p>
+        </separatedmaterial>
+        <separatedmaterial>
+            <p>255 ead/ archdesc/ separatedmaterial/ p ||| (no head) </p>
+        </separatedmaterial>
+        <separatedmaterial>
+            <p>256 ead/ archdesc/ separatedmaterial/ p ||| <archref>257 ead/ archdesc/
+                    separatedmaterial/ p/ archref ||| </archref></p>
+        </separatedmaterial>
+        <separatedmaterial>
+            <p><extref xmlns:xlink="http://www.w3.org/1999/xlink"
+                    xlink:href="http://nrs.harvard.edu/urn-3:HUL.ARCH:hua23004" xlink:show="new">258
+                    ead/ archdesc/ separatedmaterial/ p/ extref ||| (with attributes) </extref></p>
+        </separatedmaterial>
+        <userestrict>
+            <head>259 ead/ archdesc/ userestrict/ head |||</head>
+            <p>260 ead/ archdesc/ userestrict/ p |||</p>
+        </userestrict>
+        <dsc type="combined">
+            <c level="series" id="id1">
+                <did>
+                    <container type="type">261 ead/ archdesc/ dsc/ c/ did/ container ||| </container>
+                    <langmaterial>262 ead/ archdesc/ dsc/ c/ did/ langmaterial ||| </langmaterial>
+                    <materialspec>263 ead/ archdesc/ dsc/ c/ did/ materialspec ||| </materialspec>
+                    <note>
+                        <p>264 ead/ archdesc/ dsc/ c/ did/ note/ p ||| </p>
+                    </note>
+                    <origination>265 ead/ archdesc/ dsc/ c/ did/ origination ||| (mixed content)
+                            <persname>266 ead/ archdesc/ dsc/ c/ did/ origination/ persname |||
+                        </persname></origination>
+                    <physdesc>267 ead/ archdesc/ dsc/ c/ did/ physdesc ||| </physdesc>
+                    <physdesc>268 ead/ archdesc/ dsc/ c/ did/ physdesc ||| <dimensions>269 ead/
+                            archdesc/ dsc/ c/ did/ physdesc/ dimensions ||| </dimensions><extent>270
+                            ead/ archdesc/ dsc/ c/ did/ physdesc/ extent ||| </extent><genreform>271
+                            ead/ archdesc/ dsc/ c/ did/ physdesc/ genreform |||
+                        </genreform></physdesc>
+                    <physloc>272 ead/ archdesc/ dsc/ c/ did/ physloc |||</physloc>
+                    <unitdate normal="1980/1990">273 ead/ archdesc/ dsc/ c/ did/ unitdate
+                        |||</unitdate>
+                    <unitid>274 ead/ archdesc/ dsc/ c/ did/ unitid |||</unitid>
+                    <unittitle>275 ead/ archdesc/ dsc/ c/ did/ unittitle ||| </unittitle>
+                </did>
+                <accessrestrict>
+                    <p>276 ead/ archdesc/ dsc/ c/ accessrestrict/ p ||| </p>
+                </accessrestrict>
+                <accruals>
+                    <p>277 ead/ archdesc/ dsc/ c/ accruals/ p ||| </p>
+                </accruals>
+                <acqinfo>
+                    <p>278 ead/ archdesc/ dsc/ c/ acqinfo/ p ||| </p>
+                </acqinfo>
+                <altformavail>
+                    <p>279 ead/ archdesc/ dsc/ c/ altformavail/ p ||| </p>
+                </altformavail>
+                <appraisal>
+                    <p>280 ead/ archdesc/ dsc/ c/ appraisal/ p ||| </p>
+                </appraisal>
+                <arrangement>
+                    <p>281 ead/ archdesc/ dsc/ c/ arrangement/ p ||| </p>
+                </arrangement>
+                <bioghist>
+                    <p>282 ead/ archdesc/ dsc/ c/ bioghist/ p ||| </p>
+                </bioghist>
+                <controlaccess>
+                    <corpname>283 ead/ archdesc/ dsc/ c/ controlaccess/ corpname ||| </corpname>
+                </controlaccess>
+                <custodhist>
+                    <p>284 ead/ archdesc/ dsc/ c/ custodhist/ p ||| </p>
+                </custodhist>
+                <note>
+                    <p>285 ead/ archdesc/ dsc/ c/ note/ p ||| </p>
+                </note>
+                <odd>
+                    <p>286 ead/ archdesc/ dsc/ c/ odd/ p ||| </p>
+                </odd>
+                <originalsloc>
+                    <p>287 ead/ archdesc/ dsc/ c/ originalsloc/ p ||| </p>
+                </originalsloc>
+                <otherfindaid>
+                    <p>288 ead/ archdesc/ dsc/ c/ otherfindaid/ p ||| </p>
+                </otherfindaid>
+                <phystech>
+                    <p>289 ead/ archdesc/ dsc/ c/ phystech/ p ||| </p>
+                </phystech>
+                <prefercite>
+                    <p>290 ead/ archdesc/ dsc/ c/ prefercite/ p ||| </p>
+                </prefercite>
+                <processinfo>
+                    <p>291 ead/ archdesc/ dsc/ c/ processinfo/ p ||| </p>
+                </processinfo>
+                <relatedmaterial>
+                    <p>292 ead/ archdesc/ dsc/ c/ relatedmaterial/ p ||| </p>
+                </relatedmaterial>
+                <scopecontent>
+                    <p>293 ead/ archdesc/ dsc/ c/ scopecontent/ p ||| </p>
+                </scopecontent>
+                <separatedmaterial>
+                    <p>294 ead/ archdesc/ dsc/ c/ separatedmaterial/ p ||| </p>
+                </separatedmaterial>
+                <userestrict>
+                    <p>295 ead/ archdesc/ dsc/ c/ userestrict/ p ||| </p>
+                </userestrict>
+            </c>
+            <c level="series" id="id2">
+                <did>
+                    <unittitle>296 ead/ archdesc/ dsc/ c/ did/ unittitle |||</unittitle>
+                    <physdesc><extent>297 ead/ archdesc/ dsc/ c/ did/ physdesc/ extent |||
+                        </extent></physdesc>
+                    <unitdate normal="1980/1990">298 ead/ archdesc/ dsc/ c/ did/ unitdate
+                        |||</unitdate>
+                    <unitid>299 ead/ archdesc/ dsc/ c/ did/ unitid |||</unitid>
+                    <container type="box">300 ead/ archdesc/ dsc/ c/ did/ container ||| (Box 300) </container>
+                    <container type="folder">301 ead/ archdesc/ dsc/ c/ did/ container ||| (Folder
+                        301) </container>
+                </did>
+                <c level="subseries" id="id2-1">
+                    <did>
+                        <unittitle>302 ead/ archdesc/ dsc/ c/ did/ unittitle |||</unittitle>
+                        <physdesc><extent>303 ead/ archdesc/ dsc/ c/ did/ physdesc/ extent |||
+                            </extent></physdesc>
+                        <unitdate normal="1980/1990">304 ead/ archdesc/ dsc/ c/ did/ unitdate
+                            |||</unitdate>
+                        <unitid>305 ead/ archdesc/ dsc/ c/ did/ unitid |||</unitid>
+                        <container type="box">306 ead/ archdesc/ dsc/ c/ did/ container ||| (Box
+                            306) </container>
+                        <container type="folder">307 ead/ archdesc/ dsc/ c/ did/ container |||
+                            (Folder 307) </container>
+                    </did>
+                    <c level="otherlevel" id="id2-1-1" otherlevel="otherlevel">
+                        <did>
+                            <unittitle>308 ead/ archdesc/ dsc/ c/ did/ unittitle |||</unittitle>
+                            <physdesc><extent>309 ead/ archdesc/ dsc/ c/ did/ physdesc/ extent |||
+                                </extent></physdesc>
+                            <unitdate normal="1980/1990">310 ead/ archdesc/ dsc/ c/ did/ unitdate
+                                |||</unitdate>
+                            <unitid>311 ead/ archdesc/ dsc/ c/ did/ unitid |||</unitid>
+                            <container type="box">312 ead/ archdesc/ dsc/ c/ did/ container ||| (Box
+                                312) </container>
+                            <container type="folder">313 ead/ archdesc/ dsc/ c/ did/ container |||
+                                (Folder 313) </container>
+                        </did>
+                    </c>
+                    <c level="file" id="id2-1-2">
+                        <did>
+                            <unittitle>314 ead/ archdesc/ dsc/ c/ did/ unittitle |||</unittitle>
+                            <physdesc><extent>315 ead/ archdesc/ dsc/ c/ did/ physdesc/ extent |||
+                                </extent></physdesc>
+                            <unitdate normal="1980/1990">316 ead/ archdesc/ dsc/ c/ did/ unitdate
+                                |||</unitdate>
+                            <unitid>317 ead/ archdesc/ dsc/ c/ did/ unitid |||</unitid>
+                            <container type="box">318 ead/ archdesc/ dsc/ c/ did/ container ||| (Box
+                                318) </container>
+                            <container type="folder">319 ead/ archdesc/ dsc/ c/ did/ container |||
+                                (Folder 319) </container>
+                        </did>
+                    </c>
+                    <c level="item" id="id2-1-3">
+                        <did>
+                            <unittitle>320 ead/ archdesc/ dsc/ c/ did/ unittitle |||</unittitle>
+                            <physdesc><extent>321 ead/ archdesc/ dsc/ c/ did/ physdesc/ extent |||
+                                </extent></physdesc>
+                            <unitdate normal="1980/1990">322 ead/ archdesc/ dsc/ c/ did/ unitdate
+                                |||</unitdate>
+                            <unitid>323 ead/ archdesc/ dsc/ c/ did/ unitid |||</unitid>
+                            <container type="box">324 ead/ archdesc/ dsc/ c/ did/ container ||| (Box
+                                324) </container>
+                            <container type="folder">325 ead/ archdesc/ dsc/ c/ did/ container |||
+                                (Folder 325) </container>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="id2-3">
+                    <did>
+                        <unittitle>326 ead/ archdesc/ dsc/ c/ did/ unittitle |||</unittitle>
+                        <physdesc><extent>327 ead/ archdesc/ dsc/ c/ did/ physdesc/ extent |||
+                            </extent></physdesc>
+                        <unitdate normal="1980/1990">328 ead/ archdesc/ dsc/ c/ did/ unitdate
+                            |||</unitdate>
+                        <unitid>329 ead/ archdesc/ dsc/ c/ did/ unitid |||</unitid>
+                        <container type="box">330 ead/ archdesc/ dsc/ c/ did/ container ||| (Box
+                            330) </container>
+                        <container type="folder">331 ead/ archdesc/ dsc/ c/ did/ container |||
+                            (Folder 331) </container>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

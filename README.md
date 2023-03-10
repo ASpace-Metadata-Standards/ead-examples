@@ -3,9 +3,8 @@
 
 ### Example Encoded Archival Description (EAD) Documents
 
-Within this repository, members of the Metadata Standards Sub-Team shall track
-examples of [EAD Documents](https://www.loc.gov/ead/) which shall be used for 
+Within this repository, members of the Metadata Standards Sub-Team track
+examples of [EAD Documents](https://www.loc.gov/ead/) used for 
 testing importation and the extraction of metadata within ArchivesSpace.
 
-This repository is structured with directories at the root path, each of which 
-contains a collection of EADs from a participating institution or organization.
+The repository also includes a number of dedicated test files

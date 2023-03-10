@@ -3,29 +3,46 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      audience="external"
-     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+     altrender="abc"
+     id="a90-bc"
+     relatedencoding="abc">
    <eadheader countryencoding="iso3166-1"
               dateencoding="iso8601"
               langencoding="iso639-2b"
               repositoryencoding="iso15511"
-              scriptencoding="iso15924">
+              scriptencoding="iso15924"
+              altrender="abc"
+              audience="external"
+              encodinganalog="abc"
+              findaidstatus="abc"
+              id="ab432c"
+              relatedencoding="abc">
       <eadid countrycode="US"
              mainagencycode="US-NjP"
              url="http://arks.princeton.edu/ark:/88435/rj430454b"
-             urn="ark:/88435/rj430454b">ead/eadheader/eadid/text()</eadid>
-      <filedesc>
-         <titlestmt>
-            <titleproper>
+             urn="ark:/88435/rj430454b"
+             encodinganalog="abc"
+             identifier="abc"
+             publicid="abc">ead/eadheader/eadid/text()</eadid>
+      <filedesc altrender="abc" audience="external" encodinganalog="abc" id="ab098c">
+         <titlestmt altrender="abc" audience="external" encodinganalog="abc" id="a34gbc">
+            <titleproper altrender="abc"
+                         audience="external"
+                         encodinganalog="abc"
+                         id="a456hbc"
+                         render="bold"
+                         type="bold">
                <date normal="1917/1950" type="inclusive">ead/eadheader/filedesc/titlestmt/titleproper/date/text()</date>
                <abbr>ead/eadheader/filedesc/titlestmt/titleproper/abbr/text()</abbr>
                <emph>ead/eadheader/filedesc/titlestmt/titleproper/emph/text()</emph>
-               <expan>ead/eadheader/filedesc/titlestmt/titleproper/expan/text()</expan>
-               <extptr/>
+               <expan altrender="abc" id="ab876c">ead/eadheader/filedesc/titlestmt/titleproper/expan/text()</expan>
+               <extptr  xlink:type="simple"/>
                <lb/>
                <num>ead/eadheader/filedesc/titlestmt/titleproper/num/text()</num>
-               <ptr/>
+               <ptr xlink:type="simple"/>
             </titleproper>
-            <subtitle>
+            <subtitle altrender="abc" audience="external" encodinganalog="abc" id="a34bc">
                <ptr/>
                <num>ead/eadheader/filedesc/titlestmt/subtitle/num/text()</num>
                <lb/>
@@ -34,23 +51,29 @@
                <emph>ead/eadheader/filedesc/titlestmt/subtitle/emph/text()</emph>
                <date>ead/eadheader/filedesc/titlestmt/subtitle/date/text()</date>
                <abbr>ead/eadheader/filedesc/titlestmt/subtitle/abbr/text()</abbr>ead/eadheader/filedesc/titlestmt/subtitle/text()</subtitle>
-            <author>ead/eadheader/filedesc/titlestmt/author/text()<emph>ead/eadheader/filedesc/titlestmt/author/emph/text()</emph>
+            <author altrender="abc" audience="external" encodinganalog="abc" id="a45bc">ead/eadheader/filedesc/titlestmt/author/text()<emph>ead/eadheader/filedesc/titlestmt/author/emph/text()</emph>
                <lb/>
                <extptr xlink:href="abc"/>
                <ptr xlink:href="#MC001.01_b1"/>
             </author>
-            <sponsor>
+            <sponsor altrender="abc" audience="external" encodinganalog="abc" id="ab67ic">
                <ptr/>
                <lb/>
                <extptr/>
                <emph>ead/eadheader/filedesc/titlestmt/sponsor/emph/text()</emph>ead/eadheader/filedesc/titlestmt/sponsor/text()</sponsor>
          </titlestmt>
-         <editionstmt>
-            <edition>ead/eadheader/filedesc/editionstmt/edition/text()</edition>
+         <editionstmt altrender="abc" audience="external" encodinganalog="abc" id="ab654c">
+            <edition altrender="abc" audience="external" encodinganalog="abc" id="ab543c">ead/eadheader/filedesc/editionstmt/edition/text()</edition>
             <p>ead/eadheader/filedesc/editionstmt/p/text()</p>
          </editionstmt>
-         <publicationstmt id="muddAddress">
-            <publisher>ead/eadheader/filedesc/publicationstmt/publisher/text()<emph>ead/eadheader/filedesc/publicationstmt/publisher/emph/text()</emph>
+         <publicationstmt id="muddAddress"
+                          altrender="abc"
+                          audience="external"
+                          encodinganalog="abc">
+            <publisher altrender="abc"
+                       audience="external"
+                       encodinganalog="abc"
+                       id="ab5757c">ead/eadheader/filedesc/publicationstmt/publisher/text()<emph>ead/eadheader/filedesc/publicationstmt/publisher/emph/text()</emph>
                <extptr/>
                <lb/>
                <ptr/>
@@ -87,19 +110,32 @@
                   <emph altrender="ead/eadheader/filedesc/publicationstmt/address/addressline/emphATTRaltrender"
                         id="fakeidc99"
                         render="bold">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/text()<abbr>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/abbr/text()</abbr>
-                     <archref>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/archref/text()</archref>
+                     <archref  xlink:type="simple">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/archref/text()</archref>
                      <bibref>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/bibref/text()</bibref>
                      <emph>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/emph/text()</emph>
                      <expan>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/expan/text()</expan>
                      <extptr/>
-                     <extref>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/extref/text()</extref>
+                     <extref  xlink:type="simple">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/extref/text()</extref>
                      <lb/>
-                     <linkgrp>
-                        <resource>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/linkgrp/resource/text()</resource>
+                  	<linkgrp xlink:type="extended">
+                        <resource altrender="abc"
+                                  audience="external"
+                                  id="ab8080c"
+                                  xlink:type="resource"
+                                  xlink:role="abc"
+                                  xlink:title="abc">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/linkgrp/resource/text()</resource>
                      </linkgrp>
                      <ptr/>
-                     <ref>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/ref/text()</ref>
-                     <title>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/title/text()</title>
+                     <ref altrender="abc"
+                          xlink:arcrole="abc"
+                          audience="external"
+                          xlink:href="abc"
+                          id="abc6868"
+                          xlink:type="simple"
+                          xlink:role="abc"
+                          xlink:title="abc"
+                          xpointer="MC001.01_i1">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/ref/text()</ref>
+                     <title >ead/eadheader/filedesc/publicationstmt/address/addressline/emph/title/text()</title>
                   </emph>ead/eadheader/filedesc/publicationstmt/address/addressline/text()<lb/>
                </addressline>
             </address>
@@ -107,12 +143,15 @@
             <num>ead/eadheader/filedesc/publicationstmt/num/text()</num>
             <p>ead/eadheader/filedesc/publicationstmt/p/text()</p>
          </publicationstmt>
-         <seriesstmt>
+         <seriesstmt altrender="abc"
+                     audience="external"
+                     encodinganalog="abc"
+                     id="abhy65c">
             <p>ead/eadheader/filedesc/seriesstmt/p/text()</p>
             <titleproper>ead/eadheader/filedesc/seriesstmt/titleproper/text()</titleproper>
             <num>ead/eadheader/filedesc/seriesstmt/num/text()</num>
          </seriesstmt>
-         <notestmt>
+         <notestmt altrender="abc" audience="external" encodinganalog="abc" id="ab808c">
             <note>
                <p>ead/eadheader/filedesc/notestmt/note/p/text()</p>
             </note>
@@ -122,7 +161,7 @@
                    audience="external"
                    encodinganalog="ead/eadheader/profiledescATTRencodinganalog"
                    id="d234">
-         <creation>
+         <creation altrender="abc" audience="external" encodinganalog="abc" id="a67bc">
             <date normal="2007-02-22">ead/eadheader/profiledesc/creation/date/text()</date>
             <abbr>ead/eadheader/profiledesc/creation/abbr/text()</abbr>
             <archref>ead/eadheader/profiledesc/creation/archref/text()</archref>
@@ -192,10 +231,10 @@
                <origination>ead/eadheader/profiledesc/langusage/ref/origination/text()</origination>
                <persname>ead/eadheader/profiledesc/langusage/ref/persname/text()</persname>
                <repository>ead/eadheader/profiledesc/langusage/ref/repository/text()</repository>
-               <subject>ead/eadheader/profiledesc/langusage/ref/subject/text()</subject>
+               <subject altrender="abc" audience="external" id="ab12ec" normal="abc">ead/eadheader/profiledesc/langusage/ref/subject/text()</subject>
                <table>
                   <head>ead/eadheader/profiledesc/langusage/ref/table/head/text()</head>
-                  <tgroup cols="abc">
+                  <tgroup cols="abc" rowsep="abc">
                      <tbody>
                         <row>
                            <entry>ead/eadheader/profiledesc/langusage/ref/table/tgroup/tbody/row/entry/text()</entry>
@@ -211,8 +250,22 @@
             <archref>ead/eadheader/profiledesc/langusage/archref/text()<abstract>ead/eadheader/profiledesc/langusage/archref/abstract/text()</abstract>
                <bibref>ead/eadheader/profiledesc/langusage/archref/bibref/text()</bibref>
                <container>ead/eadheader/profiledesc/langusage/archref/container/text()</container>
-               <dao xlink:href="abc"/>
-               <daogrp>
+               <dao xlink:href="abc"
+                    xlink:actuate="onLoad"
+                    altrender="abc"
+                    xlink:arcrole="abc"
+                    audience="external"
+                    
+                    id="ab78c"
+                    xlink:type="simple"
+                    xlink:show="embed"
+                    xpointer="MC001.01_i1"/>
+               <daogrp altrender="abc"
+                       audience="external"
+                       id="a90bc"
+                       xlink:type="extended"
+                       xlink:role="abc"
+                       xlink:title="abc">
                   <resource>ead/eadheader/profiledesc/langusage/archref/daogrp/resource/text()</resource>
                </daogrp>
                <emph>ead/eadheader/profiledesc/langusage/archref/emph/text()</emph>
@@ -227,7 +280,12 @@
                </note>
                <origination>ead/eadheader/profiledesc/langusage/archref/origination/text()</origination>
                <physdesc>ead/eadheader/profiledesc/langusage/archref/physdesc/text()</physdesc>
-               <physloc>ead/eadheader/profiledesc/langusage/archref/physloc/text()</physloc>
+               <physloc altrender="abc"
+                        audience="external"
+                        encodinganalog="abc"
+                        id="a242bc"
+                        label="abc"
+                        parent="abc">ead/eadheader/profiledesc/langusage/archref/physloc/text()</physloc>
                <ptr/>
                <ref>ead/eadheader/profiledesc/langusage/archref/ref/text()</ref>
                <unitdate>ead/eadheader/profiledesc/langusage/archref/unitdate/text()</unitdate>
@@ -292,7 +350,7 @@
                <archref>ead/eadheader/profiledesc/langusage/bibref/archref/text()</archref>
                <emph>ead/eadheader/profiledesc/langusage/bibref/emph/text()</emph>
                <famname>ead/eadheader/profiledesc/langusage/bibref/famname/text()</famname>
-               <imprint>ead/eadheader/profiledesc/langusage/bibref/imprint/text()<emph>ead/eadheader/profiledesc/langusage/bibref/imprint/emph/text()</emph>
+               <imprint altrender="abc" audience="external" encodinganalog="abc" id="a575">ead/eadheader/profiledesc/langusage/bibref/imprint/text()<emph>ead/eadheader/profiledesc/langusage/bibref/imprint/emph/text()</emph>
                   <extptr/>
                   <geogname>ead/eadheader/profiledesc/langusage/bibref/imprint/geogname/text()</geogname>
                   <lb/>
@@ -446,7 +504,7 @@
                   </listhead>
                   <chronitem>
                      <date>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/date/text()</date>
-                     <eventgrp>
+                     <eventgrp altrender="abc" audience="external" id="abc765">
                         <event>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/text()<blockquote>
                               <p>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/blockquote/p/text()</p>
                            </blockquote>
@@ -536,7 +594,13 @@
                <extrefloc altrender="ead/eadheader/profiledesc/langusage/linkgrp/extreflocATTRaltrender"
                           audience="external"
                           id="xdds8"
-                          xlink:href="#bib1">
+                          xlink:href="#bib1"
+                          
+                          xlink:label="abc"
+                          xlink:type="locator"
+                          xlink:role="abc"
+                          xlink:title="abc"
+                          xpointer="MC001.01_i1">
                   <extptr xlink:href="#bib1"/>
                   <note>
                      <p>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/note/p/text()</p>
@@ -620,15 +684,18 @@
             <title>ead/eadheader/profiledesc/descrules/title/text()</title>
          </descrules>
       </profiledesc>
-      <revisiondesc>
-         <change>
+      <revisiondesc altrender="abc"
+                    audience="external"
+                    encodinganalog="abc"
+                    id="asfdgbc">
+         <change altrender="abc" audience="external" encodinganalog="abc" id="ab56c">
             <date normal="2012-05-02">ead/eadheader/revisiondesc/change/date/text()</date>
             <item>ead/eadheader/revisiondesc/change/item/text()</item>
          </change>
       </revisiondesc>
    </eadheader>
-   <frontmatter>
-      <titlepage>
+   <frontmatter altrender="abc" audience="external" id="ab464c">
+      <titlepage altrender="abc" audience="external" id="a34rbgbc">
          <titleproper>ead/frontmatter/titlepage/titleproper/text()</titleproper>
          <table>
             <head>ead/frontmatter/titlepage/table/head/text()</head>
@@ -674,7 +741,7 @@
          </address>
          <p>ead/frontmatter/titlepage/p/text()</p>
       </titlepage>
-      <div>
+      <div altrender="abc" audience="external" id="abc678">
          <head>ead/frontmatter/div/head/text()</head>
          <table>
             <head>ead/frontmatter/div/table/head/text()</head>
@@ -718,12 +785,16 @@
              otherlevel="archdesc_otherlevel"
              relatedencoding="ead/archdescATTRrelatedencoding"
              type="findingaid">
-      <runner>
+      <runner altrender="abc"
+              audience="external"
+              id="abt54c"
+              placement="footer"
+              role="footer">
          <ptr/>
          <lb/>
          <extptr/>
          <emph>ead/archdesc/runner/emph/text()</emph>ead/archdesc/runner/text()</runner>
-      <did>
+      <did altrender="abc" audience="external" encodinganalog="abc" id="ab567c">
          <head>ead/archdesc/did/head/text()</head>
          <unitid altrender="ead/archdesc/did/unitidATTRaltrender"
                  audience="external"
@@ -732,7 +803,8 @@
                  id="asdf"
                  label="ead/archdesc/did/unitidATTRlabel"
                  repositorycode="US-NjP"
-                 type="collection">
+                 type="collection"
+                 identifier="abc">
             <title>ead/archdesc/did/unitid/title/text()</title>
             <linkgrp>
                <resource>ead/archdesc/did/unitid/linkgrp/resource/text()</resource>
@@ -754,7 +826,7 @@
                      id="publicpolicy"
                      label="ead/archdesc/did/repositoryATTRlabel">ead/archdesc/did/repository/text()<corpname authfilenumber="ead/archdesc/did/repository/corpnameATTRauthfilenumber"
                       source="viaf">ead/archdesc/did/repository/corpname/text()</corpname>
-            <subarea>ead/archdesc/did/repository/subarea/text()<emph>ead/archdesc/did/repository/subarea/emph/text()</emph>
+            <subarea altrender="abc" audience="external" encodinganalog="abc" id="ab34rc">ead/archdesc/did/repository/subarea/text()<emph>ead/archdesc/did/repository/subarea/emph/text()</emph>
                <extptr/>
                <lb/>
                <ptr/>
@@ -924,12 +996,44 @@
                      xlink:role="local"
                      xlink:title="linkgrp"
                      xlink:type="extended">
-               <ptrloc xlink:href="some_link"/>
+               <ptrloc xlink:href="some_link"
+                       altrender="abc"
+                       audience="external"
+                       id="a46464bc"
+                       xlink:label="abc"
+                       xlink:type="locator"
+                       xlink:role="abc"
+                       target="abc"
+                       xlink:title="abc"
+                       xpointer="MC001.01_i1"/>
                <resource>ead/archdesc/did/abstract/linkgrp/resource/text()</resource>
-               <arc xlink:title="xlink_title"/>
-               <extptrloc xlink:href="#bib1"/>
+               <arc xlink:title="xlink_title"
+                    altrender="abc"
+                    xlink:arcrole="abc"
+                    audience="external"
+                    id="a23bc"
+                    xlink:type="arc"/>
+               <extptrloc xlink:href="#bib1"
+                          altrender="abc"
+                          audience="external"
+                          
+                          id="ab987c"
+                          xlink:label="abc"
+                          xlink:type="locator"
+                          xlink:role="abc"
+                          xlink:title="abc"
+                          xpointer="MC001.01_i1"/>
                <ptrloc xlink:href="#bib1"/>
-               <refloc xlink:href="#bib1">ead/archdesc/did/abstract/linkgrp/refloc/text()<abbr>ead/archdesc/did/abstract/linkgrp/refloc/abbr/text()</abbr>
+               <refloc xlink:href="#bib1"
+                       altrender="abc"
+                       audience="external"
+                       id="ab7979c"
+                       xlink:label="abc"
+                       xlink:type="locator"
+                       xlink:role="abc"
+                       target="abc"
+                       xlink:title="abc"
+                       xpointer="MC001.01_i1">ead/archdesc/did/abstract/linkgrp/refloc/text()<abbr>ead/archdesc/did/abstract/linkgrp/refloc/abbr/text()</abbr>
                   <address>
                      <addressline>ead/archdesc/did/abstract/linkgrp/refloc/address/addressline/text()</addressline>
                   </address>
@@ -1071,7 +1175,7 @@
             </chronitem>
          </chronlist>
          <dao>
-            <daodesc>
+            <daodesc altrender="abc" audience="external" id="abc89">
                <head>ead/archdesc/odd/dao/daodesc/head/text()</head>
                <p>ead/archdesc/odd/dao/daodesc/p/text()</p>
                <address>
@@ -4937,7 +5041,16 @@
                <p>ead/archdesc/bioghist/daogrp/daodesc/p/text()<date normal="18950528">ead/archdesc/bioghist/daogrp/daodesc/p/date/text()</date>ead/archdesc/bioghist/daogrp/daodesc/p/text()</p>
             </daodesc>
             <resource xlink:label="start" xlink:type="resource">ead/archdesc/bioghist/daogrp/resource/text()</resource>
-            <daoloc xlink:href="f0042_1tmb" xlink:label="thumb" xlink:type="locator">
+            <daoloc xlink:href="f0042_1tmb"
+                    xlink:label="thumb"
+                    xlink:type="locator"
+                    altrender="abc"
+                    audience="external"
+                    
+                    id="a456bc"
+                    xlink:role="abc"
+                    xlink:title="abc"
+                    xpointer="MC001.01_i1">
                <daodesc>
                   <p>ead/archdesc/bioghist/daogrp/daoloc/daodesc/p/text()</p>
                </daodesc>
@@ -4990,7 +5103,11 @@
          </table>
          <p>ead/archdesc/bioghist/p/text()</p>
       </bioghist>
-      <descgrp id="dacs3">
+      <descgrp id="dacs3"
+               altrender="abc"
+               audience="external"
+               encodinganalog="abc"
+               type="abc">
          <bioghist>
             <p>ead/archdesc/descgrp/bioghist/p/text()</p>
          </bioghist>
@@ -5024,11 +5141,11 @@
          <descgrp>
             <p>ead/archdesc/descgrp/descgrp/p/text()</p>
          </descgrp>
-         <fileplan>
+         <fileplan altrender="abc" audience="external" encodinganalog="abc" id="a535bc">
             <p>ead/archdesc/descgrp/fileplan/p/text()</p>
          </fileplan>
-         <index>
-            <indexentry>
+         <index altrender="abc" audience="external" encodinganalog="abc" id="ab686c">
+            <indexentry altrender="abc" audience="external" id="abc">
                <name>ead/archdesc/descgrp/index/indexentry/name/text()</name>
             </indexentry>
          </index>
@@ -8140,7 +8257,7 @@
             <head>ead/archdesc/descgrp/prefercite/head/text()</head>
             <p>ead/archdesc/descgrp/prefercite/p/text()</p>
          </prefercite>
-         <phystech>
+         <phystech type="abc">
             <head>ead/archdesc/descgrp/phystech/head/text()</head>
             <p>ead/archdesc/descgrp/phystech/p/text()</p>
          </phystech>
@@ -8320,7 +8437,12 @@
          </table>
          <title>ead/archdesc/controlaccess/title/text()</title>
       </controlaccess>
-      <dsc type="combined">
+      <dsc type="combined"
+           altrender="abc"
+           audience="external"
+           encodinganalog="abc"
+           id="abc789"
+           tpattern="abc">
          <c altrender="ead/archdesc/dsc/cATTRaltrender"
             audience="external"
             encodinganalog="ead/archdesc/dsc/cATTRencodinganalog"
@@ -8444,7 +8566,15 @@
                            encodinganalog="ead/archdesc/dsc/c/did/physdesc/subjectATTRencodinganalog"
                            rules="local"
                            source="local">ead/archdesc/dsc/c/did/physdesc/subject/text()</subject>
-                  <physfacet>
+                  <physfacet altrender="abc"
+                             audience="external"
+                             encodinganalog="abc"
+                             id="a131bc"
+                             label="abc"
+                             rules="abc"
+                             source="abc"
+                             type="abc"
+                             unit="abc">
                      <abbr expan="ead/archdesc/dsc/c/did/physdesc/physfacet/abbrATTRexpan">ead/archdesc/dsc/c/did/physdesc/physfacet/abbr/text()</abbr>
                      <archref altrender="ead/archdesc/dsc/c/did/physdesc/physfacet/archrefATTRaltrender"
                               audience="external"
@@ -8760,7 +8890,7 @@
                      <name>ead/archdesc/dsc/c/c/index/indexentry/name/text()</name>
                   </indexentry>
                   <indexentry>
-                     <namegrp>
+                     <namegrp altrender="abc" audience="external" id="ab797c">
                         <title>ead/archdesc/dsc/c/c/index/indexentry/namegrp/title/text()</title>
                         <subject>ead/archdesc/dsc/c/c/index/indexentry/namegrp/subject/text()</subject>
                         <occupation>ead/archdesc/dsc/c/c/index/indexentry/namegrp/occupation/text()</occupation>
@@ -8775,7 +8905,7 @@
                         <persname>ead/archdesc/dsc/c/c/index/indexentry/namegrp/persname/text()</persname>
                         <corpname>ead/archdesc/dsc/c/c/index/indexentry/namegrp/corpname/text()</corpname>
                      </namegrp>
-                     <ptrgrp>
+                     <ptrgrp altrender="abc" audience="external" id="ab3535c">
                         <ptr xlink:href="#MC001.01_b1"/>
                         <ref xlink:href="#MC001.01_b1">ead/archdesc/dsc/c/c/index/indexentry/ptrgrp/ref/text()</ref>
                      </ptrgrp>

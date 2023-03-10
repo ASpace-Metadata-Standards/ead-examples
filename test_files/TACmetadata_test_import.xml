@@ -110,6 +110,7 @@
          <seriesstmt>
             <p>ead/eadheader/filedesc/seriesstmt/p/text()</p>
             <titleproper>ead/eadheader/filedesc/seriesstmt/titleproper/text()</titleproper>
+            <num>ead/eadheader/filedesc/seriesstmt/num/text()</num>
          </seriesstmt>
          <notestmt>
             <note>

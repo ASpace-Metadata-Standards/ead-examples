@@ -10,16 +10,21 @@ testing importation and the extraction of metadata within ArchivesSpace.
 The repository also includes a number of dedicated test files.
 
 ### EAD2002 Import Gotchas
-
+  
 ______________________
+resource-level
+______________________
+- extent is required
+- unitdate is required
+- unitid is required
+
+___________________
 extent and physdesc
 ______________________
 
-- extent on the collection level is required
 - extent may not contain commas
-- physdesc should have @altrender
-- extent should have @altrender
-- extent should have @unit
+- physdesc should have @altrender 
+- extent should have @altrender denoting "whole" or "part"
 - extent must start with a number
 - extent may not start with 0
 - extent may not contain parentheses
@@ -45,6 +50,7 @@ _______________________
 - unittitle may not be longer than 1277 characters
 - unittitle may not contain emph
 - end date cannot occur before start date
+- unitdate cannot be invalid
 - accessrestrict must have @type set to open, closed, or review 
 - accessrestrict set to closed or review must have altrender
 - c must have accessrestrict
@@ -55,5 +61,6 @@ _______________________
 other observations
 _______________________
 
-- empty elements are fatal
+- empty or head-only note elements are fatal
 - dsc[2] does not import
+- empty children of controlaccess are fatal

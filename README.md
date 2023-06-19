@@ -15,6 +15,7 @@ ______________________
 resource-level
 ______________________
 - extent is required
+- extent has to start with a number
 - unitdate is required
 - unitid is required
 - unitid is limited to 50 characters
@@ -24,8 +25,8 @@ ___________________
 extent and physdesc
 ______________________
 
-- extent may not contain commas
 - physdesc should have @altrender 
+- extent may not contain commas
 - extent should have @altrender denoting "whole" or "part"
 - extent must start with a number
 - extent may not start with 0

@@ -2,104 +2,25 @@
 <ead xmlns="urn:isbn:1-931666-22-9"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     altrender="abc"
      audience="external"
-     id="a90-bc"
-     relatedencoding="abc"
      xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-   <eadheader altrender="abc"
-              audience="external"
-              countryencoding="iso3166-1"
+   <eadheader countryencoding="iso3166-1"
               dateencoding="iso8601"
-              encodinganalog="abc"
-              findaidstatus="abc"
-              id="ab432c"
               langencoding="iso639-2b"
-              relatedencoding="abc"
               repositoryencoding="iso15511"
               scriptencoding="iso15924">
       <eadid countrycode="US"
-             encodinganalog="abc"
-             identifier="abc"
              mainagencycode="US-NjP"
-             publicid="abc"
              url="http://arks.princeton.edu/ark:/88435/rj430454b"
              urn="ark:/88435/rj430454b">ead/eadheader/eadid/text()</eadid>
-      <filedesc altrender="ead/eadheader/filedescATTRaltrender"
-                audience="external"
-                encodinganalog="ead/eadheader/filedescATTRencodinganalog"
-                id="ab098c">
-         <titlestmt altrender="ead/eadheader/filedesc/titlestmtATTRaltrender"
-                    audience="external"
-                    encodinganalog="ead/eadheader/filedesc/titlestmtATTRencodinganalog"
-                    id="a34gbc">
-            <titleproper altrender="ead/eadheader/filedesc/titlestmt/titleproperATTRaltrender"
-                         audience="external"
-                         encodinganalog="ead/eadheader/filedesc/titlestmt/titleproperATTRencodinganalog"
-                         id="a456hbc"
-                         render="bold"
-                         type="bold">
+      <filedesc>
+         <titlestmt>
+            <titleproper>
                <date normal="1917/1950" type="inclusive">ead/eadheader/filedesc/titlestmt/titleproper/date/text()</date>
-               <abbr>ead/eadheader/filedesc/titlestmt/titleproper/abbr/text()</abbr>
-               <emph>ead/eadheader/filedesc/titlestmt/titleproper/emph/text()</emph>
-               <expan altrender="ead/eadheader/filedesc/titlestmt/titleproper/expanATTRaltrender"
-                      id="ab876c">ead/eadheader/filedesc/titlestmt/titleproper/expan/text()</expan>
-               <extptr xlink:type="simple"/>
-               <lb/>
-               <num>ead/eadheader/filedesc/titlestmt/titleproper/num/text()</num>
-               <ptr xlink:type="simple"/>
             </titleproper>
-            <subtitle altrender="ead/eadheader/filedesc/titlestmt/subtitleATTRaltrender"
-                      audience="external"
-                      encodinganalog="ead/eadheader/filedesc/titlestmt/subtitleATTRencodinganalog"
-                      id="a34bc">
-               <ptr/>
-               <num>ead/eadheader/filedesc/titlestmt/subtitle/num/text()</num>
-               <lb/>
-               <extptr/>
-               <expan>ead/eadheader/filedesc/titlestmt/subtitle/expan/text()</expan>
-               <emph>ead/eadheader/filedesc/titlestmt/subtitle/emph/text()</emph>
-               <date>ead/eadheader/filedesc/titlestmt/subtitle/date/text()</date>
-               <abbr>ead/eadheader/filedesc/titlestmt/subtitle/abbr/text()</abbr>ead/eadheader/filedesc/titlestmt/subtitle/text()</subtitle>
-            <author altrender="ead/eadheader/filedesc/titlestmt/authorATTRaltrender"
-                    audience="external"
-                    encodinganalog="ead/eadheader/filedesc/titlestmt/authorATTRencodinganalog"
-                    id="a45bc">ead/eadheader/filedesc/titlestmt/author/text()<emph>ead/eadheader/filedesc/titlestmt/author/emph/text()</emph>
-               <lb/>
-               <extptr xlink:href="abc"/>
-               <ptr xlink:href="#MC001.01_b1"/>
-            </author>
-            <sponsor altrender="ead/eadheader/filedesc/titlestmt/sponsorATTRaltrender"
-                     audience="external"
-                     encodinganalog="ead/eadheader/filedesc/titlestmt/sponsorATTRencodinganalog"
-                     id="ab67ic">
-               <ptr/>
-               <lb/>
-               <extptr/>
-               <emph>ead/eadheader/filedesc/titlestmt/sponsor/emph/text()</emph>ead/eadheader/filedesc/titlestmt/sponsor/text()</sponsor>
          </titlestmt>
-         <editionstmt altrender="ead/eadheader/filedesc/editionstmtATTRaltrender"
-                      audience="external"
-                      encodinganalog="ead/eadheader/filedesc/editionstmtATTRencodinganalog"
-                      id="ab654c">
-            <edition altrender="ead/eadheader/filedesc/editionstmt/editionATTRaltrender"
-                     audience="external"
-                     encodinganalog="ead/eadheader/filedesc/editionstmt/editionATTRencodinganalog"
-                     id="ab543c">ead/eadheader/filedesc/editionstmt/edition/text()</edition>
-            <p>ead/eadheader/filedesc/editionstmt/p/text()</p>
-         </editionstmt>
-         <publicationstmt altrender="ead/eadheader/filedesc/publicationstmtATTRaltrender"
-                          audience="external"
-                          encodinganalog="ead/eadheader/filedesc/publicationstmtATTRencodinganalog"
-                          id="muddAddress">
-            <publisher altrender="ead/eadheader/filedesc/publicationstmt/publisherATTRaltrender"
-                       audience="external"
-                       encodinganalog="ead/eadheader/filedesc/publicationstmt/publisherATTRencodinganalog"
-                       id="ab5757c">ead/eadheader/filedesc/publicationstmt/publisher/text()<emph>ead/eadheader/filedesc/publicationstmt/publisher/emph/text()</emph>
-               <extptr/>
-               <lb/>
-               <ptr/>
-            </publisher>
+         <publicationstmt id="muddAddress">
+            <publisher>ead/eadheader/filedesc/publicationstmt/publisher/text()</publisher>
             <address altrender="ead/eadheader/filedesc/publicationstmt/addressATTRaltrender"
                      audience="external"
                      id="fakeidc95">
@@ -131,194 +52,37 @@
                           xpointer="ead/eadheader/filedesc/publicationstmt/address/addressline/extptrATTRxpointer"/>
                   <emph altrender="ead/eadheader/filedesc/publicationstmt/address/addressline/emphATTRaltrender"
                         id="fakeidc99"
-                        render="bold">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/text()<abbr>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/abbr/text()</abbr>
-                     <archref xlink:type="simple">
-                        <abbr>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/archref/abbr/text()</abbr>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/archref/text()</archref>
-                     <bibref>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/bibref/text()</bibref>
-                     <emph>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/emph/text()</emph>
-                     <expan>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/expan/text()</expan>
-                     <extptr/>
-                     <extref xlink:type="simple">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/extref/text()</extref>
-                     <lb/>
-                     <linkgrp xlink:type="extended">
-                        <resource altrender="ead/eadheader/filedesc/publicationstmt/address/addressline/emph/linkgrp/resourceATTRaltrender"
-                                  audience="external"
-                                  id="ab8080c"
-                                  xlink:role="abc"
-                                  xlink:title="abc"
-                                  xlink:type="resource">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/linkgrp/resource/text()</resource>
-                     </linkgrp>
-                     <ptr/>
-                     <ref altrender="ead/eadheader/filedesc/publicationstmt/address/addressline/emph/refATTRaltrender"
-                          audience="external"
-                          id="abc6868"
-                          xlink:arcrole="abc"
-                          xlink:href="abc"
-                          xlink:role="abc"
-                          xlink:title="abc"
-                          xlink:type="simple"
-                          xpointer="ead/eadheader/filedesc/publicationstmt/address/addressline/emph/refATTRxpointer">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/ref/text()</ref>
-                     <title>ead/eadheader/filedesc/publicationstmt/address/addressline/emph/title/text()</title>
-                  </emph>ead/eadheader/filedesc/publicationstmt/address/addressline/text()<lb/>
+                        render="bold">ead/eadheader/filedesc/publicationstmt/address/addressline/emph/text()</emph>ead/eadheader/filedesc/publicationstmt/address/addressline/text()<lb/>
                </addressline>
             </address>
             <date normal="2002/2002" type="publication">ead/eadheader/filedesc/publicationstmt/date/text()</date>
-            <num>ead/eadheader/filedesc/publicationstmt/num/text()</num>
-            <p>ead/eadheader/filedesc/publicationstmt/p/text()</p>
          </publicationstmt>
-         <seriesstmt altrender="ead/eadheader/filedesc/seriesstmtATTRaltrender"
-                     audience="external"
-                     encodinganalog="ead/eadheader/filedesc/seriesstmtATTRencodinganalog"
-                     id="abhy65c">
-            <p>ead/eadheader/filedesc/seriesstmt/p/text()</p>
-            <titleproper>ead/eadheader/filedesc/seriesstmt/titleproper/text()</titleproper>
-            <num>ead/eadheader/filedesc/seriesstmt/num/text()</num>
-         </seriesstmt>
-         <notestmt altrender="ead/eadheader/filedesc/notestmtATTRaltrender"
-                   audience="external"
-                   encodinganalog="ead/eadheader/filedesc/notestmtATTRencodinganalog"
-                   id="ab808c">
-            <note>
-               <p>ead/eadheader/filedesc/notestmt/note/p/text()</p>
-            </note>
-         </notestmt>
       </filedesc>
       <profiledesc altrender="ead/eadheader/profiledescATTRaltrender"
                    audience="external"
                    encodinganalog="ead/eadheader/profiledescATTRencodinganalog"
                    id="d234">
-         <creation altrender="ead/eadheader/profiledesc/creationATTRaltrender"
-                   audience="external"
-                   encodinganalog="ead/eadheader/profiledesc/creationATTRencodinganalog"
-                   id="a67bc">
+         <creation>
             <date normal="2007-02-22">ead/eadheader/profiledesc/creation/date/text()</date>
-            <abbr>ead/eadheader/profiledesc/creation/abbr/text()</abbr>
-            <archref>ead/eadheader/profiledesc/creation/archref/text()</archref>
-            <bibref>ead/eadheader/profiledesc/creation/bibref/text()</bibref>
-            <emph>ead/eadheader/profiledesc/creation/emph/text()</emph>
-            <expan>ead/eadheader/profiledesc/creation/expan/text()</expan>
-            <extptr/>
-            <extref>ead/eadheader/profiledesc/creation/extref/text()</extref>
-            <lb/>
-            <linkgrp>
-               <resource>ead/eadheader/profiledesc/creation/linkgrp/resource/text()</resource>
-            </linkgrp>
-            <ptr/>
-            <ref>ead/eadheader/profiledesc/creation/ref/text()</ref>
-            <title>ead/eadheader/profiledesc/creation/title/text()</title>ead/eadheader/profiledesc/creation/text()</creation>
+         </creation>
          <langusage altrender="ead/eadheader/profiledesc/langusageATTRaltrender"
                     audience="external"
                     encodinganalog="ead/eadheader/profiledesc/langusageATTRencodinganalog"
-                    id="dfg">ead/eadheader/profiledesc/langusage/text()<language altrender="ead/eadheader/profiledesc/langusage/languageATTRaltrender"
+                    id="dfg">
+            <language altrender="ead/eadheader/profiledesc/langusage/languageATTRaltrender"
                       audience="external"
                       encodinganalog="ead/eadheader/profiledesc/langusage/languageATTRencodinganalog"
                       id="ert"
                       langcode="eng"
                       scriptcode="Armn">ead/eadheader/profiledesc/langusage/language/text()</language>
-            <emph>ead/eadheader/profiledesc/langusage/emph/text()</emph>
+            <!--<emph>ead/eadheader/profiledesc/langusage/emph/text()</emph>
             <extptr id="sdfg" xlink:href="#bib1"/>
             <ptr xlink:href="#bib1"/>
             <lb/>
             <title>ead/eadheader/profiledesc/langusage/title/text()</title>
-            <ref>ead/eadheader/profiledesc/langusage/ref/text()<abbr>ead/eadheader/profiledesc/langusage/ref/abbr/text()</abbr>
-               <address>
-                  <addressline>ead/eadheader/profiledesc/langusage/ref/address/addressline/text()</addressline>
-               </address>
-               <archref>ead/eadheader/profiledesc/langusage/ref/archref/text()</archref>
-               <bibref>ead/eadheader/profiledesc/langusage/ref/bibref/text()</bibref>
-               <blockquote>
-                  <p>ead/eadheader/profiledesc/langusage/ref/blockquote/p/text()</p>
-               </blockquote>
-               <chronlist>
-                  <chronitem>
-                     <date>ead/eadheader/profiledesc/langusage/ref/chronlist/chronitem/date/text()</date>
-                     <event>ead/eadheader/profiledesc/langusage/ref/chronlist/chronitem/event/text()</event>
-                  </chronitem>
-               </chronlist>
-               <corpname role="ead/eadheader/profiledesc/langusage/ref/corpnameATTRrole">ead/eadheader/profiledesc/langusage/ref/corpname/text()</corpname>
-               <date>ead/eadheader/profiledesc/langusage/ref/date/text()</date>
-               <emph>ead/eadheader/profiledesc/langusage/ref/emph/text()</emph>
-               <expan>ead/eadheader/profiledesc/langusage/ref/expan/text()</expan>
-               <extptr/>
-               <extref>ead/eadheader/profiledesc/langusage/ref/extref/text()</extref>
-               <famname>ead/eadheader/profiledesc/langusage/ref/famname/text()</famname>
-               <function>ead/eadheader/profiledesc/langusage/ref/function/text()</function>
-               <genreform>ead/eadheader/profiledesc/langusage/ref/genreform/text()</genreform>
-               <geogname>ead/eadheader/profiledesc/langusage/ref/geogname/text()</geogname>
-               <lb/>
-               <list>
-                  <item>ead/eadheader/profiledesc/langusage/ref/list/item/text()</item>
-               </list>
-               <name>ead/eadheader/profiledesc/langusage/ref/name/text()</name>
-               <note>
-                  <p>ead/eadheader/profiledesc/langusage/ref/note/p/text()</p>
-               </note>
-               <num>ead/eadheader/profiledesc/langusage/ref/num/text()</num>
-               <occupation>ead/eadheader/profiledesc/langusage/ref/occupation/text()</occupation>
-               <origination>ead/eadheader/profiledesc/langusage/ref/origination/text()</origination>
-               <persname>ead/eadheader/profiledesc/langusage/ref/persname/text()</persname>
-               <repository>ead/eadheader/profiledesc/langusage/ref/repository/text()</repository>
-               <subject altrender="ead/eadheader/profiledesc/langusage/ref/subjectATTRaltrender"
-                        audience="external"
-                        id="ab12ec"
-                        normal="abc">ead/eadheader/profiledesc/langusage/ref/subject/text()</subject>
-               <table>
-                  <head>ead/eadheader/profiledesc/langusage/ref/table/head/text()</head>
-                  <tgroup cols="abc" rowsep="abc">
-                     <tbody>
-                        <row>
-                           <entry>ead/eadheader/profiledesc/langusage/ref/table/tgroup/tbody/row/entry/text()</entry>
-                        </row>
-                     </tbody>
-                  </tgroup>
-               </table>
-               <title>ead/eadheader/profiledesc/langusage/ref/title/text()</title>
-               <unitdate>ead/eadheader/profiledesc/langusage/ref/unitdate/text()</unitdate>
-               <unittitle>ead/eadheader/profiledesc/langusage/ref/unittitle/text()</unittitle>
-            </ref>
+            <ref>ead/eadheader/profiledesc/langusage/ref/text()</ref>
             <abbr>ead/eadheader/profiledesc/langusage/abbr/text()</abbr>
-            <archref>ead/eadheader/profiledesc/langusage/archref/text()<abstract>ead/eadheader/profiledesc/langusage/archref/abstract/text()</abstract>
-               <bibref>ead/eadheader/profiledesc/langusage/archref/bibref/text()</bibref>
-               <container>ead/eadheader/profiledesc/langusage/archref/container/text()</container>
-               <dao altrender="ead/eadheader/profiledesc/langusage/archref/daoATTRaltrender"
-                    audience="external"
-                    id="ab78c"
-                    xlink:actuate="onLoad"
-                    xlink:arcrole="abc"
-                    xlink:href="abc"
-                    xlink:show="embed"
-                    xlink:type="simple"
-                    xpointer="ead/eadheader/profiledesc/langusage/archref/daoATTRxpointer"/>
-               <daogrp altrender="ead/eadheader/profiledesc/langusage/archref/daogrpATTRaltrender"
-                       audience="external"
-                       id="a90bc"
-                       xlink:role="abc"
-                       xlink:title="abc"
-                       xlink:type="extended">
-                  <resource>ead/eadheader/profiledesc/langusage/archref/daogrp/resource/text()</resource>
-               </daogrp>
-               <emph>ead/eadheader/profiledesc/langusage/archref/emph/text()</emph>
-               <expan>ead/eadheader/profiledesc/langusage/archref/expan/text()</expan>
-               <extptr/>
-               <extref>ead/eadheader/profiledesc/langusage/archref/extref/text()</extref>
-               <langmaterial>ead/eadheader/profiledesc/langusage/archref/langmaterial/text()</langmaterial>
-               <lb/>
-               <materialspec>ead/eadheader/profiledesc/langusage/archref/materialspec/text()</materialspec>
-               <note>
-                  <p>ead/eadheader/profiledesc/langusage/archref/note/p/text()</p>
-               </note>
-               <origination>ead/eadheader/profiledesc/langusage/archref/origination/text()</origination>
-               <physdesc>ead/eadheader/profiledesc/langusage/archref/physdesc/text()</physdesc>
-               <physloc altrender="ead/eadheader/profiledesc/langusage/archref/physlocATTRaltrender"
-                        audience="external"
-                        encodinganalog="ead/eadheader/profiledesc/langusage/archref/physlocATTRencodinganalog"
-                        id="a242bc"
-                        label="ead/eadheader/profiledesc/langusage/archref/physlocATTRlabel"
-                        parent="abc">ead/eadheader/profiledesc/langusage/archref/physloc/text()</physloc>
-               <ptr/>
-               <ref>ead/eadheader/profiledesc/langusage/archref/ref/text()</ref>
-               <unitdate>ead/eadheader/profiledesc/langusage/archref/unitdate/text()</unitdate>
-            </archref>
+            <archref>ead/eadheader/profiledesc/langusage/archref/text()</archref>
             <bibref altrender="ead/eadheader/profiledesc/langusage/bibrefATTRaltrender"
                     audience="external"
                     encodinganalog="ead/eadheader/profiledesc/langusage/bibrefATTRencodinganalog"
@@ -335,224 +99,49 @@
                <lb/>
                <archref>ead/eadheader/profiledesc/langusage/bibref/archref/text()</archref>
                <expan>ead/eadheader/profiledesc/langusage/bibref/expan/text()</expan>
-               <extref xlink:href="#bib1">ead/eadheader/profiledesc/langusage/bibref/extref/text()<abbr>ead/eadheader/profiledesc/langusage/bibref/extref/abbr/text()</abbr>
-                  <archref>ead/eadheader/profiledesc/langusage/bibref/extref/archref/text()</archref>
-                  <bibref>ead/eadheader/profiledesc/langusage/bibref/extref/bibref/text()</bibref>
-                  <date>ead/eadheader/profiledesc/langusage/bibref/extref/date/text()</date>
-                  <expan>ead/eadheader/profiledesc/langusage/bibref/extref/expan/text()</expan>
-                  <extptr/>
-                  <function>ead/eadheader/profiledesc/langusage/bibref/extref/function/text()</function>
-                  <genreform>ead/eadheader/profiledesc/langusage/bibref/extref/genreform/text()</genreform>
-                  <geogname>ead/eadheader/profiledesc/langusage/bibref/extref/geogname/text()</geogname>
-                  <lb/>
-                  <occupation>ead/eadheader/profiledesc/langusage/bibref/extref/occupation/text()</occupation>
-                  <origination>ead/eadheader/profiledesc/langusage/bibref/extref/origination/text()</origination>
-                  <ptr/>
-                  <ref>ead/eadheader/profiledesc/langusage/bibref/extref/ref/text()</ref>
-                  <repository>ead/eadheader/profiledesc/langusage/bibref/extref/repository/text()</repository>
-                  <subject>ead/eadheader/profiledesc/langusage/bibref/extref/subject/text()</subject>
-                  <title>ead/eadheader/profiledesc/langusage/bibref/extref/title/text()</title>
-                  <unitdate>ead/eadheader/profiledesc/langusage/bibref/extref/unitdate/text()</unitdate>
-                  <unittitle>ead/eadheader/profiledesc/langusage/bibref/extref/unittitle/text()</unittitle>
-               </extref>
+               <extref xlink:href="#bib1">ead/eadheader/profiledesc/langusage/bibref/extref/text()</extref>
                <abbr>ead/eadheader/profiledesc/langusage/bibref/abbr/text()</abbr>
                <bibseries altrender="ead/eadheader/profiledesc/langusage/bibref/bibseriesATTRaltrender"
                           audience="external"
                           encodinganalog="ead/eadheader/profiledesc/langusage/bibref/bibseriesATTRencodinganalog"
                           id="t4567">ead/eadheader/profiledesc/langusage/bibref/bibseries/text()<title>ead/eadheader/profiledesc/langusage/bibref/bibseries/title/text()</title>
-                  <num>ead/eadheader/profiledesc/langusage/bibref/bibseries/num/text()<emph>ead/eadheader/profiledesc/langusage/bibref/bibseries/num/emph/text()</emph>
-                     <extptr/>
-                     <lb/>
-                     <ptr/>
-                  </num>
+                  <num>ead/eadheader/profiledesc/langusage/bibref/bibseries/num/text()</num>
                   <emph>ead/eadheader/profiledesc/langusage/bibref/bibseries/emph/text()</emph>
                   <lb/>
                   <ptr id="g43" xlink:href="#MC001.01_c000001"/>
                   <extptr xlink:href="#MC001.01_c000001"/>
                </bibseries>
                <corpname authfilenumber="ead/eadheader/profiledesc/langusage/bibref/corpnameATTRauthfilenumber">ead/eadheader/profiledesc/langusage/bibref/corpname/text()</corpname>
-               <edition>ead/eadheader/profiledesc/langusage/bibref/edition/text()<emph>ead/eadheader/profiledesc/langusage/bibref/edition/emph/text()</emph>
-                  <extptr/>
-                  <lb/>
-                  <ptr/>
-               </edition>
+               <edition>ead/eadheader/profiledesc/langusage/bibref/edition/text()</edition>
                <archref>ead/eadheader/profiledesc/langusage/bibref/archref/text()</archref>
                <emph>ead/eadheader/profiledesc/langusage/bibref/emph/text()</emph>
                <famname>ead/eadheader/profiledesc/langusage/bibref/famname/text()</famname>
-               <imprint altrender="ead/eadheader/profiledesc/langusage/bibref/imprintATTRaltrender"
-                        audience="external"
-                        encodinganalog="ead/eadheader/profiledesc/langusage/bibref/imprintATTRencodinganalog"
-                        id="a575">ead/eadheader/profiledesc/langusage/bibref/imprint/text()<emph>ead/eadheader/profiledesc/langusage/bibref/imprint/emph/text()</emph>
-                  <extptr/>
-                  <geogname>ead/eadheader/profiledesc/langusage/bibref/imprint/geogname/text()</geogname>
-                  <lb/>
-                  <ptr/>
-                  <publisher>ead/eadheader/profiledesc/langusage/bibref/imprint/publisher/text()</publisher>
-               </imprint>
+               <imprint>ead/eadheader/profiledesc/langusage/bibref/imprint/text()</imprint>
                <name>ead/eadheader/profiledesc/langusage/bibref/name/text()</name>
                <num>ead/eadheader/profiledesc/langusage/bibref/num/text()</num>
-               <persname>ead/eadheader/profiledesc/langusage/bibref/persname/text()<emph>ead/eadheader/profiledesc/langusage/bibref/persname/emph/text()</emph>
-                  <extptr/>
-                  <lb/>
-                  <ptr/>
-               </persname>
+               <persname>ead/eadheader/profiledesc/langusage/bibref/persname/text()</persname>
                <ref>ead/eadheader/profiledesc/langusage/bibref/ref/text()</ref>
-               <emph>ead/eadheader/profiledesc/langusage/bibref/emph/text()</emph>
-               <extptr xlink:href="abc"/>
             </bibref>
             <expan>ead/eadheader/profiledesc/langusage/expan/text()</expan>
             <extref altrender="ead/eadheader/profiledesc/langusage/extrefATTRaltrender"
                     audience="external"
                     id="b4xdds8">
                <note>
-                  <p>ead/eadheader/profiledesc/langusage/extref/note/p/text()<abbr>ead/eadheader/profiledesc/langusage/extref/note/p/abbr/text()</abbr>
-                     <address>
-                        <addressline>ead/eadheader/profiledesc/langusage/extref/note/p/address/addressline/text()</addressline>
-                     </address>
-                     <archref>ead/eadheader/profiledesc/langusage/extref/note/p/archref/text()</archref>
-                     <bibref>ead/eadheader/profiledesc/langusage/extref/note/p/bibref/text()</bibref>
-                     <blockquote>
-                        <p>ead/eadheader/profiledesc/langusage/extref/note/p/blockquote/p/text()</p>
-                     </blockquote>
-                     <chronlist>
-                        <chronitem>
-                           <date>ead/eadheader/profiledesc/langusage/extref/note/p/chronlist/chronitem/date/text()</date>
-                           <event>ead/eadheader/profiledesc/langusage/extref/note/p/chronlist/chronitem/event/text()</event>
-                        </chronitem>
-                     </chronlist>
-                     <emph>ead/eadheader/profiledesc/langusage/extref/note/p/emph/text()</emph>
-                     <expan>ead/eadheader/profiledesc/langusage/extref/note/p/expan/text()</expan>
-                     <extptr/>
-                     <famname>ead/eadheader/profiledesc/langusage/extref/note/p/famname/text()</famname>
-                     <function>ead/eadheader/profiledesc/langusage/extref/note/p/function/text()</function>
-                     <genreform>ead/eadheader/profiledesc/langusage/extref/note/p/genreform/text()</genreform>
-                     <geogname>ead/eadheader/profiledesc/langusage/extref/note/p/geogname/text()</geogname>
-                     <lb/>
-                     <linkgrp>
-                        <resource>ead/eadheader/profiledesc/langusage/extref/note/p/linkgrp/resource/text()</resource>
-                     </linkgrp>
-                     <list>
-                        <item>ead/eadheader/profiledesc/langusage/extref/note/p/list/item/text()</item>
-                     </list>
-                     <name>ead/eadheader/profiledesc/langusage/extref/note/p/name/text()</name>
-                     <note>
-                        <p>ead/eadheader/profiledesc/langusage/extref/note/p/note/p/text()</p>
-                     </note>
-                     <occupation>ead/eadheader/profiledesc/langusage/extref/note/p/occupation/text()</occupation>
-                     <origination>ead/eadheader/profiledesc/langusage/extref/note/p/origination/text()</origination>
-                     <persname>ead/eadheader/profiledesc/langusage/extref/note/p/persname/text()</persname>
-                     <ptr/>
-                     <ref>ead/eadheader/profiledesc/langusage/extref/note/p/ref/text()</ref>
-                     <repository>ead/eadheader/profiledesc/langusage/extref/note/p/repository/text()</repository>
-                     <subject>ead/eadheader/profiledesc/langusage/extref/note/p/subject/text()</subject>
-                     <table>
-                        <head>ead/eadheader/profiledesc/langusage/extref/note/p/table/head/text()</head>
-                        <tgroup cols="abc">
-                           <tbody>
-                              <row>
-                                 <entry>ead/eadheader/profiledesc/langusage/extref/note/p/table/tgroup/tbody/row/entry/text()</entry>
-                              </row>
-                           </tbody>
-                        </tgroup>
-                     </table>
-                     <title>ead/eadheader/profiledesc/langusage/extref/note/p/title/text()</title>
-                     <unitdate>ead/eadheader/profiledesc/langusage/extref/note/p/unitdate/text()</unitdate>
-                     <unittitle>ead/eadheader/profiledesc/langusage/extref/note/p/unittitle/text()</unittitle>
-                  </p>
+                  <p>ead/eadheader/profiledesc/langusage/extref/note/p/text()</p>
                </note>
                <list>
                   <head>ead/eadheader/profiledesc/langusage/extref/list/head/text()</head>
-                  <item>ead/eadheader/profiledesc/langusage/extref/list/item/text()<abbr>ead/eadheader/profiledesc/langusage/extref/list/item/abbr/text()</abbr>
-                     <address>
-                        <addressline>ead/eadheader/profiledesc/langusage/extref/list/item/address/addressline/text()</addressline>
-                     </address>
-                     <archref>ead/eadheader/profiledesc/langusage/extref/list/item/archref/text()</archref>
-                     <blockquote>
-                        <p>ead/eadheader/profiledesc/langusage/extref/list/item/blockquote/p/text()</p>
-                     </blockquote>
-                     <chronlist>
-                        <chronitem>
-                           <date>ead/eadheader/profiledesc/langusage/extref/list/item/chronlist/chronitem/date/text()</date>
-                           <event>ead/eadheader/profiledesc/langusage/extref/list/item/chronlist/chronitem/event/text()</event>
-                        </chronitem>
-                     </chronlist>
-                     <corpname>ead/eadheader/profiledesc/langusage/extref/list/item/corpname/text()</corpname>
-                     <date>ead/eadheader/profiledesc/langusage/extref/list/item/date/text()</date>
-                     <emph>ead/eadheader/profiledesc/langusage/extref/list/item/emph/text()</emph>
-                     <expan>ead/eadheader/profiledesc/langusage/extref/list/item/expan/text()</expan>
-                     <extptr/>
-                     <extref>ead/eadheader/profiledesc/langusage/extref/list/item/extref/text()</extref>
-                     <famname>ead/eadheader/profiledesc/langusage/extref/list/item/famname/text()</famname>
-                     <function>ead/eadheader/profiledesc/langusage/extref/list/item/function/text()</function>
-                     <genreform>ead/eadheader/profiledesc/langusage/extref/list/item/genreform/text()</genreform>
-                     <geogname>ead/eadheader/profiledesc/langusage/extref/list/item/geogname/text()</geogname>
-                     <lb/>
-                     <linkgrp>
-                        <resource>ead/eadheader/profiledesc/langusage/extref/list/item/linkgrp/resource/text()</resource>
-                     </linkgrp>
-                     <list>
-                        <item>ead/eadheader/profiledesc/langusage/extref/list/item/list/item/text()</item>
-                     </list>
-                     <name>ead/eadheader/profiledesc/langusage/extref/list/item/name/text()</name>
-                     <note>
-                        <p>ead/eadheader/profiledesc/langusage/extref/list/item/note/p/text()</p>
-                     </note>
-                     <num>ead/eadheader/profiledesc/langusage/extref/list/item/num/text()</num>
-                     <occupation>ead/eadheader/profiledesc/langusage/extref/list/item/occupation/text()</occupation>
-                     <origination>ead/eadheader/profiledesc/langusage/extref/list/item/origination/text()</origination>
-                     <persname>ead/eadheader/profiledesc/langusage/extref/list/item/persname/text()</persname>
-                     <ptr/>
-                     <ref>ead/eadheader/profiledesc/langusage/extref/list/item/ref/text()</ref>
-                     <repository>ead/eadheader/profiledesc/langusage/extref/list/item/repository/text()</repository>
-                     <subject>ead/eadheader/profiledesc/langusage/extref/list/item/subject/text()</subject>
-                     <table>
-                        <head>ead/eadheader/profiledesc/langusage/extref/list/item/table/head/text()</head>
-                        <tgroup cols="abc">
-                           <tbody>
-                              <row>
-                                 <entry>ead/eadheader/profiledesc/langusage/extref/list/item/table/tgroup/tbody/row/entry/text()</entry>
-                              </row>
-                           </tbody>
-                        </tgroup>
-                     </table>
-                     <title>ead/eadheader/profiledesc/langusage/extref/list/item/title/text()</title>
-                     <unitdate>ead/eadheader/profiledesc/langusage/extref/list/item/unitdate/text()</unitdate>
-                     <unittitle>ead/eadheader/profiledesc/langusage/extref/list/item/unittitle/text()</unittitle>
-                  </item>
+                  <item>ead/eadheader/profiledesc/langusage/extref/list/item/text()</item>
                </list>
                <chronlist>
                   <head>ead/eadheader/profiledesc/langusage/extref/chronlist/head/text()</head>
                   <listhead>
-                     <head01>ead/eadheader/profiledesc/langusage/extref/chronlist/listhead/head01/text()<emph>ead/eadheader/profiledesc/langusage/extref/chronlist/listhead/head01/emph/text()</emph>
-                        <extptr/>
-                        <lb/>
-                        <ptr/>
-                     </head01>
-                     <head02>ead/eadheader/profiledesc/langusage/extref/chronlist/listhead/head02/text()<emph>ead/eadheader/profiledesc/langusage/extref/chronlist/listhead/head02/emph/text()</emph>
-                        <extptr/>
-                        <lb/>
-                        <ptr/>
-                     </head02>
+                     <head01>ead/eadheader/profiledesc/langusage/extref/chronlist/listhead/head01/text()</head01>
+                     <head02>ead/eadheader/profiledesc/langusage/extref/chronlist/listhead/head02/text()</head02>
                   </listhead>
                   <chronitem>
                      <date>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/date/text()</date>
-                     <eventgrp altrender="ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrpATTRaltrender"
-                               audience="external"
-                               id="abc765">
-                        <event>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/text()<blockquote>
-                              <p>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/blockquote/p/text()</p>
-                           </blockquote>
-                           <chronlist>
-                              <chronitem>
-                                 <date>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/chronlist/chronitem/date/text()</date>
-                                 <event>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/chronlist/chronitem/event/text()</event>
-                              </chronitem>
-                           </chronlist>
-                           <title>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/title/text()</title>
-                           <unitdate>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/unitdate/text()</unitdate>
-                           <unittitle>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/eventgrp/event/unittitle/text()</unittitle>
-                        </event>
-                     </eventgrp>
+                     <event>ead/eadheader/profiledesc/langusage/extref/chronlist/chronitem/event/text()</event>
                   </chronitem>
                </chronlist>
                <blockquote>
@@ -567,45 +156,7 @@
                      <colspec align="center"/>
                      <thead>
                         <row>
-                           <entry>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/text()<abbr>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/abbr/text()</abbr>
-                              <address>
-                                 <addressline>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/address/addressline/text()</addressline>
-                              </address>
-                              <archref>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/archref/text()</archref>
-                              <bibref>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/bibref/text()</bibref>
-                              <corpname>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/corpname/text()</corpname>
-                              <date>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/date/text()</date>
-                              <emph>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/emph/text()</emph>
-                              <expan>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/expan/text()</expan>
-                              <extptr/>
-                              <extref>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/extref/text()</extref>
-                              <famname>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/famname/text()</famname>
-                              <function>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/function/text()</function>
-                              <genreform>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/genreform/text()</genreform>
-                              <geogname>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/geogname/text()</geogname>
-                              <lb/>
-                              <linkgrp>
-                                 <resource>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/linkgrp/resource/text()</resource>
-                              </linkgrp>
-                              <list>
-                                 <item>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/list/item/text()</item>
-                              </list>
-                              <name>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/name/text()</name>
-                              <note>
-                                 <p>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/note/p/text()</p>
-                              </note>
-                              <num>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/num/text()</num>
-                              <occupation>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/occupation/text()</occupation>
-                              <origination>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/origination/text()</origination>
-                              <persname>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/persname/text()</persname>
-                              <ptr/>
-                              <ref>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/ref/text()</ref>
-                              <repository>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/repository/text()</repository>
-                              <subject>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/subject/text()</subject>
-                              <title>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/title/text()</title>
-                              <unitdate>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/unitdate/text()</unitdate>
-                              <unittitle>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/unittitle/text()</unittitle>
-                           </entry>
+                           <entry>ead/eadheader/profiledesc/langusage/extref/table/tgroup/thead/row/entry/text()</entry>
                         </row>
                      </thead>
                      <tbody>
@@ -622,18 +173,11 @@
                <num>ead/eadheader/profiledesc/langusage/extref/num/text()</num>
                <persname>ead/eadheader/profiledesc/langusage/extref/persname/text()</persname>ead/eadheader/profiledesc/langusage/extref/text()</extref>
             <linkgrp>
-               <resource>ead/eadheader/profiledesc/langusage/linkgrp/resource/text()<emph>ead/eadheader/profiledesc/langusage/linkgrp/resource/emph/text()</emph>
-                  <lb/>
-               </resource>
+               <resource>ead/eadheader/profiledesc/langusage/linkgrp/resource/text()</resource>
                <extrefloc altrender="ead/eadheader/profiledesc/langusage/linkgrp/extreflocATTRaltrender"
                           audience="external"
                           id="xdds8"
-                          xlink:href="#bib1"
-                          xlink:label="abc"
-                          xlink:role="abc"
-                          xlink:title="abc"
-                          xlink:type="locator"
-                          xpointer="ead/eadheader/profiledesc/langusage/linkgrp/extreflocATTRxpointer">
+                          xlink:href="#bib1">
                   <extptr xlink:href="#bib1"/>
                   <note>
                      <p>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/note/p/text()</p>
@@ -681,147 +225,22 @@
                   <name>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/name/text()</name>
                   <num>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/num/text()</num>
                   <persname>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/persname/text()</persname>
-                  <abbr>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/abbr/text()</abbr>
-                  <date>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/date/text()</date>
-                  <expan>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/expan/text()</expan>
-                  <function>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/function/text()</function>
-                  <genreform>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/genreform/text()</genreform>
-                  <geogname>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/geogname/text()</geogname>
-                  <lb/>
-                  <occupation>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/occupation/text()</occupation>
-                  <origination>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/origination/text()</origination>
-                  <ptr/>
-                  <repository>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/repository/text()</repository>
-                  <subject>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/subject/text()</subject>
-                  <unitdate>ead/eadheader/profiledesc/langusage/linkgrp/extrefloc/unitdate/text()</unitdate>
                </extrefloc>
             </linkgrp>
-            <title>ead/eadheader/profiledesc/langusage/title/text()</title>
+            <title>ead/eadheader/profiledesc/langusage/title/text()</title>-->
          </langusage>
          <descrules altrender="ead/eadheader/profiledesc/descrulesATTRaltrender"
                     audience="external"
                     encodinganalog="ead/eadheader/profiledesc/descrulesATTRencodinganalog"
-                    id="dfge">ead/eadheader/profiledesc/descrules/text()<abbr>ead/eadheader/profiledesc/descrules/abbr/text()</abbr>
-            <archref>ead/eadheader/profiledesc/descrules/archref/text()</archref>
-            <bibref>ead/eadheader/profiledesc/descrules/bibref/text()</bibref>
-            <emph>ead/eadheader/profiledesc/descrules/emph/text()</emph>
-            <expan>ead/eadheader/profiledesc/descrules/expan/text()</expan>
-            <extptr/>
-            <extref>ead/eadheader/profiledesc/descrules/extref/text()</extref>
-            <lb/>
-            <linkgrp>
-               <resource>ead/eadheader/profiledesc/descrules/linkgrp/resource/text()</resource>
-            </linkgrp>
-            <ptr/>
-            <ref>ead/eadheader/profiledesc/descrules/ref/text()</ref>
-            <title>ead/eadheader/profiledesc/descrules/title/text()</title>
-         </descrules>
+                    id="dfge">ead/eadheader/profiledesc/descrules/text()</descrules>
       </profiledesc>
-      <revisiondesc altrender="ead/eadheader/revisiondescATTRaltrender"
-                    audience="external"
-                    encodinganalog="ead/eadheader/revisiondescATTRencodinganalog"
-                    id="asfdgbc">
-         <change altrender="ead/eadheader/revisiondesc/changeATTRaltrender"
-                 audience="external"
-                 encodinganalog="ead/eadheader/revisiondesc/changeATTRencodinganalog"
-                 id="ab56c">
+      <revisiondesc>
+         <change>
             <date normal="2012-05-02">ead/eadheader/revisiondesc/change/date/text()</date>
             <item>ead/eadheader/revisiondesc/change/item/text()</item>
          </change>
       </revisiondesc>
    </eadheader>
-   <frontmatter altrender="ead/frontmatterATTRaltrender"
-                audience="external"
-                id="ab464c">
-      <titlepage altrender="ead/frontmatter/titlepageATTRaltrender"
-                 audience="external"
-                 id="a34rbgbc">
-         <titleproper>ead/frontmatter/titlepage/titleproper/text()</titleproper>
-         <table>
-            <head>ead/frontmatter/titlepage/table/head/text()</head>
-            <tgroup cols="3">
-               <colspec/>
-               <thead>
-                  <row>
-                     <entry>ead/frontmatter/titlepage/table/tgroup/thead/row/entry/text()</entry>
-                  </row>
-               </thead>
-               <tbody>
-                  <row>
-                     <entry>ead/frontmatter/titlepage/table/tgroup/tbody/row/entry/text()</entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <subtitle>ead/frontmatter/titlepage/subtitle/text()</subtitle>
-         <sponsor>ead/frontmatter/titlepage/sponsor/text()</sponsor>
-         <publisher>ead/frontmatter/titlepage/publisher/text()</publisher>
-         <num>ead/frontmatter/titlepage/num/text()</num>
-         <note>
-            <p>ead/frontmatter/titlepage/note/p/text()</p>
-         </note>
-         <list>
-            <item>ead/frontmatter/titlepage/list/item/text()</item>
-         </list>
-         <edition>ead/frontmatter/titlepage/edition/text()</edition>
-         <date>ead/frontmatter/titlepage/date/text()</date>
-         <chronlist>
-            <chronitem>
-               <date>ead/frontmatter/titlepage/chronlist/chronitem/date/text()</date>
-               <event>ead/frontmatter/titlepage/chronlist/chronitem/event/text()</event>
-            </chronitem>
-         </chronlist>
-         <blockquote>
-            <p>ead/frontmatter/titlepage/blockquote/p/text()</p>
-         </blockquote>
-         <bibseries>ead/frontmatter/titlepage/bibseries/text()</bibseries>
-         <author>ead/frontmatter/titlepage/author/text()</author>
-         <address>
-            <addressline>ead/frontmatter/titlepage/address/addressline/text()</addressline>
-         </address>
-         <p>ead/frontmatter/titlepage/p/text()</p>
-      </titlepage>
-      <div altrender="ead/frontmatter/divATTRaltrender"
-           audience="external"
-           id="abc678">
-         <head>ead/frontmatter/div/head/text()</head>
-         <table>
-            <head>ead/frontmatter/div/table/head/text()</head>
-            <tgroup cols="3">
-               <colspec/>
-               <thead>
-                  <row>
-                     <entry>ead/frontmatter/div/table/tgroup/thead/row/entry/text()</entry>
-                  </row>
-               </thead>
-               <tbody>
-                  <row>
-                     <entry>ead/frontmatter/div/table/tgroup/tbody/row/entry/text()</entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <chronlist>
-            <chronitem>
-               <date>ead/frontmatter/div/chronlist/chronitem/date/text()</date>
-               <event>ead/frontmatter/div/chronlist/chronitem/event/text()</event>
-            </chronitem>
-         </chronlist>
-         <blockquote>
-            <p>ead/frontmatter/div/blockquote/p/text()</p>
-         </blockquote>
-         <address>
-            <addressline>ead/frontmatter/div/address/addressline/text()</addressline>
-         </address>
-         <div>
-            <head>ead/frontmatter/div/div/head/text()</head>
-            <p>ead/frontmatter/div/div/p/text()</p>
-            <note>
-               <p>ead/frontmatter/div/div/note/p/text()</p>
-            </note>
-         </div>
-      </div>
-   </frontmatter>
    <archdesc altrender="ead/archdescATTRaltrender"
              audience="external"
              encodinganalog="ead/archdescATTRencodinganalog"
@@ -830,31 +249,17 @@
              otherlevel="archdesc_otherlevel"
              relatedencoding="ead/archdescATTRrelatedencoding"
              type="findingaid">
-      <runner altrender="ead/archdesc/runnerATTRaltrender"
-              audience="external"
-              id="abt54c"
-              placement="footer"
-              role="ead/archdesc/runnerATTRrole">
-         <ptr/>
-         <lb/>
-         <extptr/>
-         <emph>ead/archdesc/runner/emph/text()</emph>ead/archdesc/runner/text()</runner>
-      <did altrender="ead/archdesc/didATTRaltrender"
-           audience="external"
-           encodinganalog="ead/archdesc/didATTRencodinganalog"
-           id="ab567c">
-         <head>ead/archdesc/did/head/text()</head>
+      <did>
          <unitid altrender="ead/archdesc/did/unitidATTRaltrender"
                  audience="external"
                  countrycode="US"
                  encodinganalog="ead/archdesc/did/unitidATTRencodinganalog"
                  id="asdf"
-                 identifier="abc"
                  label="ead/archdesc/did/unitidATTRlabel"
                  repositorycode="US-NjP"
-                 type="collection">
-            <title>ead/archdesc/did/unitid/title/text()</title>
-            <linkgrp>
+                 type="collection">ead/archdesc/did/unitid/text()
+            <!--<title>ead/archdesc/did/unitid/title/text()</title>-->
+            <!--<linkgrp>
                <resource>ead/archdesc/did/unitid/linkgrp/resource/text()</resource>
             </linkgrp>
             <extref>ead/archdesc/did/unitid/extref/text()</extref>
@@ -866,7 +271,7 @@
             <expan>ead/archdesc/did/unitid/expan/text()</expan>
             <extptr xlink:href="#bib1"/>
             <lb/>
-            <ptr xlink:href="#bib1"/>
+            <ptr xlink:href="#bib1"/>-->
          </unitid>
          <repository altrender="ead/archdesc/did/repositoryATTRaltrender"
                      audience="external"
@@ -874,14 +279,7 @@
                      id="publicpolicy"
                      label="ead/archdesc/did/repositoryATTRlabel">ead/archdesc/did/repository/text()<corpname authfilenumber="ead/archdesc/did/repository/corpnameATTRauthfilenumber"
                       source="viaf">ead/archdesc/did/repository/corpname/text()</corpname>
-            <subarea altrender="ead/archdesc/did/repository/subareaATTRaltrender"
-                     audience="external"
-                     encodinganalog="ead/archdesc/did/repository/subareaATTRencodinganalog"
-                     id="ab34rc">ead/archdesc/did/repository/subarea/text()<emph>ead/archdesc/did/repository/subarea/emph/text()</emph>
-               <extptr/>
-               <lb/>
-               <ptr/>
-            </subarea>
+            <subarea>ead/archdesc/did/repository/subarea/text()</subarea>
             <abbr>ead/archdesc/did/repository/abbr/text()</abbr>
             <address>
                <addressline>ead/archdesc/did/repository/address/addressline/text()</addressline>
@@ -907,7 +305,7 @@
                     id="as56df"
                     label="ead/archdesc/did/unittitleATTRlabel"
                     type="collection">
-            <title>ead/archdesc/did/unittitle/title/text()</title>
+         	<!--<title>ead/archdesc/did/unittitle/title/text()</title>
             <linkgrp>
                <resource>ead/archdesc/did/unittitle/linkgrp/resource/text()</resource>
             </linkgrp>
@@ -917,25 +315,12 @@
             <ref>ead/archdesc/did/unittitle/ref/text()</ref>
             <abbr>ead/archdesc/did/unittitle/abbr/text()</abbr>
             <emph>ead/archdesc/did/unittitle/emph/text()</emph>
-            <expan>ead/archdesc/did/unittitle/expan/text()</expan>
+           <expan>ead/archdesc/did/unittitle/expan/text()</expan>
             <extptr xlink:href="#bib1"/>
             <lb/>
-            <ptr xlink:href="#bib1"/>ead/archdesc/did/unittitle/text()<bibseries>ead/archdesc/did/unittitle/bibseries/text()</bibseries>
-            <corpname>ead/archdesc/did/unittitle/corpname/text()</corpname>
-            <date>ead/archdesc/did/unittitle/date/text()</date>
-            <edition>ead/archdesc/did/unittitle/edition/text()</edition>
-            <famname>ead/archdesc/did/unittitle/famname/text()</famname>
-            <function>ead/archdesc/did/unittitle/function/text()</function>
-            <genreform>ead/archdesc/did/unittitle/genreform/text()</genreform>
-            <geogname>ead/archdesc/did/unittitle/geogname/text()</geogname>
-            <imprint>ead/archdesc/did/unittitle/imprint/text()</imprint>
-            <name>ead/archdesc/did/unittitle/name/text()</name>
-            <num>ead/archdesc/did/unittitle/num/text()</num>
-            <occupation>ead/archdesc/did/unittitle/occupation/text()</occupation>
-            <persname>ead/archdesc/did/unittitle/persname/text()</persname>
-            <subject>ead/archdesc/did/unittitle/subject/text()</subject>
-            <unitdate>ead/archdesc/did/unittitle/unitdate/text()</unitdate>
-         </unittitle>
+            <ptr xlink:href="#bib1"/>-->
+			ead/archdesc/did/unittitle/text()
+		 </unittitle>
          <unitdate normal="1917/1950" type="inclusive">ead/archdesc/did/unitdate/text()</unitdate>
          <origination altrender="ead/archdesc/did/originationATTRaltrender"
                       audience="external"
@@ -998,9 +383,6 @@
             <emph>ead/archdesc/did/materialspec/emph/text()</emph>
             <lb/>
             <ref>ead/archdesc/did/materialspec/ref/text()</ref>
-            <extptr/>
-            <materialspec>ead/archdesc/did/materialspec/materialspec/text()</materialspec>
-            <ptr/>
          </materialspec>
          <abstract altrender="ead/archdesc/did/abstractATTRaltrender"
                    audience="external"
@@ -1047,92 +429,12 @@
                      xlink:role="local"
                      xlink:title="linkgrp"
                      xlink:type="extended">
-               <ptrloc altrender="ead/archdesc/did/abstract/linkgrp/ptrlocATTRaltrender"
-                       audience="external"
-                       id="a46464bc"
-                       target="abc"
-                       xlink:href="some_link"
-                       xlink:label="abc"
-                       xlink:role="abc"
-                       xlink:title="abc"
-                       xlink:type="locator"
-                       xpointer="ead/archdesc/did/abstract/linkgrp/ptrlocATTRxpointer"/>
+               <ptrloc xlink:href="some_link"/>
                <resource>ead/archdesc/did/abstract/linkgrp/resource/text()</resource>
-               <arc altrender="ead/archdesc/did/abstract/linkgrp/arcATTRaltrender"
-                    audience="external"
-                    id="a23bc"
-                    xlink:arcrole="abc"
-                    xlink:title="xlink_title"
-                    xlink:type="arc"/>
-               <extptrloc altrender="ead/archdesc/did/abstract/linkgrp/extptrlocATTRaltrender"
-                          audience="external"
-                          id="ab987c"
-                          xlink:href="#bib1"
-                          xlink:label="abc"
-                          xlink:role="abc"
-                          xlink:title="abc"
-                          xlink:type="locator"
-                          xpointer="ead/archdesc/did/abstract/linkgrp/extptrlocATTRxpointer"/>
+               <arc xlink:title="xlink_title"/>
+               <extptrloc xlink:href="#bib1"/>
                <ptrloc xlink:href="#bib1"/>
-               <refloc altrender="ead/archdesc/did/abstract/linkgrp/reflocATTRaltrender"
-                       audience="external"
-                       id="ab7979c"
-                       target="abc"
-                       xlink:href="#bib1"
-                       xlink:label="abc"
-                       xlink:role="abc"
-                       xlink:title="abc"
-                       xlink:type="locator"
-                       xpointer="ead/archdesc/did/abstract/linkgrp/reflocATTRxpointer">ead/archdesc/did/abstract/linkgrp/refloc/text()<abbr>ead/archdesc/did/abstract/linkgrp/refloc/abbr/text()</abbr>
-                  <address>
-                     <addressline>ead/archdesc/did/abstract/linkgrp/refloc/address/addressline/text()</addressline>
-                  </address>
-                  <blockquote>
-                     <p>ead/archdesc/did/abstract/linkgrp/refloc/blockquote/p/text()</p>
-                  </blockquote>
-                  <chronlist>
-                     <chronitem>
-                        <date>ead/archdesc/did/abstract/linkgrp/refloc/chronlist/chronitem/date/text()</date>
-                        <event>ead/archdesc/did/abstract/linkgrp/refloc/chronlist/chronitem/event/text()</event>
-                     </chronitem>
-                  </chronlist>
-                  <corpname>ead/archdesc/did/abstract/linkgrp/refloc/corpname/text()</corpname>
-                  <date>ead/archdesc/did/abstract/linkgrp/refloc/date/text()</date>
-                  <emph>ead/archdesc/did/abstract/linkgrp/refloc/emph/text()</emph>
-                  <expan>ead/archdesc/did/abstract/linkgrp/refloc/expan/text()</expan>
-                  <extptr/>
-                  <famname>ead/archdesc/did/abstract/linkgrp/refloc/famname/text()</famname>
-                  <function>ead/archdesc/did/abstract/linkgrp/refloc/function/text()</function>
-                  <genreform>ead/archdesc/did/abstract/linkgrp/refloc/genreform/text()</genreform>
-                  <geogname>ead/archdesc/did/abstract/linkgrp/refloc/geogname/text()</geogname>
-                  <lb/>
-                  <list>
-                     <item>ead/archdesc/did/abstract/linkgrp/refloc/list/item/text()</item>
-                  </list>
-                  <name>ead/archdesc/did/abstract/linkgrp/refloc/name/text()</name>
-                  <note>
-                     <p>ead/archdesc/did/abstract/linkgrp/refloc/note/p/text()</p>
-                  </note>
-                  <num>ead/archdesc/did/abstract/linkgrp/refloc/num/text()</num>
-                  <occupation>ead/archdesc/did/abstract/linkgrp/refloc/occupation/text()</occupation>
-                  <origination>ead/archdesc/did/abstract/linkgrp/refloc/origination/text()</origination>
-                  <persname>ead/archdesc/did/abstract/linkgrp/refloc/persname/text()</persname>
-                  <ptr/>
-                  <repository>ead/archdesc/did/abstract/linkgrp/refloc/repository/text()</repository>
-                  <subject>ead/archdesc/did/abstract/linkgrp/refloc/subject/text()</subject>
-                  <table>
-                     <head>ead/archdesc/did/abstract/linkgrp/refloc/table/head/text()</head>
-                     <tgroup cols="abc">
-                        <tbody>
-                           <row>
-                              <entry>ead/archdesc/did/abstract/linkgrp/refloc/table/tgroup/tbody/row/entry/text()</entry>
-                           </row>
-                        </tbody>
-                     </tgroup>
-                  </table>
-                  <unitdate>ead/archdesc/did/abstract/linkgrp/refloc/unitdate/text()</unitdate>
-                  <unittitle>ead/archdesc/did/abstract/linkgrp/refloc/unittitle/text()</unittitle>
-               </refloc>
+               <refloc xlink:href="#bib1">ead/archdesc/did/abstract/linkgrp/refloc/text()</refloc>
             </linkgrp>
             <ptr target="fakeidc91"/>
             <ref>
@@ -1140,20 +442,7 @@
             </ref>
             <title>ead/archdesc/did/abstract/title/text()</title>
          </abstract>
-         <physloc type="code">ead/archdesc/did/physloc/text()<abbr>ead/archdesc/did/physloc/abbr/text()</abbr>
-            <archref>ead/archdesc/did/physloc/archref/text()</archref>
-            <bibref>ead/archdesc/did/physloc/bibref/text()</bibref>
-            <emph>ead/archdesc/did/physloc/emph/text()</emph>
-            <expan>ead/archdesc/did/physloc/expan/text()</expan>
-            <extptr/>
-            <lb/>
-            <linkgrp>
-               <resource>ead/archdesc/did/physloc/linkgrp/resource/text()</resource>
-            </linkgrp>
-            <ptr/>
-            <ref>ead/archdesc/did/physloc/ref/text()</ref>
-            <title>ead/archdesc/did/physloc/title/text()</title>
-         </physloc>
+         <physloc type="code">ead/archdesc/did/physloc/text()</physloc>
          <physloc type="text">
             <extref xlink:href="http://libguides.princeton.edu/mudd_aclu"
                     xlink:type="simple">ead/archdesc/did/physloc/extref/text()</extref>
@@ -1167,7 +456,7 @@
                    source="local">
             <extent altrender="ead/archdesc/did/physdesc/extentATTRaltrender"
                     type="computed"
-                    unit="ead/archdesc/did/physdesc/extentATTRunit">ead/archdesc/did/physdesc/extent/text()</extent>
+                    unit="ead/archdesc/did/physdesc/extentATTRunit">1 ead/archdesc/did/physdesc/extent/text()</extent>
             <extent altrender="ead/archdesc/did/physdesc/extentATTRaltrender"
                     type="computed"
                     unit="ead/archdesc/did/physdesc/extentATTRunit">ead/archdesc/did/physdesc/extent/text()</extent>
@@ -1177,28 +466,7 @@
             <extent altrender="ead/archdesc/did/physdesc/extentATTRaltrender"
                     type="computed"
                     unit="ead/archdesc/did/physdesc/extentATTRunit">ead/archdesc/did/physdesc/extent/text()</extent>
-            <abbr>ead/archdesc/did/physdesc/abbr/text()</abbr>
-            <archref>ead/archdesc/did/physdesc/archref/text()</archref>
-            <bibref>ead/archdesc/did/physdesc/bibref/text()</bibref>
-            <corpname>ead/archdesc/did/physdesc/corpname/text()</corpname>
-            <date>ead/archdesc/did/physdesc/date/text()</date>
-            <emph>ead/archdesc/did/physdesc/emph/text()</emph>
-            <expan>ead/archdesc/did/physdesc/expan/text()</expan>
-            <extptr/>
-            <extref>ead/archdesc/did/physdesc/extref/text()</extref>
-            <famname>ead/archdesc/did/physdesc/famname/text()</famname>
-            <function>ead/archdesc/did/physdesc/function/text()</function>
-            <geogname>ead/archdesc/did/physdesc/geogname/text()</geogname>
-            <lb/>
-            <name>ead/archdesc/did/physdesc/name/text()</name>
-            <title>ead/archdesc/did/physdesc/title/text()</title>
          </physdesc>
-         <daogrp>
-            <resource>ead/archdesc/did/daogrp/resource/text()</resource>
-         </daogrp>
-         <note>
-            <p>ead/archdesc/did/note/p/text()</p>
-         </note>
       </did>
       <odd altrender="ead/archdesc/oddATTRaltrender"
            audience="external"
@@ -1224,40 +492,10 @@
                <event>ead/archdesc/odd/chronlist/chronitem/event/text()</event>
             </chronitem>
          </chronlist>
-         <dao>
-            <daodesc altrender="ead/archdesc/odd/dao/daodescATTRaltrender"
-                     audience="external"
-                     id="abc89">
+      	<dao xlink:title="test" xlink:show="new" xlink:href="http://www.some/file">
+            <daodesc>
                <head>ead/archdesc/odd/dao/daodesc/head/text()</head>
                <p>ead/archdesc/odd/dao/daodesc/p/text()</p>
-               <address>
-                  <addressline>ead/archdesc/odd/dao/daodesc/address/addressline/text()</addressline>
-               </address>
-               <blockquote>
-                  <p>ead/archdesc/odd/dao/daodesc/blockquote/p/text()</p>
-               </blockquote>
-               <chronlist>
-                  <chronitem>
-                     <date>ead/archdesc/odd/dao/daodesc/chronlist/chronitem/date/text()</date>
-                     <event>ead/archdesc/odd/dao/daodesc/chronlist/chronitem/event/text()</event>
-                  </chronitem>
-               </chronlist>
-               <list>
-                  <item>ead/archdesc/odd/dao/daodesc/list/item/text()</item>
-               </list>
-               <note>
-                  <p>ead/archdesc/odd/dao/daodesc/note/p/text()</p>
-               </note>
-               <table>
-                  <head>ead/archdesc/odd/dao/daodesc/table/head/text()</head>
-                  <tgroup cols="abc">
-                     <tbody>
-                        <row>
-                           <entry>ead/archdesc/odd/dao/daodesc/table/tgroup/tbody/row/entry/text()</entry>
-                        </row>
-                     </tbody>
-                  </tgroup>
-               </table>
             </daodesc>
          </dao>
          <daogrp>
@@ -1266,10 +504,6 @@
                <p>ead/archdesc/odd/daogrp/daodesc/p/text()</p>
             </daodesc>
             <resource>ead/archdesc/odd/daogrp/resource/text()</resource>
-            <extptrloc xlink:href="abc"/>
-            <extrefloc xlink:href="abc">ead/archdesc/odd/daogrp/extrefloc/text()</extrefloc>
-            <ptrloc xlink:href="abc"/>
-            <refloc xlink:href="abc">ead/archdesc/odd/daogrp/refloc/text()</refloc>
          </daogrp>
          <list>
             <head>ead/archdesc/odd/list/head/text()</head>
@@ -1724,35 +958,7 @@
                                  id="fakeidc950">
                            <label altrender="ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/labelATTRaltrender"
                                   audience="external"
-                                  id="fakeidc951">ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/text()<abbr>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/abbr/text()</abbr>
-                              <archref>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/archref/text()</archref>
-                              <bibref>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/bibref/text()</bibref>
-                              <corpname>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/corpname/text()</corpname>
-                              <date>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/date/text()</date>
-                              <expan>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/expan/text()</expan>
-                              <extptr/>
-                              <extref>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/extref/text()</extref>
-                              <famname>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/famname/text()</famname>
-                              <function>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/function/text()</function>
-                              <genreform>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/genreform/text()</genreform>
-                              <geogname>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/geogname/text()</geogname>
-                              <lb/>
-                              <linkgrp>
-                                 <resource>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/linkgrp/resource/text()</resource>
-                              </linkgrp>
-                              <name>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/name/text()</name>
-                              <num>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/num/text()</num>
-                              <occupation>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/occupation/text()</occupation>
-                              <origination>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/origination/text()</origination>
-                              <persname>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/persname/text()</persname>
-                              <ptr/>
-                              <ref>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/ref/text()</ref>
-                              <repository>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/repository/text()</repository>
-                              <subject>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/subject/text()</subject>
-                              <title>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/title/text()</title>
-                              <unitdate>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/unitdate/text()</unitdate>
-                              <unittitle>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/unittitle/text()</unittitle>
-                           </label>
+                                  id="fakeidc951">ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/label/text()</label>
                            <item altrender="ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/itemATTRaltrender"
                                  audience="external"
                                  id="fakeidc952">ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/list/defitem/item/text()</item>
@@ -1794,11 +1000,7 @@
                      <subject authfilenumber="ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/subjectATTRauthfilenumber"
                               encodinganalog="ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/subjectATTRencodinganalog"
                               rules="local"
-                              source="local">ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/subject/text()<emph>ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/subject/emph/text()</emph>
-                        <extptr/>
-                        <lb/>
-                        <ptr/>
-                     </subject>
+                              source="local">ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/subject/text()</subject>
                      <table altrender="ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/tableATTRaltrender"
                             audience="external"
                             colsep="-"
@@ -5087,25 +4289,13 @@
          </chronlist>
          <dao xlink:href="bioghist-images/shieldlogo.jpg"
               xlink:title="Princeton University Archives"
-              xlink:type="simple"/>
+              xlink:type="simple" xlink:show="new"/>
          <daogrp xlink:type="extended">
             <daodesc>
                <p>ead/archdesc/bioghist/daogrp/daodesc/p/text()<date normal="18950528">ead/archdesc/bioghist/daogrp/daodesc/p/date/text()</date>ead/archdesc/bioghist/daogrp/daodesc/p/text()</p>
             </daodesc>
             <resource xlink:label="start" xlink:type="resource">ead/archdesc/bioghist/daogrp/resource/text()</resource>
-            <daoloc altrender="ead/archdesc/bioghist/daogrp/daolocATTRaltrender"
-                    audience="external"
-                    id="a456bc"
-                    xlink:href="f0042_1tmb"
-                    xlink:label="thumb"
-                    xlink:role="abc"
-                    xlink:title="abc"
-                    xlink:type="locator"
-                    xpointer="ead/archdesc/bioghist/daogrp/daolocATTRxpointer">
-               <daodesc>
-                  <p>ead/archdesc/bioghist/daogrp/daoloc/daodesc/p/text()</p>
-               </daodesc>
-            </daoloc>
+            <daoloc xlink:href="f0042_1tmb" xlink:label="thumb" xlink:type="locator"/>
             <arc xlink:actuate="onLoad"
                  xlink:from="start"
                  xlink:show="embed"
@@ -5154,11 +4344,7 @@
          </table>
          <p>ead/archdesc/bioghist/p/text()</p>
       </bioghist>
-      <descgrp altrender="ead/archdesc/descgrpATTRaltrender"
-               audience="external"
-               encodinganalog="ead/archdesc/descgrpATTRencodinganalog"
-               id="dacs3"
-               type="abc">
+      <descgrp id="dacs3">
          <bioghist>
             <p>ead/archdesc/descgrp/bioghist/p/text()</p>
          </bioghist>
@@ -5174,53 +4360,6 @@
          <odd>
             <p>ead/archdesc/descgrp/odd/p/text()</p>
          </odd>
-         <address>
-            <addressline>ead/archdesc/descgrp/address/addressline/text()</addressline>
-         </address>
-         <blockquote>
-            <p>ead/archdesc/descgrp/blockquote/p/text()</p>
-         </blockquote>
-         <chronlist>
-            <chronitem>
-               <date>ead/archdesc/descgrp/chronlist/chronitem/date/text()</date>
-               <event>ead/archdesc/descgrp/chronlist/chronitem/event/text()</event>
-            </chronitem>
-         </chronlist>
-         <controlaccess>
-            <persname>ead/archdesc/descgrp/controlaccess/persname/text()</persname>
-         </controlaccess>
-         <descgrp>
-            <p>ead/archdesc/descgrp/descgrp/p/text()</p>
-         </descgrp>
-         <fileplan altrender="ead/archdesc/descgrp/fileplanATTRaltrender"
-                   audience="external"
-                   encodinganalog="ead/archdesc/descgrp/fileplanATTRencodinganalog"
-                   id="a535bc">
-            <p>ead/archdesc/descgrp/fileplan/p/text()</p>
-         </fileplan>
-         <index altrender="ead/archdesc/descgrp/indexATTRaltrender"
-                audience="external"
-                encodinganalog="ead/archdesc/descgrp/indexATTRencodinganalog"
-                id="ab686c">
-            <indexentry altrender="ead/archdesc/descgrp/index/indexentryATTRaltrender"
-                        audience="external"
-                        id="abc">
-               <name>ead/archdesc/descgrp/index/indexentry/name/text()</name>
-            </indexentry>
-         </index>
-         <list>
-            <item>ead/archdesc/descgrp/list/item/text()</item>
-         </list>
-         <table>
-            <head>ead/archdesc/descgrp/table/head/text()</head>
-            <tgroup cols="abc">
-               <tbody>
-                  <row>
-                     <entry>ead/archdesc/descgrp/table/tgroup/tbody/row/entry/text()</entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
       </descgrp>
       <descgrp id="dacs4">
          <accessrestrict altrender="ead/archdesc/descgrp/accessrestrictATTRaltrender"
@@ -8313,11 +7452,9 @@
       </descgrp>
       <descgrp id="dacs7">
          <prefercite>
-            <head>ead/archdesc/descgrp/prefercite/head/text()</head>
             <p>ead/archdesc/descgrp/prefercite/p/text()</p>
          </prefercite>
-         <phystech type="abc">
-            <head>ead/archdesc/descgrp/phystech/head/text()</head>
+         <phystech>
             <p>ead/archdesc/descgrp/phystech/p/text()</p>
          </phystech>
       </descgrp>
@@ -8494,14 +7631,8 @@
                </tbody>
             </tgroup>
          </table>
-         <title>ead/archdesc/controlaccess/title/text()</title>
       </controlaccess>
-      <dsc altrender="ead/archdesc/dscATTRaltrender"
-           audience="external"
-           encodinganalog="ead/archdesc/dscATTRencodinganalog"
-           id="abc789"
-           tpattern="abc"
-           type="combined">
+      <dsc type="combined">
          <c altrender="ead/archdesc/dsc/cATTRaltrender"
             audience="external"
             encodinganalog="ead/archdesc/dsc/cATTRencodinganalog"
@@ -8579,7 +7710,6 @@
                      <lb/>
                      <ref>ead/archdesc/dsc/c/did/physdesc/dimensions/ref/text()</ref>
                      <title>ead/archdesc/dsc/c/did/physdesc/dimensions/title/text()</title>
-                     <dimensions>ead/archdesc/dsc/c/did/physdesc/dimensions/dimensions/text()</dimensions>
                   </dimensions>
                   <linkgrp xlink:type="extended">
                      <extrefloc xlink:href="http://www.someserver.edu/findaids/3270.xml">
@@ -8625,15 +7755,7 @@
                            encodinganalog="ead/archdesc/dsc/c/did/physdesc/subjectATTRencodinganalog"
                            rules="local"
                            source="local">ead/archdesc/dsc/c/did/physdesc/subject/text()</subject>
-                  <physfacet altrender="ead/archdesc/dsc/c/did/physdesc/physfacetATTRaltrender"
-                             audience="external"
-                             encodinganalog="ead/archdesc/dsc/c/did/physdesc/physfacetATTRencodinganalog"
-                             id="a131bc"
-                             label="ead/archdesc/dsc/c/did/physdesc/physfacetATTRlabel"
-                             rules="abc"
-                             source="abc"
-                             type="abc"
-                             unit="ead/archdesc/dsc/c/did/physdesc/physfacetATTRunit">
+                  <physfacet>
                      <abbr expan="ead/archdesc/dsc/c/did/physdesc/physfacet/abbrATTRexpan">ead/archdesc/dsc/c/did/physdesc/physfacet/abbr/text()</abbr>
                      <archref altrender="ead/archdesc/dsc/c/did/physdesc/physfacet/archrefATTRaltrender"
                               audience="external"
@@ -8658,16 +7780,7 @@
                      <lb/>
                      <ref>ead/archdesc/dsc/c/did/physdesc/physfacet/ref/text()</ref>
                      <title>ead/archdesc/dsc/c/did/physdesc/physfacet/title/text()</title>
-                     <corpname>ead/archdesc/dsc/c/did/physdesc/physfacet/corpname/text()</corpname>
-                     <date>ead/archdesc/dsc/c/did/physdesc/physfacet/date/text()</date>
-                     <famname>ead/archdesc/dsc/c/did/physdesc/physfacet/famname/text()</famname>
-                     <function>ead/archdesc/dsc/c/did/physdesc/physfacet/function/text()</function>
-                     <genreform>ead/archdesc/dsc/c/did/physdesc/physfacet/genreform/text()</genreform>
-                     <geogname>ead/archdesc/dsc/c/did/physdesc/physfacet/geogname/text()</geogname>
-                     <name>ead/archdesc/dsc/c/did/physdesc/physfacet/name/text()</name>
-                     <occupation>ead/archdesc/dsc/c/did/physdesc/physfacet/occupation/text()</occupation>
-                     <persname>ead/archdesc/dsc/c/did/physdesc/physfacet/persname/text()</persname>
-                     <subject>ead/archdesc/dsc/c/did/physdesc/physfacet/subject/text()</subject>ead/archdesc/dsc/c/did/physdesc/physfacet/text()</physfacet>
+                  </physfacet>
                   <dimensions altrender="ead/archdesc/dsc/c/did/physdesc/dimensionsATTRaltrender"
                               audience="external"
                               encodinganalog="ead/archdesc/dsc/c/did/physdesc/dimensionsATTRencodinganalog"
@@ -8792,7 +7905,7 @@
                <arrangement>
                   <p>ead/archdesc/dsc/c/scopecontent/arrangement/p/text()</p>
                </arrangement>
-               <dao>
+            	<dao xlink:title="test" xlink:show="new" xlink:href="http://www.some/file">
                   <daodesc>
                      <head>ead/archdesc/dsc/c/scopecontent/dao/daodesc/head/text()</head>
                      <p>ead/archdesc/dsc/c/scopecontent/dao/daodesc/p/text()</p>
@@ -8819,15 +7932,13 @@
                <did>
                   <container>
                      <ptr target="MC001.01_i1"/>
-                     <expan>ead/archdesc/dsc/c/c/did/container/expan/text()</expan>
-                     <extref>ead/archdesc/dsc/c/c/did/container/extref/text()</extref>
                   </container>
                   <unittitle>ead/archdesc/dsc/c/c/did/unittitle/text()</unittitle>
                   <unitdate normal="1912/1912">ead/archdesc/dsc/c/c/did/unitdate/text()</unitdate>
                   <dao xlink:href="https://figgy.princeton.edu/concern/scanned_resources/3a8004dd-9e25-4bf4-a5bd-462d7279953b/manifest"
                        xlink:role="https://iiif.io/api/presentation/2.1/"
                        xlink:title="View ditigal content"
-                       xlink:type="simple"/>
+                       xlink:type="simple" xlink:show="new"/>
                   <physdesc>
                      <extent type="computed" unit="ead/archdesc/dsc/c/c/did/physdesc/extentATTRunit">ead/archdesc/dsc/c/c/did/physdesc/extent/text()</extent>
                   </physdesc>
@@ -8861,7 +7972,7 @@
                </custodhist>
                <dao xlink:href="bioghist-images/shieldlogo.jpg"
                     xlink:title="Princeton University Archives"
-                    xlink:type="simple"/>
+                    xlink:type="simple" xlink:show="new"/>
                <descgrp>
                   <head>ead/archdesc/dsc/c/c/descgrp/head/text()</head>
                   <p>ead/archdesc/dsc/c/c/descgrp/p/text()</p>
@@ -8899,128 +8010,14 @@
                         </defitem>
                      </list>
                   </fileplan>
-                  <address>
-                     <addressline>ead/archdesc/dsc/c/c/fileplan/address/addressline/text()</addressline>
-                  </address>
-                  <blockquote>
-                     <p>ead/archdesc/dsc/c/c/fileplan/blockquote/p/text()</p>
-                  </blockquote>
-                  <chronlist>
-                     <chronitem>
-                        <date>ead/archdesc/dsc/c/c/fileplan/chronlist/chronitem/date/text()</date>
-                        <event>ead/archdesc/dsc/c/c/fileplan/chronlist/chronitem/event/text()</event>
-                     </chronitem>
-                  </chronlist>
-                  <p>ead/archdesc/dsc/c/c/fileplan/p/text()</p>
-                  <table>
-                     <head>ead/archdesc/dsc/c/c/fileplan/table/head/text()</head>
-                     <tgroup cols="abc">
-                        <tbody>
-                           <row>
-                              <entry>ead/archdesc/dsc/c/c/fileplan/table/tgroup/tbody/row/entry/text()</entry>
-                           </row>
-                        </tbody>
-                     </tgroup>
-                  </table>
                </fileplan>
                <index>
                   <head>ead/archdesc/dsc/c/c/index/head/text()</head>
                   <p>ead/archdesc/dsc/c/c/index/p/text()</p>
-                  <note>
-                     <p>ead/archdesc/dsc/c/c/index/note/p/text()</p>
-                  </note>
-                  <table>
-                     <head>ead/archdesc/dsc/c/c/index/table/head/text()</head>
-                     <tgroup cols="abc">
-                        <tbody>
-                           <row>
-                              <entry>ead/archdesc/dsc/c/c/index/table/tgroup/tbody/row/entry/text()</entry>
-                           </row>
-                        </tbody>
-                     </tgroup>
-                  </table>
                   <indexentry>
                      <name>ead/archdesc/dsc/c/c/index/indexentry/name/text()</name>
-                  </indexentry>
-                  <indexentry>
-                     <corpname>ead/archdesc/dsc/c/c/index/indexentry/corpname/text()</corpname>
-                  </indexentry>
-                  <indexentry>
-                     <famname>ead/archdesc/dsc/c/c/index/indexentry/famname/text()</famname>
-                  </indexentry>
-                  <indexentry>
-                     <function>ead/archdesc/dsc/c/c/index/indexentry/function/text()</function>
-                  </indexentry>
-                  <indexentry>
-                     <genreform>ead/archdesc/dsc/c/c/index/indexentry/genreform/text()</genreform>
-                  </indexentry>
-                  <indexentry>
-                     <geogname>ead/archdesc/dsc/c/c/index/indexentry/geogname/text()</geogname>
-                  </indexentry>
-                  <indexentry>
-                     <name>ead/archdesc/dsc/c/c/index/indexentry/name/text()</name>
-                     <indexentry>
-                        <name>ead/archdesc/dsc/c/c/index/indexentry/indexentry/name/text()</name>
-                     </indexentry>
-                  </indexentry>
-                  <indexentry>
-                     <namegrp altrender="ead/archdesc/dsc/c/c/index/indexentry/namegrpATTRaltrender"
-                              audience="external"
-                              id="ab797c">
-                        <title>ead/archdesc/dsc/c/c/index/indexentry/namegrp/title/text()</title>
-                        <subject>ead/archdesc/dsc/c/c/index/indexentry/namegrp/subject/text()</subject>
-                        <occupation>ead/archdesc/dsc/c/c/index/indexentry/namegrp/occupation/text()</occupation>
-                        <note>
-                           <p>ead/archdesc/dsc/c/c/index/indexentry/namegrp/note/p/text()</p>
-                        </note>
-                        <name>ead/archdesc/dsc/c/c/index/indexentry/namegrp/name/text()</name>
-                        <geogname>ead/archdesc/dsc/c/c/index/indexentry/namegrp/geogname/text()</geogname>
-                        <genreform>ead/archdesc/dsc/c/c/index/indexentry/namegrp/genreform/text()</genreform>
-                        <function>ead/archdesc/dsc/c/c/index/indexentry/namegrp/function/text()</function>
-                        <famname>ead/archdesc/dsc/c/c/index/indexentry/namegrp/famname/text()</famname>
-                        <persname>ead/archdesc/dsc/c/c/index/indexentry/namegrp/persname/text()</persname>
-                        <corpname>ead/archdesc/dsc/c/c/index/indexentry/namegrp/corpname/text()</corpname>
-                     </namegrp>
-                     <ptrgrp altrender="ead/archdesc/dsc/c/c/index/indexentry/ptrgrpATTRaltrender"
-                             audience="external"
-                             id="ab3535c">
-                        <ptr xlink:href="#MC001.01_b1"/>
-                        <ref xlink:href="#MC001.01_b1">ead/archdesc/dsc/c/c/index/indexentry/ptrgrp/ref/text()</ref>
-                     </ptrgrp>
-                  </indexentry>
-                  <indexentry>
-                     <occupation>ead/archdesc/dsc/c/c/index/indexentry/occupation/text()</occupation>
                      <ref target="MC001.01_i1" xlink:actuate="onRequest" xlink:show="replace">ead/archdesc/dsc/c/c/index/indexentry/ref/text()</ref>
                   </indexentry>
-                  <indexentry>
-                     <persname>ead/archdesc/dsc/c/c/index/indexentry/persname/text()</persname>
-                     <ptr xlink:href="#MC001.01_b1"/>
-                  </indexentry>
-                  <indexentry>
-                     <subject>ead/archdesc/dsc/c/c/index/indexentry/subject/text()</subject>
-                  </indexentry>
-                  <indexentry>
-                     <title>ead/archdesc/dsc/c/c/index/indexentry/title/text()</title>
-                  </indexentry>
-               </index>
-               <index>
-                  <address>
-                     <addressline>ead/archdesc/dsc/c/c/index/address/addressline/text()</addressline>
-                  </address>
-                  <blockquote>
-                     <p>ead/archdesc/dsc/c/c/index/blockquote/p/text()</p>
-                  </blockquote>
-                  <chronlist>
-                     <chronitem>
-                        <date>ead/archdesc/dsc/c/c/index/chronlist/chronitem/date/text()</date>
-                        <event>ead/archdesc/dsc/c/c/index/chronlist/chronitem/event/text()</event>
-                     </chronitem>
-                  </chronlist>
-                  <index>
-                     <indexentry>
-                        <name>ead/archdesc/dsc/c/c/index/index/indexentry/name/text()</name>
-                     </indexentry>
-                  </index>
                </index>
                <note>
                   <p>ead/archdesc/dsc/c/c/note/p/text()</p>
@@ -9545,7 +8542,7 @@
                             label="ead/archdesc/dsc/c/c/did/unitdateATTRlabel"
                             normal="1913/1913"
                             type="inclusive">ead/archdesc/dsc/c/c/did/unitdate/text()<title>ead/archdesc/dsc/c/c/did/unitdate/title/text()</title>
-                     <linkgrp>
+                     <!--<linkgrp>
                         <resource>ead/archdesc/dsc/c/c/did/unitdate/linkgrp/resource/text()</resource>
                      </linkgrp>
                      <extref altrender="ead/archdesc/dsc/c/c/did/unitdate/extrefATTRaltrender"
@@ -9568,7 +8565,7 @@
                      <extptr xlink:href="#bib1"/>
                      <lb/>
                      <ptr xlink:href="#bib1"/>
-                     <title>ead/archdesc/dsc/c/c/did/unitdate/title/text()</title>
+                     <title>ead/archdesc/dsc/c/c/did/unitdate/title/text()</title>-->
                   </unitdate>
                   <physdesc>
                      <extent type="computed" unit="ead/archdesc/dsc/c/c/did/physdesc/extentATTRunit">ead/archdesc/dsc/c/c/did/physdesc/extent/text()</extent>
@@ -9580,72 +8577,10 @@
             </c>
          </c>
       </dsc>
-      <dsc othertype="other" type="othertype">
-         <head>ead/archdesc/dsc/head/text()</head>
-         <address>
-            <addressline>ead/archdesc/dsc/address/addressline/text()</addressline>
-         </address>
-         <blockquote>
-            <p>ead/archdesc/dsc/blockquote/p/text()</p>
-         </blockquote>
-         <chronlist>
-            <chronitem>
-               <date>ead/archdesc/dsc/chronlist/chronitem/date/text()</date>
-               <event>ead/archdesc/dsc/chronlist/chronitem/event/text()</event>
-            </chronitem>
-         </chronlist>
-         <dsc>
-            <p>ead/archdesc/dsc/dsc/p/text()</p>
-         </dsc>
-      </dsc>
-      <dsc>
-         <list>
-            <item>ead/archdesc/dsc/list/item/text()</item>
-         </list>
-         <note>
-            <p>ead/archdesc/dsc/note/p/text()</p>
-         </note>
-         <table>
-            <head>ead/archdesc/dsc/table/head/text()</head>
-            <tgroup cols="abc">
-               <colspec/>
-               <thead>
-                  <row>
-                     <entry>ead/archdesc/dsc/table/tgroup/thead/row/entry/text()</entry>
-                  </row>
-               </thead>
-               <tbody>
-                  <row>
-                     <entry/>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-         <thead>
-            <row>
-               <entry>ead/archdesc/dsc/thead/row/entry/text()</entry>
-            </row>
-         </thead>
-         <c>
-            <head>ead/archdesc/dsc/c/head/text()</head>
-            <did>
-               <unittitle>ead/archdesc/dsc/c/did/unittitle/text()</unittitle>
-            </did>
-            <thead>
-               <row>
-                  <entry>ead/archdesc/dsc/c/thead/row/entry/text()</entry>
-               </row>
-            </thead>
-            <c>
-               <did>
-                  <unittitle>ead/archdesc/dsc/c/c/did/unittitle/text()</unittitle>
-               </did>
-            </c>
-         </c>
-      </dsc>
       <dsc othertype="physicalholdings" type="othertype">
          <c id="MC001.01_i1" level="otherlevel" otherlevel="physicalitem">
             <did>
+<unittitle>unittitle or unitdate are required</unittitle>
                <container type="box">ead/archdesc/dsc/c/did/container/text()</container>
                <unitid type="barcode">ead/archdesc/dsc/c/did/unitid/text()</unitid>
                <physloc type="code">ead/archdesc/dsc/c/did/physloc/text()</physloc>
@@ -9653,6 +8588,7 @@
          </c>
          <c id="fakeid44" level="otherlevel" otherlevel="physicalitem">
             <did>
+            	<unittitle>unittitle or unitdate are required</unittitle>
                <container type="volume">ead/archdesc/dsc/c/did/container/text()</container>
                <unitid type="barcode">ead/archdesc/dsc/c/did/unitid/text()</unitid>
                <physloc type="code">ead/archdesc/dsc/c/did/physloc/text()</physloc>
@@ -9660,64 +8596,12 @@
          </c>
          <c id="fakeid1" level="otherlevel" otherlevel="physicalitem">
             <did>
+            	<unittitle>unittitle or unitdate are required</unittitle>
                <container id="vol6" type="volume">ead/archdesc/dsc/c/did/container/text()</container>
                <unitid type="barcode">ead/archdesc/dsc/c/did/unitid/text()</unitid>
                <physloc type="code">ead/archdesc/dsc/c/did/physloc/text()</physloc>
             </did>
          </c>
       </dsc>
-      <dao xlink:href="abc"/>
-      <daogrp>
-         <resource>ead/archdesc/daogrp/resource/text()</resource>
-      </daogrp>
-      <fileplan>
-         <p>ead/archdesc/fileplan/p/text()</p>
-      </fileplan>
-      <index>
-         <listhead>
-            <head01>ead/archdesc/index/listhead/head01/text()</head01>
-         </listhead>
-         <indexentry>
-            <famname>ead/archdesc/index/indexentry/famname/text()</famname>
-         </indexentry>
-      </index>
-      <index>
-         <list>
-            <item>ead/archdesc/index/list/item/text()</item>
-         </list>
-         <indexentry>
-            <famname>ead/archdesc/index/indexentry/famname/text()</famname>
-         </indexentry>
-      </index>
-      <note>
-         <p>ead/archdesc/note/p/text()</p>
-      </note>
-      <originalsloc>
-         <p>ead/archdesc/originalsloc/p/text()</p>
-      </originalsloc>
-      <otherfindaid>
-         <p>ead/archdesc/otherfindaid/p/text()</p>
-      </otherfindaid>
-      <phystech>
-         <p>ead/archdesc/phystech/p/text()</p>
-      </phystech>
-      <prefercite>
-         <p>ead/archdesc/prefercite/p/text()</p>
-      </prefercite>
-      <processinfo>
-         <p>ead/archdesc/processinfo/p/text()</p>
-      </processinfo>
-      <relatedmaterial>
-         <p>ead/archdesc/relatedmaterial/p/text()</p>
-      </relatedmaterial>
-      <scopecontent>
-         <p>ead/archdesc/scopecontent/p/text()</p>
-      </scopecontent>
-      <separatedmaterial>
-         <p>ead/archdesc/separatedmaterial/p/text()</p>
-      </separatedmaterial>
-      <userestrict>
-         <p>ead/archdesc/userestrict/p/text()</p>
-      </userestrict>
    </archdesc>
 </ead>

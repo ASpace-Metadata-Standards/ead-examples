@@ -9,6 +9,8 @@ testing importation and the extraction of metadata within ArchivesSpace.
 
 The repository also includes a number of dedicated test files.
 
+For a node-by-node accounting of the import mapping, use the [TACmetadata_test_import.xml](https://github.com/ASpace-Metadata-Standards/ead-examples/blob/master/test_files/TACmetadata_test_import.xml) file, which shows the XPath of the imported node.
+
 ### EAD2002 Import Gotchas
   
 ______________________

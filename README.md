@@ -17,6 +17,8 @@ ______________________
 - extent is required
 - unitdate is required
 - unitid is required
+- unitid is limited to 50 characters
+- unittitle is limited to 255 characters
 
 ___________________
 extent and physdesc
@@ -43,19 +45,27 @@ ______________________
 - container encodinganalog should not be empty
 
 _______________________
+dao
+_______________________
+- xlink:title is required
+- xlink:show is required (use as a mule to get in file_version)
+- xlink:href is required
+
+_______________________
 component
 _______________________
 
-- there may only be one unitid per component
 - unittitle may not be longer than 1277 characters
 - unittitle may not contain emph
 - end date cannot occur before start date
 - unitdate cannot be invalid
+- unitdate is limited to 255 characters
 - accessrestrict must have @type set to open, closed, or review 
 - accessrestrict set to closed or review must have altrender
 - c must have accessrestrict
 - c must have @level
 - names, bioghist may not contain pointers
+- must have one or both of unittitle, unitdate
 
 _______________________
 other observations

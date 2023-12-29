@@ -5,7 +5,7 @@ This file will eventually include every node pair allowed in EAD2002 with the ex
 i.e. the super-wrappers around multiple descriptions. 
 
 The following attributes were omitted:
-- @entitiref
+- @entityref
 
 as well as the following on linking elements:
 - @linktype (silently corrected to xlink:type)

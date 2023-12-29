@@ -30,11 +30,11 @@
 "system_mtime"=>"2023-12-29T15:23:26Z",
 "user_mtime"=>"2023-12-29T15:23:26Z",
 "jsonmodel_type"=>"external_id"}],
-"subjects"=>[{"ref"=>"/subjects/224"}
-{"ref"=>"/subjects/225"}
-{"ref"=>"/subjects/226"}
-{"ref"=>"/subjects/227"}
-{"ref"=>"/subjects/228"}
+"subjects"=>[{"ref"=>"/subjects/224"},
+{"ref"=>"/subjects/225"},
+{"ref"=>"/subjects/226"},
+{"ref"=>"/subjects/227"},
+{"ref"=>"/subjects/228"},
 {"ref"=>"/subjects/229"}],
 "linked_events"=>[],
 "extents"=>[{"lock_version"=>0,
@@ -63,7 +63,7 @@
 "user_mtime"=>"2023-12-29T15:23:26Z",
 "language"=>"eng",
 "script"=>"Armn",
-"jsonmodel_type"=>"language_and_script"}}
+"jsonmodel_type"=>"language_and_script"}},
 {"lock_version"=>0,
 "created_by"=>"admin",
 "last_modified_by"=>"admin",
@@ -105,180 +105,180 @@
 "role"=>"creator",
 "relator"=>"ead/archdesc/did/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/35"}
+"ref"=>"/agents/corporate_entities/35"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/36"}
+"ref"=>"/agents/corporate_entities/36"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/109"}
+"ref"=>"/agents/people/109"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accessrestrict/blockquote/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/1"}
+"ref"=>"/agents/families/1"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accessrestrict/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/37"}
+"ref"=>"/agents/corporate_entities/37"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accessrestrict/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/110"}
+"ref"=>"/agents/people/110"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accessrestrict/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/2"}
+"ref"=>"/agents/families/2"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accruals/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/38"}
+"ref"=>"/agents/corporate_entities/38"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accruals/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/111"}
+"ref"=>"/agents/people/111"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/accruals/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/3"}
+"ref"=>"/agents/families/3"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/39"}
+"ref"=>"/agents/corporate_entities/39"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/112"}
+"ref"=>"/agents/people/112"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/4"}
+"ref"=>"/agents/families/4"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/40"}
+"ref"=>"/agents/corporate_entities/40"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/113"}
+"ref"=>"/agents/people/113"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/5"}
+"ref"=>"/agents/families/5"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/41"}
+"ref"=>"/agents/corporate_entities/41"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/114"}
+"ref"=>"/agents/people/114"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/6"}
+"ref"=>"/agents/families/6"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/42"}
+"ref"=>"/agents/corporate_entities/42"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/115"}
+"ref"=>"/agents/people/115"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/7"}
+"ref"=>"/agents/families/7"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accessrestrict/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/43"}
+"ref"=>"/agents/corporate_entities/43"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accessrestrict/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/116"}
+"ref"=>"/agents/people/116"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accessrestrict/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/8"}
+"ref"=>"/agents/families/8"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accruals/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/44"}
+"ref"=>"/agents/corporate_entities/44"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accruals/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/117"}
+"ref"=>"/agents/people/117"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/accruals/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/9"}
+"ref"=>"/agents/families/9"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/45"}
+"ref"=>"/agents/corporate_entities/45"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/118"}
+"ref"=>"/agents/people/118"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/10"}
+"ref"=>"/agents/families/10"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/origination/corpnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/46"}
+"ref"=>"/agents/corporate_entities/46"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/origination/persnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/people/119"}
+"ref"=>"/agents/people/119"},
 {"is_primary"=>false,
 "role"=>"creator",
 "relator"=>"ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/origination/famnameATTRrole",
 "terms"=>[],
-"ref"=>"/agents/families/11"}
+"ref"=>"/agents/families/11"},
 {"is_primary"=>false,
 "role"=>"subject",
 "terms"=>[],
-"ref"=>"/agents/corporate_entities/47"}
+"ref"=>"/agents/corporate_entities/47"},
 {"is_primary"=>false,
 "role"=>"subject",
 "terms"=>[],
-"ref"=>"/agents/families/12"}
+"ref"=>"/agents/families/12"},
 {"is_primary"=>false,
 "role"=>"subject",
 "terms"=>[],
@@ -304,7 +304,7 @@
 "instance_type"=>"digital_object",
 "jsonmodel_type"=>"instance",
 "is_representative"=>false,
-"digital_object"=>{"ref"=>"/repositories/5/digital_objects/83"}}
+"digital_object"=>{"ref"=>"/repositories/5/digital_objects/83"}},
 {"lock_version"=>0,
 "created_by"=>"admin",
 "last_modified_by"=>"admin",
@@ -314,7 +314,7 @@
 "instance_type"=>"digital_object",
 "jsonmodel_type"=>"instance",
 "is_representative"=>false,
-"digital_object"=>{"ref"=>"/repositories/5/digital_objects/84"}}
+"digital_object"=>{"ref"=>"/repositories/5/digital_objects/84"}},
 {"lock_version"=>0,
 "created_by"=>"admin",
 "last_modified_by"=>"admin",
@@ -324,7 +324,7 @@
 "instance_type"=>"digital_object",
 "jsonmodel_type"=>"instance",
 "is_representative"=>false,
-"digital_object"=>{"ref"=>"/repositories/5/digital_objects/85"}}
+"digital_object"=>{"ref"=>"/repositories/5/digital_objects/85"}},
 {"lock_version"=>0,
 "created_by"=>"admin",
 "last_modified_by"=>"admin",
@@ -352,7 +352,7 @@
 <emph>ead/archdesc/did/materialspec/emph/text()</emph>\n\n<ref>ead/archdesc/did/materialspec/ref/text()</ref>"],
 "type"=>"materialspec",
 "persistent_id"=>"sd4as",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_singlepart",
 "content"=>["ead/archdesc/did/abstract/text()<abbr altrender=\"ead/archdesc/did/abstract/abbrATTRaltrender\" audience=\"external\" expan=\"ead/archdesc/did/abstract/abbrATTRexpan\" id=\"fakeidc91\">ead/archdesc/did/abstract/abbr/text()</abbr>ead/archdesc/did/abstract/text()\n\nead/archdesc/did/abstract/text()<extref xlink:href=\"http://libguides.princeton.edu/mudd_aclu\" xlink:type=\"simple\">ead/archdesc/did/abstract/extref/text()</extref>ead/archdesc/did/abstract/text()<archref altrender=\"ead/archdesc/did/abstract/archrefATTRaltrender\" audience=\"external\" id=\"fakeidc920\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/did/abstract/archrefATTRxpointer\"> 
 <unitid>ead/archdesc/did/abstract/archref/unitid/text()</unitid>ead/archdesc/did/abstract/archref/text()<unittitle> 
@@ -387,29 +387,29 @@
 <title>ead/archdesc/did/abstract/title/text()</title>"],
 "type"=>"abstract",
 "persistent_id"=>"fakeidc92",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_singlepart",
 "content"=>["ead/archdesc/did/physloc/text()"],
 "type"=>"physloc",
 "persistent_id"=>"11a8d2d04d2b03c4ec01333c1d3858d5",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_singlepart",
 "content"=>["<extref xlink:href=\"http://libguides.princeton.edu/mudd_aclu\" xlink:type=\"simple\">ead/archdesc/did/physloc/extref/text()</extref>"],
 "type"=>"physloc",
 "persistent_id"=>"41c1004a005f58bd9c3d4ffab8628230",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/odd/p/text()\n\n <address> 
 <addressline>ead/archdesc/odd/address/addressline/text()</addressline> 
 </address> 
-<blockquote> ead/archdesc/odd/blockquote/p/text()\n\n </blockquote>"}
+<blockquote> ead/archdesc/odd/blockquote/p/text()\n\n </blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/odd/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/odd/chronlist/chronitem/event/text()"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/odd/chronlist/head/text()"}
+"title"=>"ead/archdesc/odd/chronlist/head/text()"},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<dao xlink:href=\"http://www.some/file\" xlink:show=\"new\" xlink:title=\"test\"> 
@@ -420,11 +420,11 @@
 <daodesc> 
 <head>ead/archdesc/odd/daogrp/daodesc/head/text()</head> ead/archdesc/odd/daogrp/daodesc/p/text()\n\n </daodesc> 
 <resource>ead/archdesc/odd/daogrp/resource/text()</resource> 
-</daogrp>"}
+</daogrp>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["ead/archdesc/odd/list/item/text()"],
 "publish"=>true,
-"title"=>"ead/archdesc/odd/list/head/text()"}
+"title"=>"ead/archdesc/odd/list/head/text()"},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<note> ead/archdesc/odd/note/p/text()\n\n </note> 
@@ -448,21 +448,21 @@
 "type"=>"odd",
 "persistent_id"=>"sadvfg4",
 "label"=>"ead/archdesc/odd/table/head/text()",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/odd/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"cda29c09e31a6e977c668b62cb9a5ae4",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/odd/odd/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"dfdf5679324f9a81d5b2d0e965af24e5",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>false,
 "jsonmodel_type"=>"note_text",
@@ -482,7 +482,7 @@
 <ptr altrender=\"ead/archdesc/accessrestrict/blockquote/address/addressline/ptrATTRaltrender\" audience=\"external\" id=\"fakeidc925\" target=\"fakeidc91\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/accessrestrict/blockquote/address/addressline/ptrATTRxpointer\"/> 
 <extptr altrender=\"ead/archdesc/accessrestrict/blockquote/address/addressline/extptrATTRaltrender\" audience=\"external\" id=\"fakeidc913\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/accessrestrict/blockquote/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/accessrestrict/blockquote/address/addressline/emphATTRaltrender\" id=\"fakeidc914\" render=\"bold\">ead/archdesc/accessrestrict/blockquote/address/addressline/emph/text()</emph>ead/archdesc/accessrestrict/blockquote/address/addressline/text()\n\n </addressline> 
-</address></blockquote>"}
+</address></blockquote>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>[],
 "enumeration"=>"loweralpha",
@@ -490,14 +490,14 @@
 "type"=>"accessrestrict",
 "persistent_id"=>"fakeidc93",
 "label"=>"ead/archdesc/accessrestrict/table/head/text()",
-"publish"=>false}
+"publish"=>false},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>false,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/accessrestrict/accessrestrict/p/text()"}],
 "type"=>"accessrestrict",
 "persistent_id"=>"fakeidc94",
-"publish"=>false}
+"publish"=>false},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -505,7 +505,7 @@
 <extptr xlink:href=\"#dacs3\"/>ead/archdesc/accessrestrict/legalstatus/text()<emph render=\"bold\">ead/archdesc/accessrestrict/legalstatus/emph/text()</emph>ead/archdesc/accessrestrict/legalstatus/text()<date normal=\"2023-02-07\">ead/archdesc/accessrestrict/legalstatus/date/text()</date>ead/archdesc/accessrestrict/legalstatus/text()"}],
 "type"=>"legalstatus",
 "persistent_id"=>"fakeidc9145",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>false,
 "jsonmodel_type"=>"note_text",
@@ -534,7 +534,7 @@
 <extptr altrender=\"ead/archdesc/accruals/address/addressline/extptrATTRaltrender\" audience=\"external\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/accruals/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/accruals/address/addressline/emphATTRaltrender\" render=\"bold\">ead/archdesc/accruals/address/addressline/emph/text()</emph>ead/archdesc/accruals/address/addressline/text()\n\n </addressline> 
 </address> 
-<note actuate=\"onload\" altrender=\"ead/archdesc/accruals/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/accruals/noteATTRencodinganalog\" label=\"ead/archdesc/accruals/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/accruals/note/p/text()\n\n </note> ead/archdesc/accruals/p/text()"}
+<note actuate=\"onload\" altrender=\"ead/archdesc/accruals/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/accruals/noteATTRencodinganalog\" label=\"ead/archdesc/accruals/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/accruals/note/p/text()\n\n </note> ead/archdesc/accruals/p/text()"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/accruals/chronlist/chronitem/event/origination/title/date/text()",
 "events"=>["ead/archdesc/accruals/chronlist/chronitem/event/text()<emph render=\"bold\">ead/archdesc/accruals/chronlist/chronitem/event/emph/text()</emph>ead/archdesc/accruals/chronlist/chronitem/event/text()<abbr expan=\"ead/archdesc/accruals/chronlist/chronitem/event/abbrATTRexpan\">ead/archdesc/accruals/chronlist/chronitem/event/abbr/text()</abbr> 
@@ -641,10 +641,10 @@
 </tgroup> 
 </table>"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/accruals/chronlist/chronitem/event/table/head/text()"}
+"title"=>"ead/archdesc/accruals/chronlist/chronitem/event/table/head/text()"},
 {"publish"=>false,
 "jsonmodel_type"=>"note_text",
-"content"=>"<blockquote> ead/archdesc/accruals/blockquote/p/text()\n\n </blockquote>"}
+"content"=>"<blockquote> ead/archdesc/accruals/blockquote/p/text()\n\n </blockquote>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -661,28 +661,28 @@
 "type"=>"accruals",
 "label"=>"ead/archdesc/accruals/table/head/text()",
 "persistent_id"=>"50c989deda313afd7c38d0e10d13368b",
-"publish"=>false}
+"publish"=>false},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/accruals/accruals/p/text()"}],
 "type"=>"accruals",
 "persistent_id"=>"b2db98c25b4e237568492466e4a34500",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/accruals/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"6a60e89a4207c14d0996bd2d0141a832",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<head althead=\"ead/archdesc/acqinfo/headATTRalthead\" altrender=\"ead/archdesc/acqinfo/headATTRaltrender\" audience=\"external\">ead/archdesc/acqinfo/head/text()\n\n <emph>ead/archdesc/acqinfo/head/emph/text()</emph> 
 <ptr target=\"fakeidc91\"/> 
 <extptr xlink:href=\"#dacs3\"/> 
-</head> ead/archdesc/acqinfo/p/text()\n\n <note> ead/archdesc/acqinfo/note/p/text()\n\n </note>"}
+</head> ead/archdesc/acqinfo/p/text()\n\n <note> ead/archdesc/acqinfo/note/p/text()\n\n </note>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -695,15 +695,15 @@
 </imprint> 
 <title render=\"italic\">ead/archdesc/acqinfo/list/item/bibref/title/text()</title>ead/archdesc/acqinfo/list/item/bibref/text()</bibref>"],
 "enumeration"=>"arabic",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/acqinfo/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/acqinfo/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/acqinfo/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/acqinfo/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/acqinfo/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/acqinfo/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/acqinfo/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/acqinfo/chronlist/chronitem/event/text()"]}],
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<address> 
@@ -740,14 +740,14 @@
 <ptr target=\"fakeidc91\"/> 
 <extptr xlink:href=\"#dacs3\"/>",
 "persistent_id"=>"82347883940f193bc01d311175d1d27d",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/acqinfo/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"6880efe0685ec132b10ddaf8e0fa8a09",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -755,14 +755,14 @@
 <date type=\"accession\">ead/archdesc/acqinfo/acqinfo/p/date/text()</date>ead/archdesc/acqinfo/acqinfo/p/text()<num type=\"accession\">ead/archdesc/acqinfo/acqinfo/p/num/text()</num>ead/archdesc/acqinfo/acqinfo/p/text()"}],
 "type"=>"acqinfo",
 "persistent_id"=>"1a262721d1a75279dc8b15902955693c",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/acqinfo/acqinfo/p/text()<date normal=\"19580424\">ead/archdesc/acqinfo/acqinfo/p/date/text()</date>ead/archdesc/acqinfo/acqinfo/p/text()"}],
 "type"=>"acqinfo",
 "persistent_id"=>"21bafe6c6e7dbc5916e1846c09db3ff8",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -779,7 +779,7 @@
 <ptr altrender=\"ead/archdesc/altformavail/blockquote/address/addressline/ptrATTRaltrender\" audience=\"external\" target=\"fakeidc91\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/altformavail/blockquote/address/addressline/ptrATTRxpointer\"/> 
 <extptr altrender=\"ead/archdesc/altformavail/blockquote/address/addressline/extptrATTRaltrender\" audience=\"external\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/altformavail/blockquote/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/altformavail/blockquote/address/addressline/emphATTRaltrender\" render=\"bold\">ead/archdesc/altformavail/blockquote/address/addressline/emph/text()</emph>ead/archdesc/altformavail/blockquote/address/addressline/text()\n\n </addressline> 
-</address></blockquote>"}
+</address></blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/origination/title/date/text()",
 "events"=>["ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/text()<emph render=\"bold\">ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/emph/text()</emph>ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/text()<abbr expan=\"ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/abbrATTRexpan\">ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/abbr/text()</abbr> 
@@ -886,11 +886,11 @@
 </tgroup> 
 </table>"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/table/head/text()"}
+"title"=>"ead/archdesc/altformavail/blockquote/chronlist/chronitem/event/table/head/text()"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>[],
 "enumeration"=>"loweralpha",
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<note actuate=\"onload\" altrender=\"ead/archdesc/altformavail/blockquote/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/altformavail/blockquote/noteATTRencodinganalog\" label=\"ead/archdesc/altformavail/blockquote/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/altformavail/blockquote/note/p/text()\n\n </note> 
@@ -910,7 +910,7 @@
 </tbody> 
 </tgroup> 
 </table> 
-</p>"}
+</p>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -927,35 +927,35 @@
 "type"=>"altformavail",
 "label"=>"ead/archdesc/altformavail/table/head/text()",
 "persistent_id"=>"830d021973dd000264ec00b46c8b4ff7",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/altformavail/altformavail/p/text()"}],
 "type"=>"altformavail",
 "persistent_id"=>"84fd7fa9ec3367bf5a466e2e4e95331e",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/altformavail/blockquote/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"f9ccb40f09dee33621b0afc33c026887",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/altformavail/note/p/text()\n\n <note actuate=\"onload\" altrender=\"ead/archdesc/altformavail/note/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/altformavail/note/noteATTRencodinganalog\" label=\"ead/archdesc/altformavail/note/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/altformavail/note/note/p/text()\n\n </note>"}],
 "type"=>"odd",
 "persistent_id"=>"c10a9fd0848683f969c15c7bc372083a",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/altformavail/note/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"b0bfb336b3438c2195bd33177571b4d2",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -963,11 +963,11 @@
 <addressline>ead/archdesc/appraisal/address/addressline/text()</addressline> 
 </address> 
 <appraisal> 
-<head>ead/archdesc/appraisal/appraisal/head/text()</head> ead/archdesc/appraisal/appraisal/p/text()\n\n </appraisal>"}
+<head>ead/archdesc/appraisal/appraisal/head/text()</head> ead/archdesc/appraisal/appraisal/p/text()\n\n </appraisal>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["ead/archdesc/appraisal/list/item/text()"],
 "publish"=>true,
-"title"=>"ead/archdesc/appraisal/list/head/text()"}
+"title"=>"ead/archdesc/appraisal/list/head/text()"},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<blockquote altrender=\"ead/archdesc/appraisal/blockquoteATTRaltrender\" audience=\"external\"> 
@@ -976,7 +976,7 @@
 <ptr altrender=\"ead/archdesc/appraisal/blockquote/address/addressline/ptrATTRaltrender\" audience=\"external\" target=\"fakeidc91\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/appraisal/blockquote/address/addressline/ptrATTRxpointer\"/> 
 <extptr altrender=\"ead/archdesc/appraisal/blockquote/address/addressline/extptrATTRaltrender\" audience=\"external\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/appraisal/blockquote/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/appraisal/blockquote/address/addressline/emphATTRaltrender\" render=\"bold\">ead/archdesc/appraisal/blockquote/address/addressline/emph/text()</emph>ead/archdesc/appraisal/blockquote/address/addressline/text()\n\n </addressline> 
-</address></blockquote>"}
+</address></blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/origination/title/date/text()",
 "events"=>["ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/text()<emph render=\"bold\">ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/emph/text()</emph>ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/text()<abbr expan=\"ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/abbrATTRexpan\">ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/abbr/text()</abbr> 
@@ -1083,11 +1083,11 @@
 </tgroup> 
 </table>"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/table/head/text()"}
+"title"=>"ead/archdesc/appraisal/blockquote/chronlist/chronitem/event/table/head/text()"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>[],
 "enumeration"=>"loweralpha",
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<note actuate=\"onload\" altrender=\"ead/archdesc/appraisal/blockquote/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/appraisal/blockquote/noteATTRencodinganalog\" label=\"ead/archdesc/appraisal/blockquote/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/appraisal/blockquote/note/p/text()\n\n </note> 
@@ -1107,19 +1107,19 @@
 </tbody> 
 </tgroup> 
 </table> 
-</p>"}
+</p>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/appraisal/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/appraisal/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/appraisal/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/appraisal/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/appraisal/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/appraisal/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/appraisal/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/appraisal/chronlist/chronitem/event/text()"]}],
 "publish"=>true}],
 "type"=>"appraisal",
 "label"=>"ead/archdesc/appraisal/table/head/text()",
 "persistent_id"=>"74a8a8e00f7c3aee7426963d76b3b344",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -1127,28 +1127,28 @@
 "type"=>"appraisal",
 "label"=>"ead/archdesc/appraisal/appraisal/head/text()",
 "persistent_id"=>"542f0269a0bc9540507f2d9351cf1fa9",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/appraisal/blockquote/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"acef7c69b4053c310c7a3eb3ddff880c",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/appraisal/note/p/text()\n\n <note actuate=\"onload\" altrender=\"ead/archdesc/appraisal/note/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/appraisal/note/noteATTRencodinganalog\" label=\"ead/archdesc/appraisal/note/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/appraisal/note/note/p/text()\n\n </note>"}],
 "type"=>"odd",
 "persistent_id"=>"d24c6a68f388b26340860f7a8c65b996",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/appraisal/note/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"2392c91db612e9303d4cc65dabec2cd8",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -1162,7 +1162,7 @@
 <ptr altrender=\"ead/archdesc/arrangement/blockquote/address/addressline/ptrATTRaltrender\" audience=\"external\" target=\"fakeid1\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/arrangement/blockquote/address/addressline/ptrATTRxpointer\"/> 
 <extptr altrender=\"ead/archdesc/arrangement/blockquote/address/addressline/extptrATTRaltrender\" audience=\"external\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/arrangement/blockquote/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/arrangement/blockquote/address/addressline/emphATTRaltrender\" render=\"bold\">ead/archdesc/arrangement/blockquote/address/addressline/emph/text()</emph>ead/archdesc/arrangement/blockquote/address/addressline/text()\n\n </addressline> 
-</address></blockquote>"}
+</address></blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/origination/title/date/text()",
 "events"=>["ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/text()<emph render=\"bold\">ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/emph/text()</emph>ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/text()<abbr expan=\"ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/abbrATTRexpan\">ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/abbr/text()</abbr> 
@@ -1269,11 +1269,11 @@
 </tgroup> 
 </table>"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/table/head/text()"}
+"title"=>"ead/archdesc/arrangement/blockquote/chronlist/chronitem/event/table/head/text()"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>[],
 "enumeration"=>"loweralpha",
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<note actuate=\"onload\" altrender=\"ead/archdesc/arrangement/blockquote/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/arrangement/blockquote/noteATTRencodinganalog\" label=\"ead/archdesc/arrangement/blockquote/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/arrangement/blockquote/note/p/text()\n\n </note> 
@@ -1293,7 +1293,7 @@
 </tbody> 
 </tgroup> 
 </table> 
-</p>"}
+</p>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -1310,47 +1310,47 @@
 "type"=>"arrangement",
 "persistent_id"=>"sdu",
 "label"=>"ead/archdesc/arrangement/table/head/text()",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/arrangement/arrangement/p/text()"}],
 "type"=>"arrangement",
 "persistent_id"=>"405e3106227a71f251d9c2dec282a29d",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/arrangement/blockquote/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"b80e8ae9ad783ee15ca6f19ce17199af",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/arrangement/note/p/text()\n\n <note actuate=\"onload\" altrender=\"ead/archdesc/arrangement/note/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/arrangement/note/noteATTRencodinganalog\" label=\"ead/archdesc/arrangement/note/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/arrangement/note/note/p/text()\n\n </note>"}],
 "type"=>"odd",
 "persistent_id"=>"1712504b7a6c82811ffc2f9ff1e290dc",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/arrangement/note/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"865ff17e1f3b2dc2d1b21a765b1a4489",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/bibliography/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/bibliography/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/bibliography/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/bibliography/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/bibliography/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/bibliography/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/bibliography/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/bibliography/chronlist/chronitem/event/text()"]}],
 "publish"=>true}],
 "type"=>"chronlist",
 "persistent_id"=>"7a295e9fc42ed58629610e7bdff2c779",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
@@ -1367,7 +1367,7 @@
 "publish"=>true}],
 "type"=>"odd",
 "persistent_id"=>"59dbc4daff269cc3bc6d1abb8c0e7b80",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_bibliography",
 "content"=>[],
 "items"=>["<title render=\"italic\">ead/archdesc/bibliography/bibliography/bibref/title/text()</title>ead/archdesc/bibliography/bibliography/bibref/text()",
@@ -1376,7 +1376,7 @@
 "ead/archdesc/bibliography/bibliography/bibref/text()<title render=\"italic\">ead/archdesc/bibliography/bibliography/bibref/title/text()</title>ead/archdesc/bibliography/bibliography/bibref/text()"],
 "label"=>"ead/archdesc/bibliography/bibliography/head/text()",
 "persistent_id"=>"e341142b703328f0c6175149720170c7",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_bibliography",
 "content"=>["ead/archdesc/bibliography/blockquote/p/text()",
 "ead/archdesc/bibliography/note/p/text()",
@@ -1384,7 +1384,7 @@
 "items"=>[],
 "persistent_id"=>"bib1",
 "label"=>"ead/archdesc/bibliography/table/head/text()",
-"publish"=>false}
+"publish"=>false},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -1398,15 +1398,15 @@
 <addressline>ead/archdesc/bioghist/address/addressline/text()</addressline> 
 </address> 
 <bioghist> ead/archdesc/bioghist/bioghist/p/text()\n\n </bioghist> 
-<blockquote> ead/archdesc/bioghist/blockquote/p/text()\n\n </blockquote>"}
+<blockquote> ead/archdesc/bioghist/blockquote/p/text()\n\n </blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/bioghist/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/bioghist/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/bioghist/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/bioghist/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/bioghist/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/bioghist/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/bioghist/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/bioghist/chronlist/chronitem/event/text()"]}],
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<dao xlink:href=\"bioghist-images/shieldlogo.jpg\" xlink:show=\"new\" xlink:title=\"Princeton University Archives\" xlink:type=\"simple\"/> 
@@ -1415,7 +1415,7 @@
 <resource xlink:label=\"start\" xlink:type=\"resource\">ead/archdesc/bioghist/daogrp/resource/text()</resource> 
 <daoloc xlink:href=\"f0042_1tmb\" xlink:label=\"thumb\" xlink:type=\"locator\"/> 
 <arc xlink:actuate=\"onLoad\" xlink:from=\"start\" xlink:show=\"embed\" xlink:to=\"thumb\" xlink:type=\"arc\"/> 
-</daogrp>"}
+</daogrp>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -1428,7 +1428,7 @@
 </imprint> 
 <title render=\"italic\">ead/archdesc/bioghist/list/item/bibref/title/text()</title>ead/archdesc/bioghist/list/item/bibref/text()</bibref>"],
 "enumeration"=>"arabic",
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<note> ead/archdesc/bioghist/note/p/text()\n\n </note> 
@@ -1456,56 +1456,56 @@
 "type"=>"bioghist",
 "persistent_id"=>"MC001.01_b1",
 "label"=>"ead/archdesc/bioghist/head/text()",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/bioghist/bioghist/p/text()"}],
 "type"=>"bioghist",
 "persistent_id"=>"a666986ea6acb6af11fd93997ed5492d",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/bioghist/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"1f51fa34a679e3606317c82c4815cc45",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/bioghist/p/text()"}],
 "type"=>"bioghist",
 "persistent_id"=>"8e19245a78fb13764d5ab553754b6a81",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/scopecontent/p/text()"}],
 "type"=>"scopecontent",
 "persistent_id"=>"5cf09706923ec4efdd6e0a5e971e6457",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/arrangement/p/text()"}],
 "type"=>"arrangement",
 "persistent_id"=>"327fe88f2eb9539f768791e69dab3fd4",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"0f6a0d6e7053447e7505e78688d12112",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/odd/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"df5a49ca60cb9acf60792b88ac3291f0",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>false,
 "jsonmodel_type"=>"note_text",
@@ -1525,7 +1525,7 @@
 <ptr altrender=\"ead/archdesc/descgrp/accessrestrict/blockquote/address/addressline/ptrATTRaltrender\" audience=\"external\" id=\"fakeidc925x1\" target=\"fakeidc91\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/descgrp/accessrestrict/blockquote/address/addressline/ptrATTRxpointer\"/> 
 <extptr altrender=\"ead/archdesc/descgrp/accessrestrict/blockquote/address/addressline/extptrATTRaltrender\" audience=\"external\" id=\"fakeidc913x1\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/descgrp/accessrestrict/blockquote/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/descgrp/accessrestrict/blockquote/address/addressline/emphATTRaltrender\" id=\"fakeidc914x1\" render=\"bold\">ead/archdesc/descgrp/accessrestrict/blockquote/address/addressline/emph/text()</emph>ead/archdesc/descgrp/accessrestrict/blockquote/address/addressline/text()\n\n </addressline> 
-</address></blockquote>"}
+</address></blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/origination/title/date/text()",
 "events"=>["ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/text()<emph render=\"bold\">ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/emph/text()</emph>ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/text()<abbr expan=\"ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/abbrATTRexpan\">ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/abbr/text()</abbr> 
@@ -1632,11 +1632,11 @@
 </tgroup> 
 </table>"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/table/head/text()"}
+"title"=>"ead/archdesc/descgrp/accessrestrict/blockquote/chronlist/chronitem/event/table/head/text()"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>[],
 "enumeration"=>"loweralpha",
-"publish"=>true}
+"publish"=>true},
 {"publish"=>false,
 "jsonmodel_type"=>"note_text",
 "content"=>"<note actuate=\"onload\" altrender=\"ead/archdesc/descgrp/accessrestrict/blockquote/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/descgrp/accessrestrict/blockquote/noteATTRencodinganalog\" id=\"fakeidc9x175\" label=\"ead/archdesc/descgrp/accessrestrict/blockquote/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/descgrp/accessrestrict/blockquote/note/p/text()\n\n </note> 
@@ -1656,7 +1656,7 @@
 </tbody> 
 </tgroup> 
 </table> 
-</p>"}
+</p>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>[],
 "enumeration"=>"loweralpha",
@@ -1664,14 +1664,14 @@
 "type"=>"accessrestrict",
 "persistent_id"=>"fakeidc93x1",
 "label"=>"ead/archdesc/descgrp/accessrestrict/table/head/text()",
-"publish"=>false}
+"publish"=>false},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>false,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/accessrestrict/accessrestrict/p/text()"}],
 "type"=>"accessrestrict",
 "persistent_id"=>"fakeidc94x1",
-"publish"=>false}
+"publish"=>false},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -1679,7 +1679,7 @@
 <extptr xlink:href=\"#dacs3\"/>ead/archdesc/descgrp/accessrestrict/legalstatus/text()<emph render=\"bold\">ead/archdesc/descgrp/accessrestrict/legalstatus/emph/text()</emph>ead/archdesc/descgrp/accessrestrict/legalstatus/text()<date normal=\"2023-02-07\">ead/archdesc/descgrp/accessrestrict/legalstatus/date/text()</date>ead/archdesc/descgrp/accessrestrict/legalstatus/text()"}],
 "type"=>"legalstatus",
 "persistent_id"=>"fakeidc9145x1",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>false,
 "jsonmodel_type"=>"note_text",
@@ -1708,7 +1708,7 @@
 <extptr altrender=\"ead/archdesc/descgrp/accruals/address/addressline/extptrATTRaltrender\" audience=\"external\" id=\"fakeidc9800\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/descgrp/accruals/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/descgrp/accruals/address/addressline/emphATTRaltrender\" id=\"fakeidc9900\" render=\"bold\">ead/archdesc/descgrp/accruals/address/addressline/emph/text()</emph>ead/archdesc/descgrp/accruals/address/addressline/text()\n\n </addressline> 
 </address> 
-<note actuate=\"onload\" altrender=\"ead/archdesc/descgrp/accruals/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/descgrp/accruals/noteATTRencodinganalog\" id=\"fakeidc9253\" label=\"ead/archdesc/descgrp/accruals/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/descgrp/accruals/note/p/text()\n\n </note> ead/archdesc/descgrp/accruals/p/text()"}
+<note actuate=\"onload\" altrender=\"ead/archdesc/descgrp/accruals/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/descgrp/accruals/noteATTRencodinganalog\" id=\"fakeidc9253\" label=\"ead/archdesc/descgrp/accruals/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/descgrp/accruals/note/p/text()\n\n </note> ead/archdesc/descgrp/accruals/p/text()"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/descgrp/accruals/chronlist/chronitem/event/origination/title/date/text()",
 "events"=>["ead/archdesc/descgrp/accruals/chronlist/chronitem/event/text()<emph render=\"bold\">ead/archdesc/descgrp/accruals/chronlist/chronitem/event/emph/text()</emph>ead/archdesc/descgrp/accruals/chronlist/chronitem/event/text()<abbr expan=\"ead/archdesc/descgrp/accruals/chronlist/chronitem/event/abbrATTRexpan\">ead/archdesc/descgrp/accruals/chronlist/chronitem/event/abbr/text()</abbr> 
@@ -1815,10 +1815,10 @@
 </tgroup> 
 </table>"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/descgrp/accruals/chronlist/chronitem/event/table/head/text()"}
+"title"=>"ead/archdesc/descgrp/accruals/chronlist/chronitem/event/table/head/text()"},
 {"publish"=>false,
 "jsonmodel_type"=>"note_text",
-"content"=>"<blockquote> ead/archdesc/descgrp/accruals/blockquote/p/text()\n\n </blockquote>"}
+"content"=>"<blockquote> ead/archdesc/descgrp/accruals/blockquote/p/text()\n\n </blockquote>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -1835,28 +1835,28 @@
 "type"=>"accruals",
 "persistent_id"=>"fakeidc9300",
 "label"=>"ead/archdesc/descgrp/accruals/table/head/text()",
-"publish"=>false}
+"publish"=>false},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/accruals/accruals/p/text()"}],
 "type"=>"accruals",
 "persistent_id"=>"d119d7df922bd8ecf896cdb767826bb3",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/accruals/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"fakeidc9253",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<head althead=\"ead/archdesc/descgrp/acqinfo/headATTRalthead\" altrender=\"ead/archdesc/descgrp/acqinfo/headATTRaltrender\" audience=\"external\" id=\"fakeidc93011\">ead/archdesc/descgrp/acqinfo/head/text()\n\n <emph>ead/archdesc/descgrp/acqinfo/head/emph/text()</emph> 
 <ptr target=\"fakeidc91\"/> 
 <extptr xlink:href=\"#dacs3\"/> 
-</head> ead/archdesc/descgrp/acqinfo/p/text()"}
+</head> ead/archdesc/descgrp/acqinfo/p/text()"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -1869,15 +1869,15 @@
 </imprint> 
 <title render=\"italic\">ead/archdesc/descgrp/acqinfo/list/item/bibref/title/text()</title>ead/archdesc/descgrp/acqinfo/list/item/bibref/text()</bibref>"],
 "enumeration"=>"arabic",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/descgrp/acqinfo/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/descgrp/acqinfo/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/descgrp/acqinfo/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/descgrp/acqinfo/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/descgrp/acqinfo/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/descgrp/acqinfo/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/descgrp/acqinfo/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/descgrp/acqinfo/chronlist/chronitem/event/text()"]}],
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<address> 
@@ -1914,7 +1914,7 @@
 "label"=>"ead/archdesc/descgrp/acqinfo/head/text()\n\n<emph>ead/archdesc/descgrp/acqinfo/head/emph/text()</emph> 
 <ptr target=\"fakeidc91\"/> 
 <extptr xlink:href=\"#dacs3\"/>",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -1922,82 +1922,82 @@
 <date type=\"accession\">ead/archdesc/descgrp/acqinfo/acqinfo/p/date/text()</date>ead/archdesc/descgrp/acqinfo/acqinfo/p/text()<num type=\"accession\">ead/archdesc/descgrp/acqinfo/acqinfo/p/num/text()</num>ead/archdesc/descgrp/acqinfo/acqinfo/p/text()"}],
 "type"=>"acqinfo",
 "persistent_id"=>"c27ce39342ec8475823ac7b5c993b79b",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/acqinfo/acqinfo/p/text()<date normal=\"19580424\">ead/archdesc/descgrp/acqinfo/acqinfo/p/date/text()</date>ead/archdesc/descgrp/acqinfo/acqinfo/p/text()"}],
 "type"=>"acqinfo",
 "persistent_id"=>"e4b012e17855622017bd46b8f376f826",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<extref xlink:href=\"http://copyright.princeton.edu/basics/fair-use\" xlink:type=\"simple\">ead/archdesc/descgrp/userestrict/p/extref/text()</extref> \n\n ead/archdesc/descgrp/userestrict/p/text()"}],
 "type"=>"userestrict",
 "persistent_id"=>"9be3c8aee572ce11c7000f9b0f102954",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<extref xlink:href=\"https://webspace.princeton.edu/xythoswfs/webview/_xy-3062581_1\" xlink:type=\"simple\">ead/archdesc/descgrp/otherfindaid/p/extref/text()</extref> \n\n ead/archdesc/descgrp/otherfindaid/p/text()"}],
 "type"=>"otherfindaid",
 "persistent_id"=>"1f81ff2c816560d391247ab28c3f6e1b",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/processinfo/p/text()"}],
 "type"=>"processinfo",
 "persistent_id"=>"9a8b4b03e22ff9f390efd410ccc43b99",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/relatedmaterial/p/text()"}],
 "type"=>"relatedmaterial",
 "persistent_id"=>"f9daf105f2f7db261de00a2c95376ffb",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/custodhist/p/text()"}],
 "type"=>"custodhist",
 "persistent_id"=>"2c210114ba7f9233e7bbca1bdb1dc41d",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/acqinfo/p/text()"}],
 "type"=>"acqinfo",
 "persistent_id"=>"40d1f44839de03b86ec9d6aa07a4a684",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/appraisal/p/text()"}],
 "type"=>"appraisal",
 "persistent_id"=>"685e7d4c449077d0e85edb8afd294ead",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_bibliography",
 "content"=>["ead/archdesc/descgrp/bibliography/p/text()"],
 "items"=>[],
 "persistent_id"=>"0d91993112cb7d484b2b60d1835a42cb",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/originalsloc/p/text()"}],
 "type"=>"originalsloc",
 "persistent_id"=>"400d78ee0120758272314ef368a852d8",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/separatedmaterial/p/text()"}],
 "type"=>"separatedmaterial",
 "persistent_id"=>"fd8e3cb91bcf7f7a36b9d27b9a314dfe",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -2013,7 +2013,7 @@
 <ptr altrender=\"ead/archdesc/descgrp/altformavail/blockquote/address/addressline/ptrATTRaltrender\" audience=\"external\" id=\"fakeidc92x15x1\" target=\"fakeidc91\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/descgrp/altformavail/blockquote/address/addressline/ptrATTRxpointer\"/> 
 <extptr altrender=\"ead/archdesc/descgrp/altformavail/blockquote/address/addressline/extptrATTRaltrender\" audience=\"external\" id=\"fakeidc913x1x1\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/descgrp/altformavail/blockquote/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/descgrp/altformavail/blockquote/address/addressline/emphATTRaltrender\" id=\"fakeidc91x14x1\" render=\"bold\">ead/archdesc/descgrp/altformavail/blockquote/address/addressline/emph/text()</emph>ead/archdesc/descgrp/altformavail/blockquote/address/addressline/text()\n\n </addressline> 
-</address></blockquote>"}
+</address></blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/origination/title/date/text()",
 "events"=>["ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/text()<emph render=\"bold\">ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/emph/text()</emph>ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/text()<abbr expan=\"ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/abbrATTRexpan\">ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/abbr/text()</abbr> 
@@ -2120,11 +2120,11 @@
 </tgroup> 
 </table>"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/table/head/text()"}
+"title"=>"ead/archdesc/descgrp/altformavail/blockquote/chronlist/chronitem/event/table/head/text()"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>[],
 "enumeration"=>"loweralpha",
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<note actuate=\"onload\" altrender=\"ead/archdesc/descgrp/altformavail/blockquote/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/descgrp/altformavail/blockquote/noteATTRencodinganalog\" id=\"fakeidc975x1\" label=\"ead/archdesc/descgrp/altformavail/blockquote/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/descgrp/altformavail/blockquote/note/p/text()\n\n </note> 
@@ -2144,7 +2144,7 @@
 </tbody> 
 </tgroup> 
 </table> 
-</p>"}
+</p>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -2161,28 +2161,28 @@
 "type"=>"altformavail",
 "persistent_id"=>"alt1",
 "label"=>"ead/archdesc/descgrp/altformavail/table/head/text()",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/altformavail/blockquote/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"fakeidc975x1",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/altformavail/note/p/text()\n\n <note actuate=\"onload\" altrender=\"ead/archdesc/descgrp/altformavail/note/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/descgrp/altformavail/note/noteATTRencodinganalog\" id=\"fakeidc935x2\" label=\"ead/archdesc/descgrp/altformavail/note/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/descgrp/altformavail/note/note/p/text()\n\n </note>"}],
 "type"=>"odd",
 "persistent_id"=>"fakeidc936x2",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/altformavail/note/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"fakeidc935x2",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -2192,7 +2192,7 @@
 <ptr altrender=\"ead/archdesc/descgrp/appraisal/blockquote/address/addressline/ptrATTRaltrender\" audience=\"external\" target=\"fakeidc91\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/descgrp/appraisal/blockquote/address/addressline/ptrATTRxpointer\"/> 
 <extptr altrender=\"ead/archdesc/descgrp/appraisal/blockquote/address/addressline/extptrATTRaltrender\" audience=\"external\" xlink:actuate=\"onLoad\" xlink:arcrole=\"arcrole\" xlink:href=\"#MC001.01_b1\" xlink:role=\"role\" xlink:show=\"embed\" xlink:title=\"External Pointer Title\" xlink:type=\"simple\" xpointer=\"ead/archdesc/descgrp/appraisal/blockquote/address/addressline/extptrATTRxpointer\"/> 
 <emph altrender=\"ead/archdesc/descgrp/appraisal/blockquote/address/addressline/emphATTRaltrender\" render=\"bold\">ead/archdesc/descgrp/appraisal/blockquote/address/addressline/emph/text()</emph>ead/archdesc/descgrp/appraisal/blockquote/address/addressline/text()\n\n </addressline> 
-</address></blockquote>"}
+</address></blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/origination/title/date/text()",
 "events"=>["ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/text()<emph render=\"bold\">ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/emph/text()</emph>ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/text()<abbr expan=\"ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/abbrATTRexpan\">ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/abbr/text()</abbr> 
@@ -2299,11 +2299,11 @@
 </tgroup> 
 </table>"]}],
 "publish"=>true,
-"title"=>"ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/table/head/text()"}
+"title"=>"ead/archdesc/descgrp/appraisal/blockquote/chronlist/chronitem/event/table/head/text()"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>[],
 "enumeration"=>"loweralpha",
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<note actuate=\"onload\" altrender=\"ead/archdesc/descgrp/appraisal/blockquote/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/descgrp/appraisal/blockquote/noteATTRencodinganalog\" label=\"ead/archdesc/descgrp/appraisal/blockquote/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/descgrp/appraisal/blockquote/note/p/text()\n\n </note> 
@@ -2323,54 +2323,54 @@
 </tbody> 
 </tgroup> 
 </table> 
-</p>"}
+</p>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/descgrp/appraisal/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/descgrp/appraisal/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/descgrp/appraisal/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/descgrp/appraisal/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/descgrp/appraisal/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/descgrp/appraisal/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/descgrp/appraisal/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/descgrp/appraisal/chronlist/chronitem/event/text()"]}],
 "publish"=>true}],
 "type"=>"appraisal",
 "persistent_id"=>"f34",
 "label"=>"ead/archdesc/descgrp/appraisal/table/head/text()",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/appraisal/blockquote/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"d583d816b5c8f7d1fe9739541a59c562",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/appraisal/note/p/text()\n\n <note actuate=\"onload\" altrender=\"ead/archdesc/descgrp/appraisal/note/noteATTRaltrender\" audience=\"external\" encodinganalog=\"ead/archdesc/descgrp/appraisal/note/noteATTRencodinganalog\" label=\"ead/archdesc/descgrp/appraisal/note/noteATTRlabel\" show=\"embed\" type=\"general\"> ead/archdesc/descgrp/appraisal/note/note/p/text()\n\n </note>"}],
 "type"=>"odd",
 "persistent_id"=>"10e3616e2776a80752c2b6c3861d7746",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/appraisal/note/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"ce16973dbe658235fd9d6e683fc220df",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/prefercite/p/text()"}],
 "type"=>"prefercite",
 "persistent_id"=>"a50479a71546e8f3c87154bcd8685c3f",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/descgrp/phystech/p/text()"}],
 "type"=>"phystech",
 "persistent_id"=>"dbbc40f126681aa1afa65b021be8ff52",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
@@ -2384,18 +2384,18 @@
 <addressline>ead/archdesc/custodhist/address/addressline/text()</addressline> 
 <addressline>ead/archdesc/custodhist/address/addressline/text()</addressline> 
 </address> 
-<blockquote> ead/archdesc/custodhist/blockquote/p/text()\n\n </blockquote>"}
+<blockquote> ead/archdesc/custodhist/blockquote/p/text()\n\n </blockquote>"},
 {"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/custodhist/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/custodhist/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/custodhist/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/custodhist/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/custodhist/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/custodhist/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/custodhist/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/custodhist/chronlist/chronitem/event/text()"]}],
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
-"content"=>"<custodhist> ead/archdesc/custodhist/custodhist/p/text()\n\n </custodhist>"}
+"content"=>"<custodhist> ead/archdesc/custodhist/custodhist/p/text()\n\n </custodhist>"},
 {"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
 <imprint> 
@@ -2408,7 +2408,7 @@
 </imprint> 
 <title render=\"italic\">ead/archdesc/custodhist/list/item/bibref/title/text()</title>ead/archdesc/custodhist/list/item/bibref/text()</bibref>"],
 "enumeration"=>"arabic",
-"publish"=>true}
+"publish"=>true},
 {"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"<table frame=\"none\"> 
@@ -2436,40 +2436,40 @@
 "type"=>"custodhist",
 "persistent_id"=>"sdf",
 "label"=>"ead/archdesc/custodhist/head/text()",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/custodhist/acqinfo/p/text()"}],
 "type"=>"acqinfo",
 "persistent_id"=>"0e70c6bb5ce770ff551ccfb948785510",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/custodhist/custodhist/p/text()"}],
 "type"=>"custodhist",
 "persistent_id"=>"670557adf5bf251707eff271f26f8ae2",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"publish"=>true,
 "jsonmodel_type"=>"note_text",
 "content"=>"ead/archdesc/custodhist/note/p/text()"}],
 "type"=>"odd",
 "persistent_id"=>"628fcbb7992a750fcab17594d9c31df6",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"jsonmodel_type"=>"note_chronology",
 "items"=>[{"event_date"=>"ead/archdesc/controlaccess/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/controlaccess/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/controlaccess/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/controlaccess/chronlist/chronitem/date/text()",
-"events"=>["ead/archdesc/controlaccess/chronlist/chronitem/event/text()"]}
+"events"=>["ead/archdesc/controlaccess/chronlist/chronitem/event/text()"]},
 {"event_date"=>"ead/archdesc/controlaccess/chronlist/chronitem/date/text()",
 "events"=>["ead/archdesc/controlaccess/chronlist/chronitem/event/text()"]}],
 "publish"=>true}],
 "type"=>"chronlist",
 "persistent_id"=>"a7c7d20483945bce1d1fc0d60ec064f1",
-"publish"=>true}
+"publish"=>true},
 {"jsonmodel_type"=>"note_multipart",
 "subnotes"=>[{"jsonmodel_type"=>"note_orderedlist",
 "items"=>["<bibref> 
@@ -2490,7 +2490,88 @@
 "metadata_rights_declarations"=>[],
 "uri"=>"/repositories/5/resources/37",
 "repository"=>{"ref"=>"/repositories/5"},
-"tree"=>{"ref"=>"/repositories/5/resources/37/tree"},
+"tree"=>{"ref"=>"/repositories/5/resources/37/tree",
+"_resolved"=>{"title"=>"ead/archdesc/did/unittitle/text()",
+"id"=>37,
+"node_type"=>"resource",
+"publish"=>true,
+"suppressed"=>false,
+"children"=>[{"title"=>"ead/archdesc/dsc/c/did/unittitle/text(), ead/archdesc/dsc/c/did/unitdate/text()",
+"id"=>17599,
+"record_uri"=>"/repositories/5/archival_objects/17599",
+"publish"=>true,
+"suppressed"=>false,
+"node_type"=>"archival_object",
+"level"=>"series",
+"instance_types"=>["digital_object",
+"digital_object"],
+"containers"=>[],
+"has_children"=>true,
+"children"=>[{"title"=>"ead/archdesc/dsc/c/c/did/unittitle/text(), ead/archdesc/dsc/c/c/did/unitdate/text()",
+"id"=>17603,
+"record_uri"=>"/repositories/5/archival_objects/17603",
+"publish"=>true,
+"suppressed"=>false,
+"node_type"=>"archival_object",
+"level"=>"file",
+"instance_types"=>["mixed_materials",
+"digital_object",
+"digital_object"],
+"has_children"=>false,
+"children"=>[],
+"containers"=>[]},
+{"title"=>"ead/archdesc/dsc/c/c/did/unittitle/text(), ead/archdesc/dsc/c/c/did/unitdate/text()<title>ead/archdesc/dsc/c/c/did/unitdate/title/text()</title>",
+"id"=>17604,
+"record_uri"=>"/repositories/5/archival_objects/17604",
+"publish"=>true,
+"suppressed"=>false,
+"node_type"=>"archival_object",
+"level"=>"file",
+"has_children"=>false,
+"children"=>[],
+"instance_types"=>[],
+"containers"=>[]}]},
+{"title"=>"unittitle or unitdate are required",
+"id"=>17600,
+"record_uri"=>"/repositories/5/archival_objects/17600",
+"publish"=>true,
+"suppressed"=>false,
+"node_type"=>"archival_object",
+"component_id"=>"ead/archdesc/dsc/c/did/unitid/text()",
+"level"=>"physicalitem",
+"instance_types"=>["mixed_materials"],
+"has_children"=>false,
+"children"=>[],
+"containers"=>[]},
+{"title"=>"unittitle or unitdate are required",
+"id"=>17601,
+"record_uri"=>"/repositories/5/archival_objects/17601",
+"publish"=>true,
+"suppressed"=>false,
+"node_type"=>"archival_object",
+"component_id"=>"ead/archdesc/dsc/c/did/unitid/text()",
+"level"=>"physicalitem",
+"instance_types"=>["mixed_materials"],
+"has_children"=>false,
+"children"=>[],
+"containers"=>[]},
+{"title"=>"unittitle or unitdate are required",
+"id"=>17602,
+"record_uri"=>"/repositories/5/archival_objects/17602",
+"publish"=>true,
+"suppressed"=>false,
+"node_type"=>"archival_object",
+"component_id"=>"ead/archdesc/dsc/c/did/unitid/text()",
+"level"=>"physicalitem",
+"instance_types"=>["mixed_materials"],
+"has_children"=>false,
+"children"=>[],
+"containers"=>[]}],
+"record_uri"=>"/repositories/5/resources/37",
+"level"=>"collection",
+"jsonmodel_type"=>"resource_tree",
+"instance_types"=>[],
+"containers"=>[]}},
 "ark_name"=>{"previous"=>[],
 "current"=>"https://test.archivesspace.org//ark:/99999/10016",
 "current_is_external"=>false}}

@@ -1,4 +1,4 @@
-This file will eventually include every node pair allowed in EAD2002 with the exception of 
+This file includes every node pair allowed in EAD2002 that imports in v3.1 with the exception of 
 - eadgrp
 - archdescgrp
 - dscgrp 
